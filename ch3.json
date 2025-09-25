@@ -1,0 +1,255 @@
+{
+    "章タイトル": "第3章：助動詞",
+    "章の説明": "助動詞は、話者の心の「ニュアンス」を表現するための重要なツールです。事実を述べるだけでなく、「可能性」「推量」「提案」「義務」といった話者の考えや態度を伝えることで、コミュニケーションがより円滑で丁寧になります。特に質疑応答での丁寧な質問や、自信の度合いを示しながらの回答で頻繁に使われます。",
+    "セクション": [
+        {
+            "セクションタイトル": "can / could (能力・可能性・依頼)",
+            "セクションの説明": "「できる」という能力や可能性を示すcan、そしてcanの過去形だけでなく、より丁寧な依頼や可能性の度合いを弱めた推量を表すcouldの使い方をマスターします。",
+            "例文": [
+                {
+                    "日本語": "私たちのシステムは、1秒あたり30フレーム以上で点群をレンダリングできます。",
+                    "英語": "Our system can render the point cloud at over 30 frames per second.",
+                    "ポイント": "システムの「能力」を明確に示すcanです。"
+                },
+                {
+                    "日本語": "もう少し詳しく、そのマルチビュー設定について説明していただけますか？",
+                    "英語": "Could you please explain a bit more about that multi-view setup?",
+                    "ポイント": "Can you...?よりも丁寧で、相手への配慮を示す依頼のCouldです。"
+                },
+                {
+                    "日本語": "その誤差は、RGB-Dセンサーのノイズが原因である可能性があります。",
+                    "英語": "I think that error could be a result of the noise from the RGB-D sensor.",
+                    "ポイント": "断定を避け、「～という可能性もあり得る」という柔らかい推測を示すcouldです。"
+                },
+                {
+                    "日本語": "この手法を使えば、ライトフィールドデータから遮蔽領域を検出できます。",
+                    "英語": "We can detect occluded regions from the light field data using this method.",
+                    "ポイント": "手法の「能力」や「実現可能なこと」を示すcanです。"
+                },
+                {
+                    "日本語": "リアルタイムでの処理は、非常に困難なものになり得ます。",
+                    "英語": "Real-time processing can be very challenging, especially on mobile devices.",
+                    "ポイント": "「時には～なこともある」という一般的な可能性を示すcanです。"
+                },
+                {
+                    "日本語": "その結果について、1つ質問してもよろしいでしょうか？",
+                    "英語": "Could I ask a question regarding that last result you showed?",
+                    "ポイント": "「～してもいいですか？」と相手に許可を求める、丁寧な依頼のCouldです。"
+                },
+                {
+                    "日本語": "ARマーカーなしでは、安定したトラッキングは実現できません。",
+                    "英語": "We cannot achieve stable tracking for our AR system without any markers.",
+                    "ポイント": "「能力的に不可能である」とはっきり述べるcannotです。"
+                },
+                {
+                    "日本語": "より高解像度のカメラを使えば、点群の密度を改善できたかもしれません。",
+                    "英語": "We could have improved the point cloud density if we had used higher-resolution cameras.",
+                    "ポイント": "「(実際はしなかったが)～できた可能性がある」という過去の可能性を述べるcould have + 過去分詞です。"
+                },
+                {
+                    "日本語": "このアプローチで、どれくらい性能が向上するか教えていただけますか？",
+                    "英語": "Can you tell me how much performance improvement this approach provides?",
+                    "ポイント": "相手に情報を求める、ストレートな依頼のCanです。"
+                },
+                {
+                    "日本語": "計算時間を短縮するために、何かできることはありますか？",
+                    "英語": "Is there anything we can do to reduce the overall computation time?",
+                    "ポイント": "「実行可能なこと」があるかどうかを尋ねるcanです。"
+                },
+                {
+                    "日本語": "この研究は、拡張現実の新たな応用につながる可能性があります。",
+                    "英語": "This research could lead to new applications in the field of augmented reality.",
+                    "ポイント": "未来の「可能性」を、断定せずに示唆するcouldです。"
+                },
+                {
+                    "日本語": "申し訳ありません、その質問がよく聞き取れませんでした。",
+                    "英語": "I'm sorry, I couldn't hear your question very well.",
+                    "ポイント": "「できなかった」という過去の能力の否定を表すcouldn'tです。"
+                },
+                {
+                    "日本語": "同じ手法をライトフィールドのデータセットにも適用できますか？",
+                    "英語": "Can we apply the same methodology to a light field dataset as well?",
+                    "ポイント": "適用可能性について尋ねるcanの疑問文です。"
+                },
+                {
+                    "日本語": "そのアイデアは面白いですが、リアルタイムシステムに組み込むことはできないでしょう。",
+                    "英語": "That's an interesting idea, but I don't think we can incorporate it into a real-time system.",
+                    "ポイント": "「能力的にできない」という自分の意見を表明するcanです。"
+                },
+                {
+                    "日本語": "この結果は、マルチビュー設定が最適ではなかったことを示唆しているのかもしれません。",
+                    "英語": "This result could suggest that our multi-view setup was not optimal.",
+                    "ポイント": "結果の解釈について、可能性の一つとして控えめに述べるcouldです。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "may / might (推量・可能性)",
+            "セクションの説明": "「～かもしれない」という推量や可能性を表します。mightはmayよりも確信度が低いニュアンスです。科学的な議論で、断定を避けて客観性を示すために非常に重要です。",
+            "例文": [
+                {
+                    "日本語": "そのエラーは、カメラ間の同期が原因かもしれません。",
+                    "英語": "The error may stem from the lack of synchronization between the cameras.",
+                    "ポイント": "原因について「～かもしれない」と客観的な可能性を示すmayです。"
+                },
+                {
+                    "日本語": "深層学習を使えば精度は向上するかもしれませんが、大量のデータが必要になります。",
+                    "英語": "A deep learning approach might improve the accuracy, but it would require a large dataset.",
+                    "ポイント": "mayより確信度が低い「～ということもあり得る」という可能性を示すmightです。"
+                },
+                {
+                    "日本語": "この結果は、私たちのARシステムにとって新しい可能性を開くかもしれません。",
+                    "英語": "We feel this result may open up new possibilities for our real-time AR system.",
+                    "ポイント": "今後の展望について、控えめに可能性を述べるmayです。"
+                },
+                {
+                    "日本語": "ご質問の意図を誤解しているかもしれませんが、…",
+                    "英語": "I may be misunderstanding your point, but I think...",
+                    "ポイント": "自分の意見を述べる前に「誤解かもしれませんが」と前置きする丁寧な表現です。"
+                },
+                {
+                    "日本語": "将来的には、点群の代わりにライトフィールドを使うことになるかもしれません。",
+                    "英語": "In the future, we might use light fields instead of point clouds for rendering.",
+                    "ポイント": "遠い未来の不確実な可能性について述べるmightです。"
+                },
+                {
+                    "日本語": "その異常値は、RGB-Dセンサーの一時的な故障が原因だったのかもしれません。",
+                    "英語": "That outlier might have been caused by a temporary malfunction of the RGB-D sensor.",
+                    "ポイント": "過去の出来事の原因について、不確かな推測を述べるmight have + 過去分詞です。"
+                },
+                {
+                    "日本語": "その点については、さらなる分析が必要になるかもしれません。",
+                    "英語": "Further analysis may be required to fully understand that specific point.",
+                    "ポイント": "今後の必要性について、可能性として述べるmayです。"
+                },
+                {
+                    "日本語": "それは興味深い観察ですが、私たちの結論には影響しないかもしれません。",
+                    "英語": "That is an interesting observation, but it might not affect our final conclusion.",
+                    "ポイント": "可能性を否定する、控えめな表現のmight notです。"
+                },
+                {
+                    "日本語": "このマルチビューデータセットは、他の研究者にとっても有用かもしれません。",
+                    "英語": "This multi-view dataset may prove useful for other researchers in this field.",
+                    "ポイント": "「～だと判明するかもしれない」という可能性を示すmay prove...です。"
+                },
+                {
+                    "日本語": "私たちの知る限り、これはリアルタイムARで試みられた最初の事例かもしれません。",
+                    "英語": "To our knowledge, this may be the first attempt to do this in real-time AR.",
+                    "ポイント": "「かもしれない」と断定を避けつつ、研究の新規性を主張するmayです。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "will / would (意志・丁寧な表現)",
+            "セクションの説明": "単純な未来を表すwillだけでなく、「～したいのですが」という丁寧な依頼や、「私なら～と主張します」といった仮定的な意見表明で使われるwouldが、議論において洗練された印象を与えます。",
+            "例文": [
+                {
+                    "日本語": "その点については、今後の研究で取り組む予定です。",
+                    "英語": "That is a valid point, and we will address that limitation in our future work.",
+                    "ポイント": "今後の研究計画という未来の「意志」を示すwillです。"
+                },
+                {
+                    "日本語": "ライトフィールドのキャリブレーション方法について、質問させていただきたいのですが。",
+                    "英語": "I would like to ask a question about your light field calibration method.",
+                    "ポイント": "I want to...よりもはるかに丁寧な依頼のI would like to...です。"
+                },
+                {
+                    "日本語": "私なら、リアルタイム性能がより重要だと主張します。",
+                    "英語": "I would argue that the real-time performance is more critical than accuracy.",
+                    "ポイント": "「もし意見を言うならば」という仮定を含んだ、丁寧ながらも強い意見表明のI would argue...です。"
+                },
+                {
+                    "日本語": "そのアプローチを私たちのデータセットに適用するのは、興味深いでしょうね。",
+                    "英語": "It would be interesting to apply your approach to our own dataset.",
+                    "ポイント": "「もし適用したとしたら」という仮定の状況について感想を述べるwouldです。"
+                },
+                {
+                    "日本語": "ご提案ありがとうございます。間違いなく次の実験で検討します。",
+                    "英語": "Thank you for the suggestion. We will definitely consider it in our next experiment.",
+                    "ポイント": "その場で決めた「意志」を強調するwillです。"
+                },
+                {
+                    "日本語": "もし時間があれば、デモをお見せしますが、いかがでしょうか？",
+                    "英語": "Would you be interested in seeing a live demo if we have time later?",
+                    "ポイント": "相手の意向を丁寧に尋ねるWould you be interested...?の形です。"
+                },
+                {
+                    "日本語": "この技術が、数年で拡張現実を変革すると信じています。",
+                    "英語": "I believe this technology will transform augmented reality within a few years.",
+                    "ポイント": "未来に対する強い「予測」を示すwillです。"
+                },
+                {
+                    "日本語": "この点群データをいただけると、大変ありがたいのですが。",
+                    "英語": "I would be very grateful if you could share this point cloud data with us.",
+                    "ポイント": "丁寧な依頼の最上級の表現の一つ、I would be grateful if...です。"
+                },
+                {
+                    "日本語": "この結果から、早まった結論を出すつもりはありません。",
+                    "英語": "We will not draw any hasty conclusions based solely on this one result.",
+                    "ポイント": "「～するつもりはない」という否定の意志を明確にするwill not (won't)です。"
+                },
+                {
+                    "日本語": "私でしたら、RGB-Dセンサーの代わりにステレオカメラを使ったでしょう。",
+                    "英語": "Personally, I would have used a stereo camera instead of an RGB-D sensor.",
+                    "ポイント": "「もし私がその立場だったら、～しただろう」という過去の事実に反する仮定を述べるwould have + 過去分詞です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "should / must (推奨・義務・確信)",
+            "セクションの説明": "「～すべきだ」という推奨やアドバイスのshouldと、「～に違いない」という強い確信や「～しなければならない」という義務を表すmustの使い方を区別します。",
+            "例文": [
+                {
+                    "日本語": "あなたの結果を、Smithらの研究と比較すべきだと思います。",
+                    "英語": "I think you should compare your results with the work from Smith et al.",
+                    "ポイント": "相手へのアドバイスや「～する方が良い」という推奨を示すshouldです。"
+                },
+                {
+                    "日本語": "この最適化により、処理時間は10ミリ秒未満になるはずです。",
+                    "英語": "With this optimization, the processing time should be under 10 milliseconds.",
+                    "ポイント": "「当然～になるはずだ」という、期待や確度の高い推測を表すshouldです。"
+                },
+                {
+                    "日本語": "一貫した点群を得るためには、カメラのポーズが正確でなければなりません。",
+                    "英語": "To achieve a coherent point cloud, the camera poses must be highly accurate.",
+                    "ポイント": "「～でなければならない」という技術的な必須条件や強い義務を示すmustです。"
+                },
+                {
+                    "日本語": "この高品質な結果を見ると、キャリブレーションは非常に精密だったに違いありません。",
+                    "英語": "Given these high-quality results, the calibration process must have been very precise.",
+                    "ポイント": "結果から「～だったに違いない」と強く推測するmust have + 過去分詞です。"
+                },
+                {
+                    "日本語": "私たちは、この手法の限界についても言及すべきです。",
+                    "英語": "We should also mention the limitations of our method for fairness.",
+                    "ポイント": "「～するのが当然だ、～すべきだ」という話者の倫理観や義務感を示すshouldです。"
+                },
+                {
+                    "日本語": "リアルタイムARシステムは、ユーザーの入力に即座に応答しなければなりません。",
+                    "英語": "A real-time AR system must respond to user input without any noticeable lag.",
+                    "ポイント": "システムの定義として「～でなければならない」という必要条件を示すmustです。"
+                },
+                {
+                    "日本語": "マルチビューのセットアップでは、ベースラインの長さを慎重に考慮すべきでした。",
+                    "英語": "We should have considered the baseline length more carefully in our multi-view setup.",
+                    "ポイント": "「(実際はしなかったが)～すべきだった」という過去の行為への後悔や反省を示すshould have + 過去分詞です。"
+                },
+                {
+                    "日本語": "その点については、明確にしておく必要がありますね。",
+                    "英語": "That's a good point. I must admit that we need to clarify that.",
+                    "ポイント": "「～せざるを得ない」と、認めざるを得ない心境を示すI must admit...です。"
+                },
+                {
+                    "日本語": "すべての実験は、同じ照明条件下で行われるべきです。",
+                    "英語": "All experiments should be conducted under the same lighting conditions for consistency.",
+                    "ポイント": "実験の作法として「～されるべきだ」という推奨・規範を示すshouldです。"
+                },
+                {
+                    "日本語": "ライトフィールドのデータ量は膨大になるため、これは大きな課題に違いありません。",
+                    "英語": "The amount of light field data can be huge, so this must be a significant challenge.",
+                    "ポイント": "事実から「～に違いない」と論理的に結論付けるmustです。"
+                }
+            ]
+        }
+    ]
+}

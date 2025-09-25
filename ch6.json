@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第6章：動名詞 (doing)",
+    "章の説明": "動名詞（動詞の-ing形）は、不定詞と同じく「～すること」と訳され、文中で名詞の役割をします。しかし、前置詞の後ろや、特定の動詞の目的語として使われるなど、不定詞とは明確な使い分けがあります。これらのルールを体得することが、自然で正しい英語を話すための鍵となります。",
+    "セクション": [
+        {
+            "セクションタイトル": "主語としての動名詞",
+            "セクションの説明": "「～すること」という行為やプロセス自体を文の主語（S）として述べたいときに使います。",
+            "例文": [
+                {
+                    "日本語": "マルチビューカメラをキャリブレーションすることは、不可欠な最初のステップです。",
+                    "英語": "Calibrating the multi-view cameras is an essential first step in our pipeline.",
+                    "ポイント": "Calibrating...という行為が文全体の主語になっています。"
+                },
+                {
+                    "日本語": "リアルタイム性能を達成することが、このARプロジェクトの最優先事項でした。",
+                    "英語": "Achieving real-time performance was the top priority for this AR project.",
+                    "ポイント": "Achieving...という行為が主語として使われています。"
+                },
+                {
+                    "日本語": "粗い点群から細かいディテールを再構成するのは、計算量が非常に多いです。",
+                    "英語": "Reconstructing fine details from a sparse point cloud is computationally demanding.",
+                    "ポイント": "Reconstructing...というプロセスが文の主語です。"
+                },
+                {
+                    "日本語": "ライトフィールドデータを扱うのは、そのサイズの大きさから、簡単ではありません。",
+                    "英語": "Handling light field data is not trivial due to its massive size.",
+                    "ポイント": "Handling...という行為が主語です。is not trivialは「自明ではない、簡単ではない」というニュアンスです。"
+                },
+                {
+                    "日本語": "RGB-Dセンサーからの深度マップを可視化することで、多くの洞察が得られました。",
+                    "英語": "Visualizing the depth maps from the RGB-D sensor gave us many insights.",
+                    "ポイント": "Visualizing...が主語となり、gaveという動詞につながっています。"
+                },
+                {
+                    "日本語": "すべての実験で同じパラメータを使うことが、公正な比較には重要です。",
+                    "英語": "Using the same parameters in all experiments is important for a fair comparison.",
+                    "ポイント": "Using...が文の主語になっています。"
+                },
+                {
+                    "日本語": "拡張現実で仮想オブジェクトをレンダリングするには、正確なポーズ推定が必要です。",
+                    "英語": "Rendering virtual objects in augmented reality requires accurate pose estimation.",
+                    "ポイント": "Rendering...という行為が主語となり、requiresという動詞につながります。"
+                },
+                {
+                    "日本語": "既存の手法と比較することが、私たちの貢献の価値を示します。",
+                    "英語": "Comparing our work with existing methods shows the value of our contribution.",
+                    "ポイント": "Comparing...が文の主語になっています。"
+                },
+                {
+                    "日本語": "新しいアルゴリズムをゼロから実装するのは、時間がかかるプロセスでした。",
+                    "英語": "Implementing the new algorithm from scratch was a time-consuming process.",
+                    "ポイント": "Implementing...が主語の動名詞句です。"
+                },
+                {
+                    "日本語": "良い結果を得ることは素晴らしいですが、再現性もまた重要です。",
+                    "英語": "Getting good results is great, but ensuring reproducibility is also important.",
+                    "ポイント": "Getting...とensuring...、二つの動名詞句が対比されています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "動詞の目的語としての動名詞",
+            "セクションの説明": "suggest, consider, avoid, enjoy, finishなど、特定の動詞は目的語として不定詞(to do)ではなく、動名詞(doing)をとります。これは覚えるしかありません。",
+            "例文": [
+                {
+                    "日本語": "オクルージョン問題を解決するために、ライトフィールドカメラの使用を検討しましたか？",
+                    "英語": "Have you considered using a light field camera to solve the occlusion problem?",
+                    "ポイント": "considerは目的語に動名詞をとる代表的な動詞です。consider to useとは言いません。"
+                },
+                {
+                    "日本語": "カメラの内部パラメータをもう一度確認することを提案します。",
+                    "英語": "I would suggest checking the camera's intrinsic parameters again for accuracy.",
+                    "ポイント": "suggestも目的語に動名詞をとります。suggest to checkとは言いません。"
+                },
+                {
+                    "日本語": "私たちは、データに裏付けられていない強い主張をすることは避けました。",
+                    "英語": "We avoided making any strong claims that were not supported by the data.",
+                    "ポイント": "avoidも目的語に動名詞をとります。avoid to makeとは言いません。"
+                },
+                {
+                    "日本語": "私はあなたの拡張現実のデモを見るのを本当に楽しみました。",
+                    "英語": "I really enjoyed watching the live demonstration of your augmented-reality system.",
+                    "ポイント": "enjoyも目的語に動名詞をとります。enjoy to watchとは言いません。"
+                },
+                {
+                    "日本語": "その質問には、私の発表の最後で回答させていただけますでしょうか。",
+                    "英語": "Would you mind my answering that question at the end of my presentation?",
+                    "ポイント": "mindは動名詞を目的語にとります。my answeringのように、意味上の主語を所有格で示すことがあります。"
+                },
+                {
+                    "日本語": "彼は、私たちのマルチビューデータセットを使ったことを認めました。",
+                    "英語": "He admitted using our multi-view dataset without a proper citation.",
+                    "ポイント": "admitも目的語に動名詞をとる動詞です。"
+                },
+                {
+                    "日本語": "リアルタイムの点群処理の実装は、先週終えました。",
+                    "英語": "We finished implementing the real-time point cloud processing just last week.",
+                    "ポイント": "finishも目的語に動名詞をとります。finish to implementとは言いません。"
+                },
+                {
+                    "日本語": "この手法は、テクスチャのない表面の扱いをあきらめています。",
+                    "英語": "This method gives up handling texture-less surfaces to simplify the problem.",
+                    "ポイント": "give up (あきらめる)も、目的語に動名詞をとります。"
+                },
+                {
+                    "日本語": "この問題について議論し続けることは、非常に有益だと思います。",
+                    "英語": "I think it's very fruitful to keep discussing this interesting problem.",
+                    "ポイント": "keep ...ingで「～し続ける」という意味。keepは動名詞を目的語にとります。"
+                },
+                {
+                    "日本語": "そのステップを省略すると、最終的な精度が低下するリスクがあります。",
+                    "英語": "You risk lowering the final accuracy if you decide to skip that step.",
+                    "ポイント": "risk (～の危険を冒す)も、目的語に動名詞をとります。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "補語・前置詞の目的語としての動名詞",
+            "セクションの説明": "「Sは～することだ」という補語(C)の役割や、by, for, in, withoutなどの前置詞の後ろで目的語の役割をします。特に「前置詞の後ろは動名詞」は絶対的なルールです。",
+            "例文": [
+                {
+                    "日本語": "私の要点は、ARシステムにおけるリアルタイムフィードバックの重要性を強調することです。",
+                    "英語": "My main point is highlighting the importance of real-time feedback in AR systems.",
+                    "ポイント": "isの補語(C)として動名詞が使われています。「私の要点 = 強調すること」の関係。"
+                },
+                {
+                    "日本語": "私たちの研究の興味深い点を指摘していただき、ありがとうございます。",
+                    "英語": "Thank you very much for pointing out that interesting aspect of our work.",
+                    "ポイント": "forという前置詞の目的語として、pointing outが使われています。"
+                },
+                {
+                    "日本語": "レンダリングパイプラインを最適化することによって、速度を改善しました。",
+                    "英語": "We improved the speed by optimizing the rendering pipeline significantly.",
+                    "ポイント": "by ...ingで「～することによって」という手段を表す、非常によく使われる形です。"
+                },
+                {
+                    "日本語": "適切なキャリブレーションなしに、良い結果を得ることは困難です。",
+                    "英語": "It is difficult to get a good result without having a proper calibration.",
+                    "ポイント": "without ...ingで「～することなしに」という意味。前置詞withoutの目的語です。"
+                },
+                {
+                    "日本語": "彼は、リアルタイムのマルチビューシステムを構築することに成功しました。",
+                    "英語": "He succeeded in building a real-time multi-view system from scratch.",
+                    "ポイント": "前置詞inの目的語としてbuildingが使われています。succeed in ...ingの形。"
+                },
+                {
+                    "日本語": "私たちの研究は、高密度な点群を生成することに焦点を当てています。",
+                    "英語": "Our research focuses on generating a dense point cloud from a few images.",
+                    "ポイント": "前置詞onの目的語としてgeneratingが使われています。focus on ...ingの形。"
+                },
+                {
+                    "日本語": "このRGB-Dセンサーは、深度を推定する代わりに、直接それを測定します。",
+                    "英語": "This RGB-D sensor directly measures depth instead of estimating it.",
+                    "ポイント": "instead of ...ingで「～する代わりに」という意味。前置詞ofの目的語です。"
+                },
+                {
+                    "日本語": "あなたの発表を聞くのを楽しみにしています。",
+                    "英語": "I am looking forward to hearing your presentation at the conference.",
+                    "ポイント": "look forward toのtoは不定詞ではなく前置詞なので、後ろは動名詞(hearing)になります。"
+                },
+                {
+                    "日本語": "拡張現実について話すとき、私たちはしばしばトラッキングの問題に言及します。",
+                    "英語": "When talking about augmented reality, we often refer to the tracking problem.",
+                    "ポイント": "When (we are) talking...のように、接続詞の後ろに動名詞が来る分詞構文的な用法です。"
+                },
+                {
+                    "日本語": "この結果は、私たちの仮説が正しいという考えを支持します。",
+                    "英語": "This result is in favor of our hypothesis being correct.",
+                    "ポイント": "前置詞ofの目的語として、動名詞beingが使われています。our hypothesisはその意味上の主語です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "動名詞の慣用表現",
+            "セクションの説明": "日常会話や議論で頻繁に使われる、動名詞を含んだ定型表現です。覚えておくと表現がスムーズになります。",
+            "例文": [
+                {
+                    "日本語": "私たちの手法がGPUを必要としないことは、特筆に値します。",
+                    "英語": "It is worth noting that our method does not require a powerful GPU.",
+                    "ポイント": "It's worth ...ingで「～する価値がある」という意味の頻出表現です。"
+                },
+                {
+                    "日本語": "移動するプラットフォームからの点群を位置合わせするのに苦労しました。",
+                    "英語": "We had difficulty registering the point clouds from the moving platform.",
+                    "ポイント": "have difficulty (in) ...ingで「～するのに苦労する」という意味です。"
+                },
+                {
+                    "日本語": "あなたの発表を聞いた後、いくつか質問せずにはいられませんでした。",
+                    "英語": "I couldn't help asking a few questions after listening to your presentation.",
+                    "ポイント": "cannot help ...ingで「～せずにはいられない」という意味です。"
+                },
+                {
+                    "日本語": "リアルタイム性能について言えば、私たちの手法は最先端です。",
+                    "英語": "When it comes to processing in real-time, our method is state-of-the-art.",
+                    "ポイント": "When it comes to ...ingで「～ということになると」と話題を切り出す表現です。toは前置詞です。"
+                },
+                {
+                    "日本語": "このノイズの多いRGB-Dデータをこれ以上議論しても無駄です。",
+                    "英語": "It is no use discussing this noisy RGB-D data any further.",
+                    "ポイント": "It's no use ...ingで「～しても無駄だ」という意味です。"
+                },
+                {
+                    "日本語": "彼は、マルチビューシステムのセットアップで一日中忙しかった。",
+                    "英語": "He was busy setting up the new multi-view system all day long.",
+                    "ポイント": "be busy (in) ...ingで「～するのに忙しい」という意味です。"
+                },
+                {
+                    "日本語": "私は、ライトフィールドカメラを使ってオクルージョンを扱うことに慣れています。",
+                    "英語": "I am used to handling occlusions by using a light field camera.",
+                    "ポイント": "be used to ...ingで「～することに慣れている」という意味。toは前置詞です。"
+                },
+                {
+                    "日本語": "彼の発表は素晴らしく、繰り返し見る価値があります。",
+                    "英語": "His presentation was excellent and it is worth watching again.",
+                    "ポイント": "It's worth ...ingの応用形です。"
+                },
+                {
+                    "日本語": "私たちのARシステムのデモをするのはどうでしょうか？",
+                    "英語": "What do you say to giving a demonstration of our AR system?",
+                    "ポイント": "What do you say to ...ing?で「～するのはどうですか」と提案する表現です。toは前置詞です。"
+                },
+                {
+                    "日本語": "その結果が何を意味するのか、推測のしようがありません。",
+                    "英語": "There is no telling what that result implies for our future research.",
+                    "ポイント": "There is no ...ingで「～することはできない」という意味の慣用表現です。"
+                }
+            ]
+        }
+    ]
+}

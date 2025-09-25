@@ -1,0 +1,205 @@
+{
+    "章タイトル": "第4章：否定文・疑問文",
+    "章の説明": "質疑応答は、疑問文と、それに答える肯定文・否定文のキャッチボールそのものです。ここでは、相手に情報を求める様々な疑問文の作り方と、研究の範囲や限界を明確に伝えるための否定文の使い方を学びます。これらを使いこなすことで、議論を正確に、そして活発に進めることができます。",
+    "セクション": [
+        {
+            "セクションタイトル": "Yes/No 疑問文",
+            "セクションの説明": "「はい」か「いいえ」で答えられる、事実確認の基本となる質問形式です。相手の発表内容についての理解を確認したり、特定の点について掘り下げたりするきっかけになります。",
+            "例文": [
+                {
+                    "日本語": "この手法を動的なシーンに適用することは可能ですか？",
+                    "英語": "Is it possible to apply this method to dynamic scenes as well?",
+                    "ポイント": "可能性の有無を尋ねる、Is it possible to...?という基本的な形です。"
+                },
+                {
+                    "日本語": "あなたの結果を、深層学習ベースの手法と比較しましたか？",
+                    "英語": "Did you compare your results against any deep-learning-based methods?",
+                    "ポイント": "相手が過去に行ったかどうかを尋ねる、Did you...?という質問です。"
+                },
+                {
+                    "日本語": "あなたのライトフィールドレンダラーのソースコードは公開されていますか？",
+                    "英語": "Have you released the source code for your light field renderer?",
+                    "ポイント": "現時点で完了・公開済みかどうか、経験の有無を尋ねる現在完了形のHave you...?です。"
+                },
+                {
+                    "日本語": "あなたのARシステムは、特別なハードウェアを必要としますか？",
+                    "英語": "Does your augmented-reality system require any specialized hardware to run?",
+                    "ポイント": "システムの恒常的な仕様について尋ねる、Does + S + V...?の形です。"
+                },
+                {
+                    "日本語": "マルチビューカメラの同期に問題はありませんでしたか？",
+                    "英語": "Were there any issues with the synchronization of the multi-view cameras?",
+                    "ポイント": "過去の問題の有無を尋ねる、Were there...?という表現です。"
+                },
+                {
+                    "日本語": "点群の密度は、このアプリケーションにとって十分ですか？",
+                    "英語": "Is the density of the point cloud sufficient for this particular application?",
+                    "ポイント": "品質や量が十分かどうかを尋ねる、Is + S + C...?の形です。"
+                },
+                {
+                    "日本語": "そのRGB-Dデータセットに、ラベル付けはされていますか？",
+                    "英語": "Does the RGB-D dataset come with ground-truth annotations or labels?",
+                    "ポイント": "データセットの仕様について尋ねる疑問文です。"
+                },
+                {
+                    "日本語": "リアルタイム性能を達成するために、GPUを使用しましたか？",
+                    "英語": "Did you use a GPU to achieve the real-time performance you reported?",
+                    "ポイント": "目的達成の手段として、特定の物を使用したかどうかを尋ねるDid you...?です。"
+                },
+                {
+                    "日本語": "この研究は、まだ進行中と考えてよろしいでしょうか？",
+                    "英語": "Should I consider this research to be a work in progress?",
+                    "ポイント": "相手の研究のステータスについて、確認を求める丁寧な質問です。"
+                },
+                {
+                    "日本語": "その結論は、あなたの行った全ての実験によって裏付けられていますか？",
+                    "英語": "Is that conclusion supported by all the experiments you have conducted?",
+                    "ポイント": "結論の妥当性を、根拠との関連で確認する受動態の疑問文です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "Wh- 疑問文",
+            "セクションの説明": "What, Why, When, Where, Who, Howを使い、具体的な情報を引き出すための質問です。質疑応答の大部分は、このWh-疑問文で構成されます。",
+            "例文": [
+                {
+                    "日本語": "なぜステレオカメラではなく、RGB-Dセンサーを選んだのですか？",
+                    "英語": "Why did you choose an RGB-D sensor instead of a conventional stereo camera?",
+                    "ポイント": "相手の選択の「理由」を尋ねるWhy疑問文の典型的な形です。"
+                },
+                {
+                    "日本語": "マルチビューのカメラ設定の同期は、どのように行っているのですか？",
+                    "英語": "How do you handle the synchronization of your multi-view camera setup?",
+                    "ポイント": "プロセスの「方法」や「手段」を尋ねるHow疑問文です。"
+                },
+                {
+                    "日本語": "あなたの現在のARシステムの主な限界点は何ですか？",
+                    "英語": "What is the main limitation of your current augmented-reality system?",
+                    "ポイント": "物事の「内容」や「正体」を尋ねるWhat疑問文です。"
+                },
+                {
+                    "日本語": "この研究の主な貢献は何だとお考えですか？",
+                    "英語": "What would you say is the primary contribution of this research?",
+                    "ポイント": "相手の意見を丁寧に尋ねるWhat would you say...?の形です。"
+                },
+                {
+                    "日本語": "点群のキャプチャプロセス中にもし照明条件が変わったら、どうなりますか？",
+                    "英語": "What happens if the lighting conditions change during the point cloud capturing process?",
+                    "ポイント": "仮定の状況下での結果を尋ねるWhat happens if...?です。"
+                },
+                {
+                    "日本語": "あなたのライトフィールドデータセットは、どこで入手できますか？",
+                    "英語": "Where can I find the light field dataset that you mentioned in your talk?",
+                    "ポイント": "「場所」や入手先を尋ねるWhere疑問文です。"
+                },
+                {
+                    "日本語": "提案手法のどの部分が、リアルタイム性能に最も貢献していますか？",
+                    "英語": "Which part of your proposed method contributes the most to the real-time performance?",
+                    "ポイント": "複数の選択肢の中から「どれ」かを尋ねるWhich疑問文です。"
+                },
+                {
+                    "日本語": "次の研究ステップとして、何を計画していますか？",
+                    "英語": "What are you planning to do as the next step of your research?",
+                    "ポイント": "将来の計画の「内容」を尋ねるWhat疑問文です。"
+                },
+                {
+                    "日本語": "その素晴らしい結果を得るのに、どれくらいの時間がかかりましたか？",
+                    "英語": "How long did it take to get those impressive results for your project?",
+                    "ポイント": "期間や長さを尋ねるHow long...?です。"
+                },
+                {
+                    "日本語": "なぜこの問題が重要だとお考えか、ご説明いただけますか？",
+                    "英語": "Could you explain why you think this problem is important to solve?",
+                    "ポイント": "理由をより詳細に、そして丁寧に尋ねるCould you explain why...?の形です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "否定文",
+            "セクションの説明": "「～ではない」と明確に述べることで、研究の範囲を限定したり、誤解を解いたり、限界点を誠実に伝えたりすることができます。",
+            "例文": [
+                {
+                    "日本語": "私たちの手法は、特定のキャリブレーションターゲットを必要としません。",
+                    "英語": "Our method does not require any specific calibration target for initialization.",
+                    "ポイント": "システムの仕様として「～を必要としない」ことを明確にする否定文です。"
+                },
+                {
+                    "日本語": "この研究では、屋外のデータセットでアルゴリズムを評価しませんでした。",
+                    "英語": "We did not evaluate our algorithm on outdoor datasets in this particular study.",
+                    "ポイント": "研究の範囲を限定し、「しなかったこと」を伝える過去形の否定文です。"
+                },
+                {
+                    "日本語": "リアルタイム性能は重要ですが、それが私たちの主な貢献ではありません。",
+                    "英語": "The real-time performance is important, but it is not our primary contribution.",
+                    "ポイント": "誤解を解き、研究の焦点を明確にするためのbe動詞の否定文です。"
+                },
+                {
+                    "日本語": "申し訳ありませんが、現時点ではソースコードを共有することはできません。",
+                    "英語": "I'm afraid we cannot share the source code at this moment due to some restrictions.",
+                    "ポイント": "「できない」という事実を、理由を添えて丁寧に伝える否定文です。"
+                },
+                {
+                    "日本語": "私たちのARシステムは、まだモバイルデバイス向けに最適化されていません。",
+                    "英語": "Our augmented-reality system has not been optimized for mobile devices yet.",
+                    "ポイント": "「まだ～されていない」という、現時点での未完了の状態を示す現在完了形の否定文です。"
+                },
+                {
+                    "日本語": "そのアプローチは、私たちの知る限り、これまで試みられたことがありません。",
+                    "英語": "That specific approach has never been tried before, to the best of our knowledge.",
+                    "ポイント": "新規性を強調するために「一度も～ない」という強い否定のneverを使っています。"
+                },
+                {
+                    "日本語": "その点は興味深いですが、私たちの研究の範囲外です。",
+                    "英語": "That is an interesting point, but it is not within the scope of our current research.",
+                    "ポイント": "質問が研究範囲外であることを、丁寧に伝えるための定番のフレーズです。"
+                },
+                {
+                    "日本語": "私は、この結果が最終的なものだとは主張していません。",
+                    "英語": "I am not claiming that this result is definitive by any means.",
+                    "ポイント": "過度な主張をしないように、自分の意見の範囲を限定する進行形の否定文です。"
+                },
+                {
+                    "日本語": "もしカメラが速く動きすぎると、点群は正確に位置合わせされません。",
+                    "英語": "The point cloud will not be accurately aligned if the camera moves too fast.",
+                    "ポイント": "特定の条件下では「～にならない」という、システムの限界を説明する未来形の否定文です。"
+                },
+                {
+                    "日本語": "テクスチャのない表面の再構成は、簡単ではありません。",
+                    "英語": "Reconstructing texture-less surfaces is by no means an easy task for our method.",
+                    "ポイント": "is not an easy taskを強調した、is by no means an easy taskという表現です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "付加疑問文・否定疑問文",
+            "セクションの説明": "相手に同意を求めたり、意外な気持ちを表したりと、会話をより自然でインタラクティブにするための高度なテクニックです。",
+            "例文": [
+                {
+                    "日本語": "点群の位置合わせが、最も重要な部分ですよね？",
+                    "英語": "The registration of the point clouds is the most critical part, isn't it?",
+                    "ポイント": "自分の意見を述べた後、「～ですよね？」と相手に軽い同意を求める付加疑問文です。"
+                },
+                {
+                    "日本語": "計算コストが、モバイルアプリには高すぎるとは思いませんか？",
+                    "英語": "Don't you think the computational cost is too high for a mobile application?",
+                    "ポイント": "「～とは思いませんか？」と、相手に同意を求めるニュアンスで意見を問う否定疑問文です。"
+                },
+                {
+                    "日本語": "大規模なマルチビューカメラシステムを校正するのは、難しくないですか？",
+                    "英語": "Isn't it difficult to calibrate a large-scale multi-view camera system?",
+                    "ポイント": "「普通は難しいはずだ」という前提で、相手の意見や経験を尋ねる否定疑問文です。"
+                },
+                {
+                    "日本語": "このライトフィールドのデータは、あなたの以前の研究のものですよね？",
+                    "英語": "This light field data is from your previous work, isn't it?",
+                    "ポイント": "自分の記憶や理解が正しいか、確認のために念を押す付加疑問文です。"
+                },
+                {
+                    "日本語": "なぜリアルタイム性能を評価しなかったのですか？",
+                    "英語": "Why didn't you evaluate the real-time performance of your algorithm?",
+                    "ポイント": "「評価して当然だと思ったのに、なぜ？」という少し意外な気持ちを含む否定疑問文です。"
+                }
+            ]
+        }
+    ]
+}

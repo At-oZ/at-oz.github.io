@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第9章：比較",
+    "章の説明": "研究発表の核心は、自身の手法が既存の手法と比べて「いかに優れているか」を示すことです。比較級や最上級を使いこなし、性能、速度、精度などを的確に比較する能力は、研究の価値を伝える上で不可欠です。ここでは、様々な比較表現を学び、説得力のある主張を組み立てる練習をします。",
+    "セクション": [
+        {
+            "セクションタイトル": "原級比較 (as ... as)",
+            "セクションの説明": "2つの物事が同程度であることを示す「as ... as」と、同程度ではないことを示す「not as/so ... as」の構文です。",
+            "例文": [
+                {
+                    "日本語": "私たちの目標は、仮想オブジェクトを可能な限りリアルに見せることです。",
+                    "英語": "Our goal is to make the virtual objects look as realistic as possible.",
+                    "ポイント": "as ... as possibleで「可能な限り～」という、目標設定でよく使われる表現です。"
+                },
+                {
+                    "日本語": "この手法は、見た目ほど単純ではありません。",
+                    "英語": "This method is not as simple as it looks at first glance.",
+                    "ポイント": "not as ... asで「～ほど…ではない」という否定の同等比較です。"
+                },
+                {
+                    "日本語": "理論的には、RGB-Dセンサーはステレオカメラとほぼ同じくらい正確なはずです。",
+                    "英語": "In theory, an RGB-D sensor should be just as accurate as a stereo camera.",
+                    "ポイント": "just as ... asで「全く同じくらい～」と、同等であることを強調しています。"
+                },
+                {
+                    "日本語": "このデータセットは、私たちが期待したほど有用ではありませんでした。",
+                    "英語": "This dataset was not so useful for our purpose as we had expected.",
+                    "ポイント": "否定文ではnot so ... asも使われますが、not as ... asの方が一般的です。"
+                },
+                {
+                    "日本語": "このライトフィールドのデータセットは、以前のものの2倍の大きさです。",
+                    "英語": "This light field dataset is twice as large as the previous one.",
+                    "ポイント": "「X times as ... as」で「～のX倍…だ」という倍数表現です。"
+                },
+                {
+                    "日本語": "私たちのアルゴリズムは、他のものと少なくとも同じくらいうまく機能します。",
+                    "英語": "Our algorithm performs at least as well as the other competitors.",
+                    "ポイント": "as well asで「～と同じくらいうまく」という意味の頻出表現です。"
+                },
+                {
+                    "日本語": "リアルタイムの制約の下では、精度は速度ほど重要ではありません。",
+                    "英語": "Under real-time constraints, accuracy is not as important as processing speed.",
+                    "ポイント": "重要度の比較で「～ほど重要ではない」と述べるnot as ... asです。"
+                },
+                {
+                    "日本語": "できるだけ多くの視点からデータを集めることが重要です。",
+                    "英語": "It is important to collect data from as many viewpoints as possible.",
+                    "ポイント": "as many + (複数名詞) + as possibleで「できるだけ多くの～」となります。"
+                },
+                {
+                    "日本語": "この点群は、他の手法のものと同じくらい高密度です。",
+                    "英語": "This point cloud is as dense as the one from the other method.",
+                    "ポイント": "形容詞denseを用いた、基本的なas ... asの比較です。"
+                },
+                {
+                    "日本語": "このARグラスは、見た目ほど重くはありません。",
+                    "英語": "These augmented-reality glasses are not as heavy as they appear.",
+                    "ポイント": "not as ... asで「～ほど…ではない」と、予想との違いを述べています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "比較級 (-er / more ... than)",
+            "セクションの説明": "2つの物事を比較して「～より…だ」と述べる、最も基本的な比較の形です。muchやfarで差を強調したり、lessで「～より…でない」と表現したりもします。",
+            "例文": [
+                {
+                    "日本語": "私たちの提案手法は、従来の研究よりもノイズに対してかなり頑健です。",
+                    "英語": "Our proposed method is significantly more robust to noise than previous works.",
+                    "ポイント": "more robust than...という比較級の前に、差が大きいことを示すsignificantlyを置いています。"
+                },
+                {
+                    "日本語": "ライトフィールドカメラを使うと、従来のカメラより多くの角度情報が得られます。",
+                    "英語": "Using a light field camera gives us more angular information than a traditional camera.",
+                    "ポイント": "more ... thanで「～より多くの…」という、数量の比較です。"
+                },
+                {
+                    "日本語": "このアプローチは、深層学習ベースのものより計算コストが低いです。",
+                    "英語": "This approach is less computationally expensive than the deep learning one.",
+                    "ポイント": "less ... thanで「～より…でない」という劣等比較の形です。"
+                },
+                {
+                    "日本語": "私たちの結果は、彼らのものよりわずかに良いだけです。",
+                    "英語": "Our result is only slightly better than theirs from the previous paper.",
+                    "ポイント": "比較級betterの前に、差が小さいことを示すslightlyを置いています。"
+                },
+                {
+                    "日本語": "マルチビュー設定では、より広いベースラインの方が良い深度推定につながります。",
+                    "英語": "A wider baseline in a multi-view setup leads to better depth estimation.",
+                    "ポイント": "「より広い～が、より良い～につながる」という因果関係を示す比較級です。"
+                },
+                {
+                    "日本語": "この新しいRGB-Dセンサーは、古いモデルよりはるかに高価です。",
+                    "英語": "This new RGB-D sensor is far more expensive than the older model.",
+                    "ポイント": "比較級more expensiveの前に、差が大きいことを示すfarを置いています。muchも使えます。"
+                },
+                {
+                    "日本語": "リアルタイムARシステムを構築することは、私が想像していたよりも難しかったです。",
+                    "英語": "Building a real-time AR system was more difficult than I had originally imagined.",
+                    "ポイント": "than以下に文(S+V)を置くことで、「私が～したよりも」という比較ができます。"
+                },
+                {
+                    "日本語": "この点群は、以前のものより高密度で、かつ、よりクリーンです。",
+                    "英語": "This point cloud is denser and cleaner than the previous one.",
+                    "ポイント": "二つの比較級(denser, cleaner)をandで繋いでいます。"
+                },
+                {
+                    "日本語": "精度よりもリアルタイム性能の方を優先しました。",
+                    "英語": "We prioritized real-time performance higher than the overall accuracy.",
+                    "ポイント": "higher than...で優先順位を比較しています。"
+                },
+                {
+                    "日本語": "この問題は、私たちが最初考えていたよりずっと複雑です。",
+                    "英語": "This problem is much more complicated than we initially thought.",
+                    "ポイント": "比較級more complicatedを、muchで強調しています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "最上級 (the -est / the most...)",
+            "セクションの説明": "3つ以上のものの中で「最も～だ」と述べる表現です。研究の新規性や重要性を強調するのに役立ちます。",
+            "例文": [
+                {
+                    "日本語": "リアルタイムARの最も困難な側面は、おそらくトラッキングです。",
+                    "英語": "Perhaps the most challenging aspect of real-time augmented reality is tracking.",
+                    "ポイント": "3音節以上の形容詞(challenging)なので、the mostを前に置く最上級です。"
+                },
+                {
+                    "日本語": "私たちは、検証実験で最高の精度を与えたパラメータを選びました。",
+                    "英語": "We chose the parameter that gave us the highest accuracy in our validation.",
+                    "ポイント": "形容詞highの最上級、the highestです。"
+                },
+                {
+                    "日本語": "これは、マルチビューステレオ分野で最も頻繁に引用される論文の一つです。",
+                    "英語": "This is one of the most frequently cited papers in the multi-view stereo field.",
+                    "ポイント": "one of the + 最上級 + 複数名詞で「最も～なものの一つ」という頻出表現です。"
+                },
+                {
+                    "日本語": "私たちの知る限り、これがこの問題に対する最速のアプローチです。",
+                    "英語": "To the best of our knowledge, this is the fastest approach for this problem.",
+                    "ポイント": "形容詞fastの最上級、the fastestです。"
+                },
+                {
+                    "日本語": "ライトフィールド技術の最も興味深い応用例は何だと思いますか？",
+                    "英語": "What do you think is the most interesting application of light field technology?",
+                    "ポイント": "interestingの最上級、the most interestingを用いた疑問文です。"
+                },
+                {
+                    "日本語": "最も重要なことは、私たちの手法がリアルタイムで動作するということです。",
+                    "英語": "The most important thing is that our method works in real-time.",
+                    "ポイント": "importantの最上級、the most importantを用いた主張の強調です。"
+                },
+                {
+                    "日本語": "このRGB-Dセンサーは、市場で最も安価な選択肢の一つです。",
+                    "英語": "This RGB-D sensor is one of the least expensive options on the market.",
+                    "ポイント": "the least ...で「最も～でない」という最上級の劣等比較です。"
+                },
+                {
+                    "日本語": "最も単純な解決策が、常に最善であるとは限りません。",
+                    "英語": "The simplest solution is not always the best one to choose.",
+                    "ポイント": "simpleの最上級the simplestと、goodの最上級the bestが使われています。"
+                },
+                {
+                    "日本語": "点群の位置合わせは、パイプラインの中で最も計算コストが高い部分です。",
+                    "英語": "The point cloud registration is the most computationally expensive part of our pipeline.",
+                    "ポイント": "computationally expensiveの最上級です。"
+                },
+                {
+                    "日本語": "これが、この研究で達成された最も意義のある結果です。",
+                    "英語": "This is the most significant result achieved in this research work.",
+                    "ポイント": "significantの最上級、the most significantです。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "その他の比較表現",
+            "セクションの説明": "The more..., the more...構文やprefer A to Bなど、知っていると表現の幅が広がる様々な比較の形を学びます。",
+            "例文": [
+                {
+                    "日本語": "使う視点の数が多ければ多いほど、点群の密度は高くなります。",
+                    "英語": "The more views we use, the denser the resulting point cloud becomes.",
+                    "ポイント": "The 比較級, the 比較級の構文で「～すればするほど、ますます…になる」という比例関係を表します。"
+                },
+                {
+                    "日本語": "このタスクには、リアルタイム性能よりも精度の方を好みます。",
+                    "英語": "For this particular task, we prefer accuracy to real-time performance.",
+                    "ポイント": "prefer A to Bで「BよりもAを好む」という意味です。thanは使わないので注意。"
+                },
+                {
+                    "日本語": "私たちの結果は、既存の手法のものより優れています。",
+                    "英語": "Our result is superior to that of the existing state-of-the-art method.",
+                    "ポイント": "superior to...で「～より優れている」という意味。thanは使いません。inferior to (～より劣っている)も同様。"
+                },
+                {
+                    "日本語": "私たちの手法の性能は、先行研究の性能と同等です。",
+                    "英語": "The performance of our method is comparable to that of previous work.",
+                    "ポイント": "comparable to...で「～に匹敵する、同等だ」という意味です。"
+                },
+                {
+                    "日本語": "カメラが速く動けば動くほど、トラッキングはより困難になります。",
+                    "英語": "The faster the camera moves, the more difficult the tracking becomes.",
+                    "ポイント": "The 比較級, the 比較級の構文です。"
+                },
+                {
+                    "日本語": "彼のARグラスは、私のものとデザインが少し異なります。",
+                    "英語": "His AR glasses are slightly different from mine in their design.",
+                    "ポイント": "different from...で「～と異なる」という比較表現です。"
+                },
+                {
+                    "日本語": "ライトフィールドと点群では、どちらの表現方法が良いと思いますか？",
+                    "英語": "Which representation do you think is better, a light field or a point cloud?",
+                    "ポイント": "Which is better, A or B?で「AとBではどちらが良いか」と尋ねる形です。"
+                },
+                {
+                    "日本語": "私たちの手法は、リアルタイム性能の点で他の手法とは異なります。",
+                    "英語": "Our method differs from others in terms of its real-time performance.",
+                    "ポイント": "differs from...で「～と異なる」という動詞を使った表現です。"
+                },
+                {
+                    "日本語": "RGB-Dとマルチビューステレオの主な違いは、深度の取得方法にあります。",
+                    "英語": "The main difference between RGB-D and multi-view stereo lies in the depth acquisition.",
+                    "ポイント": "the difference between A and Bで「AとBの違い」を表します。"
+                },
+                {
+                    "日本語": "ハードウェアが強力になればなるほど、より複雑なアルゴリズムを実行できます。",
+                    "英語": "The more powerful the hardware becomes, the more complex algorithms we can run.",
+                    "ポイント": "The 比較級, the 比較級の構文です。"
+                }
+            ]
+        }
+    ]
+}

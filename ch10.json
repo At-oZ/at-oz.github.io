@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第10章：受動態 (be動詞 + 過去分詞)",
+    "章の説明": "受動態は、「誰が」したかという行為者よりも、「何が」「どうされたか」という行為そのものや、その対象に焦点を当てる表現です。科学的な文章では、「私」や「我々」を主語にすることを避け、客観的なトーンを保つために極めて頻繁に使われます。「～されている」「～された」という表現を使いこなしましょう。",
+    "セクション": [
+        {
+            "セクションタイトル": "基本的な受動態 (現在・過去・未来)",
+            "セクションの説明": "様々な時制における、受動態の基本的な形です。行為者が自明であるか、重要でない場合に用いられます。",
+            "例文": [
+                {
+                    "日本語": "この実験は、管理された照明条件下で行われました。",
+                    "英語": "The experiment was conducted under controlled lighting conditions.",
+                    "ポイント": "「誰が」行ったかより、「実験が」行われたという事実を重視した、基本的な過去形の受動態です。"
+                },
+                {
+                    "日本語": "このパラメータは、我々の全ての実験で0.5に設定されています。",
+                    "英語": "This parameter is set to 0.5 in all of our experiments.",
+                    "ポイント": "現在の状態や一般的な事実を表す、現在形の受動態です。"
+                },
+                {
+                    "日本語": "結果は、今日の午後のポスターセッションで発表される予定です。",
+                    "英語": "The results will be presented at the poster session later this afternoon.",
+                    "ポイント": "未来の予定を表す、willを用いた未来形の受動態です。"
+                },
+                {
+                    "日本語": "私たちの研究室では、2種類のRGB-Dセンサーが使われています。",
+                    "英語": "Two different types of RGB-D sensors are used in our laboratory.",
+                    "ポイント": "一般的な事実を述べる現在形の受動態です。"
+                },
+                {
+                    "日本語": "全てのマルチビュー画像は、処理の前にリサイズされました。",
+                    "英語": "All multi-view images were resized before the processing stage.",
+                    "ポイント": "実験手順を客観的に報告する、過去形の受動態です。"
+                },
+                {
+                    "日本語": "この拡張現実システムは、産業用途向けに設計されました。",
+                    "英語": "This augmented-reality system was designed specifically for industrial use.",
+                    "ポイント": "システムの目的や背景を説明する過去形の受動態です。"
+                },
+                {
+                    "日本語": "提案手法は、次のセクションで詳しく説明されます。",
+                    "英語": "The proposed method is described in detail in the next section.",
+                    "ポイント": "論文や発表で、構成を説明する際によく使われる現在形の受動態です。"
+                },
+                {
+                    "日本語": "このライトフィールドデータは、特別なカメラを使ってキャプチャされました。",
+                    "英語": "This light field data was captured using a custom-built camera.",
+                    "ポイント": "データの出所を客観的に説明する過去形の受動態です。"
+                },
+                {
+                    "日本語": "点群内の異常値は、このステップで除去されます。",
+                    "英語": "The outliers in the point cloud are removed at this specific step.",
+                    "ポイント": "アルゴリズムの処理内容を説明する現在形の受動態です。"
+                },
+                {
+                    "日本語": "この研究は、政府からの資金提供を受けています。",
+                    "英語": "This research is funded by a grant from the government.",
+                    "ポイント": "研究の背景を説明する現在形の受動態です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "助動詞・完了形を含む受動態",
+            "セクションの説明": "can, should, mustなどの助動詞や、have been ...edの完了形と組み合わせることで、より複雑なニュアンスを表現します。",
+            "例文": [
+                {
+                    "日本語": "精度は、より多くの学習データを使うことで、さらに改善され得ます。",
+                    "英語": "The accuracy can be further improved by using more training data.",
+                    "ポイント": "「～され得る」という可能性を示す、助動詞canを用いた受動態です。"
+                },
+                {
+                    "日本語": "このアルゴリズムは、点群コミュニティで広く使われてきました。",
+                    "英語": "This algorithm has been widely used in the point cloud community.",
+                    "ポイント": "過去から現在まで「ずっと～されてきた」という継続を表す、現在完了形の受動態です。"
+                },
+                {
+                    "日本語": "この問題は、初期設計の段階で対処されているべきでした。",
+                    "英語": "This issue should have been addressed during the initial design phase.",
+                    "ポイント": "「～されているべきだった(のにされなかった)」という過去への後悔や批判を表す、should have been + 過去分詞の形です。"
+                },
+                {
+                    "日本語": "全ての計算は、単一のGPU上で行われなければなりません。",
+                    "英語": "All computations must be performed on a single powerful GPU.",
+                    "ポイント": "「～されなければならない」という強い義務や必要性を示す、助動詞mustを用いた受動態です。"
+                },
+                {
+                    "日本語": "私たちの研究室のARグラスは、まだ修理されていません。",
+                    "英語": "The augmented-reality glasses in our lab have not been repaired yet.",
+                    "ポイント": "「まだ～されていない」という未完了の状態を表す、現在完了形の受動態（否定文）です。"
+                },
+                {
+                    "日本語": "その結果は、注意深く解釈されるべきです。",
+                    "英語": "The results should be interpreted with caution due to several factors.",
+                    "ポイント": "「～されるべきだ」という推奨やアドバイスを示す、助動詞shouldを用いた受動態です。"
+                },
+                {
+                    "日本語": "そのライトフィールドデータセットは、まだ公開されていませんでしたか？",
+                    "英語": "Hasn't the light field dataset been released to the public yet?",
+                    "ポイント": "現在完了形の受動態を用いた否定疑問文です。"
+                },
+                {
+                    "日本語": "マルチビューのキャリブレーションは、非常に慎重に行われる必要があります。",
+                    "英語": "The multi-view calibration needs to be done very carefully.",
+                    "ポイント": "needs to be + 過去分詞で、「～される必要がある」という意味です。"
+                },
+                {
+                    "日本語": "このリアルタイムシステムは、様々なプラットフォームでテストされてきました。",
+                    "英語": "This real-time system has been tested on various different platforms.",
+                    "ポイント": "過去から現在までの経験を表す、現在完了形の受動態です。"
+                },
+                {
+                    "日本語": "そのエラーは、ソフトウェアのアップデートで修正されるかもしれません。",
+                    "英語": "That error might be fixed in the next software update.",
+                    "ポイント": "「～されるかもしれない」という確度の低い推測を表す、助動詞mightを用いた受動態です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "SVOOとSVOCの受動態",
+            "セクションの説明": "It is said that...「～だと言われている」や、be considered ...「～だと考えられている」など、客観的な事実や評価を述べるための重要な構文です。",
+            "例文": [
+                {
+                    "日本語": "このタスクは、最も困難な課題の一つであると考えられています。",
+                    "英語": "This task is considered to be one of the most difficult challenges.",
+                    "ポイント": "S is considered C. の形で、「SはCだと考えられている」という客観的な評価を述べます。"
+                },
+                {
+                    "日本語": "私たちは、彼らの非公開ライトフィールドデータセットへのアクセスを与えられました。",
+                    "英語": "We were given access to their private light field dataset for our research.",
+                    "ポイント": "SVOO構文の受動態。We were given something.で「私たちは～を与えられた」となります。"
+                },
+                {
+                    "日本語": "マルチビューステレオは、テクスチャのない表面には苦戦することが知られています。",
+                    "英語": "It is widely known that multi-view stereo struggles with texture-less surfaces.",
+                    "ポイント": "It is known that...で、「～ということが知られている」という一般論を述べる頻出構文です。"
+                },
+                {
+                    "日本語": "その新しいARグラスは、'Mirage'と名付けられました。",
+                    "英語": "The new augmented-reality glasses were named 'Mirage' by the company.",
+                    "ポイント": "SVOC構文(They named the glasses 'Mirage')の受動態です。"
+                },
+                {
+                    "日本語": "この研究分野は、非常に有望であると信じられています。",
+                    "英語": "It is believed that this field of research is very promising.",
+                    "ポイント": "It is believed that...で、「～だと信じられている」という一般的な見解を述べます。"
+                },
+                {
+                    "日本語": "この手法は、リアルタイムアプリケーションには不適切だと見なされました。",
+                    "英語": "This method was deemed unsuitable for any real-time applications.",
+                    "ポイント": "was deemed (considered) C.で、「Cだと見なされた」という意味です。"
+                },
+                {
+                    "日本語": "リアルタイム性能が鍵であると、広く受け入れられています。",
+                    "英語": "It is widely accepted that real-time performance is the key.",
+                    "ポイント": "It is accepted that...で、「～ということが受け入れられている」という一般論を述べます。"
+                },
+                {
+                    "日本語": "私は、プロジェクトのリーダーになるよう依頼されました。",
+                    "英語": "I was asked to be the leader of this particular project.",
+                    "ポイント": "I was asked to do...で、「私は～するよう頼まれた」という意味です。"
+                },
+                {
+                    "日本語": "その点群は、さらなる処理のためにクリーンな状態に保たれました。",
+                    "英語": "The point cloud was kept clean for further processing.",
+                    "ポイント": "SVOC構文(We kept the point cloud clean)の受動態です。"
+                },
+                {
+                    "日本語": "この結果は、統計的に有意であると報告されています。",
+                    "英語": "It has been reported that this result is statistically significant.",
+                    "ポイント": "It has been reported that...で、「～だと報告されている」と既存の研究結果などに言及します。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "その他の受動態表現",
+            "セクションの説明": "感情を表す受動態や、使役動詞の受動態など、より応用的な表現です。",
+            "例文": [
+                {
+                    "日本語": "私はあなたの研究のリアルタイムの側面に、特に興味があります。",
+                    "英語": "I am particularly interested in the real-time aspect of your work.",
+                    "ポイント": "be interested in...で「～に興味がある」。感情が「引き起こされる」側なので受動態の形になります。"
+                },
+                {
+                    "日本語": "実験の前に、マルチビューシステムをキャリブレーションしてもらう必要があります。",
+                    "英語": "We need to get the multi-view system calibrated before the experiment.",
+                    "ポイント": "get + O + 過去分詞で、「Oを～してもらう・される」という使役・被害の意味を表します。"
+                },
+                {
+                    "日本語": "その結果には、少しがっかりしました。",
+                    "英語": "I was a bit disappointed with the final results of the experiment.",
+                    "ポイント": "be disappointed with...で「～にがっかりする」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "私たちの手法は、評価において他の全てを上回るのが見られました。",
+                    "英語": "Our method was seen to outperform all the others in the evaluation.",
+                    "ポイント": "be seen to do...で、「～するのが見られる」という客観的な報告の表現です。"
+                },
+                {
+                    "日本語": "この問題は、点群の位置合わせに関係しています。",
+                    "英語": "This problem is related to the registration of the point clouds.",
+                    "ポイント": "be related to...で「～に関連している」という意味の頻出表現です。"
+                },
+                {
+                    "日本語": "多くの参加者が、あなたのARデモに感銘を受けていました。",
+                    "英語": "Many attendees were impressed by your augmented-reality demonstration.",
+                    "ポイント": "be impressed by...で「～に感銘を受ける」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "そのライトフィールドデータは、もはや入手できなくなっています。",
+                    "英語": "That light field data is no longer made available to the public.",
+                    "ポイント": "be made Cで「Cの状態にされる」というSVOCの受動態の応用です。"
+                },
+                {
+                    "日本語": "私は、あなたの最終的な結論に納得していません。",
+                    "英語": "I am not fully convinced by your final conclusion.",
+                    "ポイント": "be convinced by...で「～に納得させられる」。否定文で「納得できない」という意味。"
+                },
+                {
+                    "日本語": "コンピュータビジョンの知識が、このプロジェクトでは必要とされます。",
+                    "英語": "A background in computer vision is required for this project.",
+                    "ポイント": "be required for...で「～に必要とされる」という意味です。"
+                },
+                {
+                    "日本語": "その会議で、私は光栄にも基調講演を行うよう招待されました。",
+                    "英語": "I was honored to be invited to give a keynote speech at the conference.",
+                    "ポイント": "be honored to do...で「～することを光栄に思う」。感情を表す受動態です。"
+                }
+            ]
+        }
+    ]
+}

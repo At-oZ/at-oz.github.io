@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第8章：関係詞",
+    "章の説明": "関係詞は、2つの文を1つに繋ぎ、名詞（先行詞）に詳細な説明を加えるための接着剤のような役割を果たします。関係詞を使いこなせると、短く途切れ途切れの文ではなく、論理的で情報密度の高い、知的な印象の文を組み立てることができます。学会発表や論文では必須の文法項目です。",
+    "セクション": [
+        {
+            "セクションタイトル": "関係代名詞 (主格): who, which, that",
+            "セクションの説明": "関係詞節の中で「～が」にあたる主語の役割をする関係代名詞です。先行詞が「人」ならwho、「モノ・コト」ならwhichを使います。thatはどちらにも使えます。",
+            "例文": [
+                {
+                    "日本語": "点群をリアルタイムで処理できるアルゴリズムを開発しました。",
+                    "英語": "We have developed an algorithm that can process point clouds in real-time.",
+                    "ポイント": "an algorithm（先行詞）を、that can process...という節が説明しています。thatは節内の主語です。"
+                },
+                {
+                    "日本語": "この実験を手伝ってくれた学生に感謝したいと思います。",
+                    "英語": "I would like to thank the student who helped me with all these experiments.",
+                    "ポイント": "the student（先行詞）を、who helped me...という節が説明しています。先行詞が人なのでwhoを使います。"
+                },
+                {
+                    "日本語": "私たちの研究室には、ライトフィールドをキャプチャできる特殊なカメラがあります。",
+                    "英語": "Our lab has a special camera which is capable of capturing light field data.",
+                    "ポイント": "a special camera（先行詞）を、which is capable...という節が説明しています。先行詞がモノなのでwhichを使います。"
+                },
+                {
+                    "日本語": "リアルタイムARで特に難しいのは、トラッキングの部分です。",
+                    "英語": "The part that is particularly challenging in real-time AR is the tracking component.",
+                    "ポイント": "The part（先行詞）を、that is particularly challenging...という節が説明しています。"
+                },
+                {
+                    "日本語": "これは、私たちのマルチビューシステムから得られた結果を示すグラフです。",
+                    "英語": "This is a graph which shows the results obtained from our multi-view system.",
+                    "ポイント": "a graph（先行詞）を、which shows the results...という節が説明しています。"
+                },
+                {
+                    "日本語": "この分野で働く研究者は、常に新しい課題に直面しています。",
+                    "英語": "Researchers who work in this field are constantly facing new challenges.",
+                    "ポイント": "Researchers（先行詞）を、who work in this fieldという節が説明しています。"
+                },
+                {
+                    "日本語": "拡張現実の体験をより没入感のあるものにする新しい技術があります。",
+                    "英語": "There is a new technology that makes the augmented-reality experience more immersive.",
+                    "ポイント": "a new technology（先行詞）を、that makes the experience...という節が説明しています。"
+                },
+                {
+                    "日本語": "そのRGB-Dセンサーには、深度情報に歪みを生じさせる欠陥がありました。",
+                    "英語": "The RGB-D sensor had a defect which caused a distortion in the depth information.",
+                    "ポイント": "a defect（先行詞）を、which caused a distortion...という節が説明しています。"
+                },
+                {
+                    "日本語": "私たちの仮説に異議を唱える論文がいくつかあります。",
+                    "英語": "There are several papers that challenge our initial hypothesis.",
+                    "ポイント": "several papers（先行詞）を、that challenge our hypothesis...という節が説明しています。"
+                },
+                {
+                    "日本語": "このプロジェクトを率いた教授は、コンピュータビジョンの専門家です。",
+                    "英語": "The professor who led this project is an expert in computer vision.",
+                    "ポイント": "The professor（先行詞）を、who led this projectという節が説明しています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "関係代名詞 (目的格): who(m), which, that",
+            "セクションの説明": "関係詞節の中で「～を」「～に」にあたる目的語の役割をする関係代名詞です。口語では、この関係代名詞はしばしば省略されます。",
+            "例文": [
+                {
+                    "日本語": "これが、私たちがこれまでに達成した最高の結果です。",
+                    "英語": "This is the best result we have achieved so far.",
+                    "ポイント": "the best result (that/which) we have achieved...のように、目的格の関係代名詞は省略されることが非常に多いです。"
+                },
+                {
+                    "日本語": "あなたが言及した論文を読む機会がありませんでした。",
+                    "英語": "I didn't have a chance to read the paper that you mentioned in your talk.",
+                    "ポイント": "the paper（先行詞）を、that you mentioned...が説明しています。mentionedの目的語がthatです。"
+                },
+                {
+                    "日本語": "私たちが使ったデータセットは、オンラインで公開されています。",
+                    "英語": "The dataset which we used for the experiment is publicly available online.",
+                    "ポイント": "The dataset（先行詞）を、which we used...が説明しています。usedの目的語がwhichです。"
+                },
+                {
+                    "日本語": "私たちが解決しようとしている問題は、非常に複雑です。",
+                    "英語": "The problem we are trying to solve is extremely complex.",
+                    "ポイント": "The problem (that/which) we are trying to solve...のように、関係代名詞が省略されています。"
+                },
+                {
+                    "日本語": "私が昨日話した研究者は、ライトフィールドの専門家です。",
+                    "英語": "The researcher who(m) I spoke with yesterday is a specialist in light fields.",
+                    "ポイント": "先行詞が人の目的格はwhomが正式ですが、口語ではwhoが使われたり、省略されることが多いです。"
+                },
+                {
+                    "日本語": "この拡張現実アプリは、私が想像していたものと全く違います。",
+                    "英語": "This augmented-reality app is quite different from the one I had imagined.",
+                    "ポイント": "the one (that/which) I had imagined...のように、関係代名詞が省略されています。"
+                },
+                {
+                    "日本語": "彼らが提案したマルチビューのアプローチは、非常に革新的です。",
+                    "英語": "The multi-view approach that they proposed is highly innovative.",
+                    "ポイント": "The ... approach（先行詞）を、that they proposed...が説明しています。proposedの目的語がthatです。"
+                },
+                {
+                    "日本語": "あなたが見せてくれた点群は、非常に高密度でした。",
+                    "英語": "The point cloud you showed me was incredibly dense and detailed.",
+                    "ポイント": "The point cloud (that/which) you showed me...のように、関係代名詞が省略されています。"
+                },
+                {
+                    "日本語": "彼が直面した技術的な困難を、私は理解しています。",
+                    "英語": "I understand the technical difficulties which he faced during development.",
+                    "ポイント": "the technical difficulties（先行詞）を、which he faced...が説明しています。"
+                },
+                {
+                    "日本語": "これが、私たちがこのプロジェクトで使ったRGB-Dセンサーです。",
+                    "英語": "This is the exact RGB-D sensor we used for this project.",
+                    "ポイント": "the exact RGB-D sensor (that/which) we used...のように、関係代名詞が省略されています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "所有格(whose) と 関係副詞(where, when, why)",
+            "セクションの説明": "「～の」という所有の関係を表すwhose、場所・時・理由を説明するwhere, when, whyの使い方を学びます。",
+            "例文": [
+                {
+                    "日本語": "私は、その人の研究を尊敬しているある研究者と話しました。",
+                    "英語": "I spoke with a researcher whose work I deeply admire in this field.",
+                    "ポイント": "a researcher（先行詞）のwork、という所有関係をwhoseで表しています。"
+                },
+                {
+                    "日本語": "これが、計算の大部分が行われるパイプラインのステージです。",
+                    "英語": "This is the stage of the pipeline where the most computation occurs.",
+                    "ポイント": "the stage（場所）を、where...の節が説明しています。"
+                },
+                {
+                    "日本語": "私たちがこの特定のRGB-Dセンサーを選んだのには、理由があります。",
+                    "英語": "There is a reason why we chose this particular RGB-D sensor.",
+                    "ポイント": "a reason（理由）を、why...の節が説明しています。"
+                },
+                {
+                    "日本語": "彼は、その会社の最新ARグラスのデザインを担当したエンジニアです。",
+                    "英語": "He is the engineer whose design for the latest AR glasses won an award.",
+                    "ポイント": "the engineer（先行詞）のdesign、という所有関係をwhoseで表しています。"
+                },
+                {
+                    "日本語": "リアルタイムシステムでは、遅延が問題になる時点があります。",
+                    "英語": "There is a point when the latency becomes a critical issue in real-time systems.",
+                    "ポイント": "a point（時）を、when...の節が説明しています。"
+                },
+                {
+                    "日本語": "それが、私たちがマルチビューのアプローチを追求することにした理由です。",
+                    "英語": "That is the main reason why we decided to pursue a multi-view approach.",
+                    "ポイント": "the main reason（理由）を、why...の節が説明しています。"
+                },
+                {
+                    "日本語": "私たちは、点群の密度が不十分な領域を特定しました。",
+                    "英語": "We identified the regions where the point cloud density was insufficient.",
+                    "ポイント": "the regions（場所）を、where...の節が説明しています。"
+                },
+                {
+                    "日本語": "私は、その人の論文が頻繁に引用されるある教授を知っています。",
+                    "英語": "I know a professor whose papers are frequently cited in our field.",
+                    "ポイント": "a professor（先行詞）のpapers、という所有関係をwhoseで表しています。"
+                },
+                {
+                    "日本語": "これが、ライトフィールドの全ての角度情報が保存されるデータ構造です。",
+                    "英語": "This is the data structure where all the angular information of the light field is stored.",
+                    "ポイント": "the data structure（場所）を、where...の節が説明しています。"
+                },
+                {
+                    "日本語": "それがなぜ重要なのか、理由を説明していただけますか？",
+                    "英語": "Can you explain the reason why that is considered so important?",
+                    "ポイント": "the reason（理由）を、why...の節が説明しています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "what と 前置詞 + 関係代名詞",
+            "セクションの説明": "先行詞を含み「～すること・もの」と訳せるwhatと、「前置詞+which/whom」という、論文などで使われるよりフォーマルな形を学びます。",
+            "例文": [
+                {
+                    "日本語": "ここで重要なのは、システムのリアルタイム性能です。",
+                    "英語": "What is important to understand here is the real-time performance of the system.",
+                    "ポイント": "What = The thing that。What is important...で「重要なことは～」という主語の塊を作ります。"
+                },
+                {
+                    "日本語": "これが、私たちのARシステム全体が基づいている原理です。",
+                    "英語": "This is the principle on which our entire AR system is based.",
+                    "ポイント": "This is the principle which ... is based on.を、よりフォーマルにした前置詞+関係代名詞の形です。"
+                },
+                {
+                    "日本語": "あなたの発表で私が理解できなかったのは、最後の部分です。",
+                    "英語": "What I couldn't understand from your talk was the very last part.",
+                    "ポイント": "What I couldn't understand...で「私が理解できなかったこと」という名詞の塊を作ります。"
+                },
+                {
+                    "日本語": "これが、私たちがこの結果を達成した方法です。",
+                    "英語": "This is the method by which we achieved this remarkable result.",
+                    "ポイント": "the method which we achieved ... by.を、よりフォーマルにしたby whichの形です。"
+                },
+                {
+                    "日本語": "私たちが次にすべきことは、この手法を実世界のデータでテストすることです。",
+                    "英語": "What we need to do next is to test this method on real-world data.",
+                    "ポイント": "What we need to do next...で「私たちが次にすべきこと」という主語の塊を作ります。"
+                },
+                {
+                    "日本語": "彼が話していたRGB-Dセンサーの仕様を、私はよく知りません。",
+                    "英語": "I'm not familiar with the specifications of the RGB-D sensor about which he was talking.",
+                    "ポイント": "...the sensor which he was talking about.を、よりフォーマルにしたabout whichの形です。"
+                },
+                {
+                    "日本語": "彼の貢献は、この分野を今日ある姿にしたものです。",
+                    "英語": "His contribution is what has made this field what it is today.",
+                    "ポイント": "whatが補語として使われています。「今日のこの分野の姿」というニュアンス。"
+                },
+                {
+                    "日本語": "私たちが興味を持っている応用分野は、拡張現実にあります。",
+                    "英語": "The application area in which we are interested is augmented reality.",
+                    "ポイント": "The area which we are interested in...を、よりフォーマルにしたin whichの形です。"
+                },
+                {
+                    "日本語": "私が提案したいのは、異なるパラメータセットを試すことです。",
+                    "英語": "What I would like to propose is that we try a different set of parameters.",
+                    "ポイント": "What I would like to propose...で「私が提案したいこと」という主語の塊を作ります。"
+                },
+                {
+                    "日本語": "これが、私たちの研究が基づいている理論的枠組みです。",
+                    "英語": "This is the theoretical framework upon which our research is built.",
+                    "ポイント": "...the framework which our research is built upon.を、upon whichでよりフォーマルにした形です。"
+                }
+            ]
+        }
+    ]
+}

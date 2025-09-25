@@ -1,0 +1,230 @@
+{
+    "章タイトル": "総集編：文法事項ミックス ② (全100文中 51-100文)",
+    "章の説明": "総集編の後半です。前半に引き続き、学会でのコミュニケーションで遭遇する様々なシナリオを想定した例文を揃えました。これらの文が瞬時に口から出てくるようになれば、あなたのスピーキング力は格段に向上しているはずです。",
+    "セクション": [
+        {
+            "セクションタイトル": "研究手法の深掘り",
+            "セクションの説明": "自身の研究手法の細部や、なぜその手法を選んだのかという理由、そしてその限界について議論する際の例文です。",
+            "例文": [
+                {
+                    "日本語": "標準的なカメラを使う代わりに、オクルージョンを扱うことができるライトフィールドカメラを選びました。",
+                    "英語": "Instead of using a standard camera, we chose a light field camera, which allowed us to handle occlusions.",
+                    "ポイント": "前置詞+動名詞(Instead of using)、非制限用法の関係代名詞(which)、SVO+不定詞(allowed us to handle)の組み合わせです。"
+                },
+                {
+                    "日本語": "システムは正確にキャリブレーションされなければなりません。さもなければ、ARの重ね合わせが安定しないでしょう。",
+                    "英語": "The system must be calibrated precisely; otherwise, the AR overlay will not be stable.",
+                    "ポイント": "助動詞を含む受動態(must be calibrated)と、仮定法的な意味合いを持つ接続副詞(otherwise)の組み合わせです。"
+                },
+                {
+                    "日本語": "点群の各点には、それに関連付けられたRGB値があります。",
+                    "英語": "Each point in the point cloud has an RGB value associated with it.",
+                    "ポイント": "前置詞(in)と、名詞を後ろから修飾する過去分詞(associated with)です。"
+                },
+                {
+                    "日本語": "リアルタイム性を達成することが目的だったので、私たちはいくつかの計算量の多い特徴量を無視することに決めました。",
+                    "英語": "Since our goal was to achieve real-time performance, we decided to ignore some computationally expensive features.",
+                    "ポイント": "理由を表す接続詞(Since)、不定詞の名詞的用法(to achieve)、不定詞を目的語に取る動詞(decided to ignore)の組み合わせです。"
+                },
+                {
+                    "日本語": "このデータセットは、アノテーションが付いているという点で、他のものとは異なります。",
+                    "英語": "This dataset is different from others in that it comes with detailed annotations.",
+                    "ポイント": "前置詞(from)、接続詞(in that...「～という点において」)を組み合わせた、比較・理由の説明です。"
+                },
+                {
+                    "日本語": "私たちは、パラメータを一つずつ調整するという骨の折れるプロセスを経ました。",
+                    "英語": "We went through the painful process of tuning the parameters one by one.",
+                    "ポイント": "前置詞(through)と、前置詞の目的語になる動名詞(of tuning)です。"
+                },
+                {
+                    "日本語": "この手法の主な限界は、テクスチャのない表面の扱いにあります。",
+                    "英語": "The main limitation of this method lies in handling texture-less surfaces.",
+                    "ポイント": "所有格(of)、前置詞+動名詞(in handling)を組み合わせ、研究の限界を明確に述べています。"
+                },
+                {
+                    "日本語": "全てのマルチビューカメラが同期されていることを確認することが、極めて重要です。",
+                    "英語": "It is of utmost importance to ensure that all multi-view cameras are synchronized.",
+                    "ポイント": "形式主語構文(It is...)、不定詞の名詞的用法(to ensure)、名詞節を導くthat、受動態(are synchronized)の組み合わせです。"
+                },
+                {
+                    "日本語": "このアルゴリズムは、その堅牢性から、多くの研究者によって採用されてきました。",
+                    "英語": "Due to its robustness, this algorithm has been adopted by many researchers.",
+                    "ポイント": "理由を表す前置詞句(Due to)と、現在完了形の受動態(has been adopted)です。"
+                },
+                {
+                    "日本語": "私たちは、この問題は無視できるほど小さいと仮定しました。",
+                    "英語": "We made the assumption that this problem was small enough to be ignored.",
+                    "ポイント": "同格の名詞節を導くthatと、...enough to do構文、そして不定詞の受動態(to be ignored)です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "結果の解釈と議論",
+            "セクションの説明": "得られた結果が何を意味するのかを分析したり、予想と比較したり、その重要性を議論したりする際の例文です。",
+            "例文": [
+                {
+                    "日本語": "この結果は驚くべきものでした。なぜなら、性能がこれほど高いとは予想していなかったからです。",
+                    "英語": "This result was surprising because we had not expected the performance to be so high.",
+                    "ポイント": "感情を表す現在分詞(surprising)、理由の接続詞(because)、過去完了形(had not expected)、SVO+不定詞(expected... to be)の組み合わせです。"
+                },
+                {
+                    "日本語": "定量的結果はわずかに低いですが、定性的結果は目に見えて優れています。",
+                    "英語": "Although the quantitative results are slightly lower, the qualitative results are visibly better.",
+                    "ポイント": "譲歩の接続詞(Although)と、2つの比較級(lower, better)を用いた結果の多面的な分析です。"
+                },
+                {
+                    "日本語": "このアーティファクトは、キャプチャ中の微かな動きによって引き起こされたのかもしれません。",
+                    "英語": "This artifact might have been caused by a subtle movement during the capture process.",
+                    "ポイント": "過去への推量を表す助動詞+完了形+受動態(might have been caused)と、期間を表す前置詞(during)です。"
+                },
+                {
+                    "日本語": "図3が示すように、私たちの手法は全ての場合でベースラインを上回っています。",
+                    "英語": "As Figure 3 indicates, our method outperforms the baseline in all cases.",
+                    "ポイント": "様態を表す接続詞(As...)と、基本的なSVO文型です。"
+                },
+                {
+                    "日本語": "この予期せぬ結果を説明できる、もっともらしい仮説は2つあります。",
+                    "英語": "There are two plausible hypotheses that could explain this unexpected result.",
+                    "ポイント": "主格の関係代名詞(that)と、可能性を表す助動詞(could)です。"
+                },
+                {
+                    "日本語": "リアルタイム性能の点で、私たちの結果は最先端技術に匹敵します。",
+                    "英語": "In terms of real-time performance, our result is comparable to the state-of-the-art.",
+                    "ポイント": "範囲を限定する前置詞句(In terms of)と、比較表現(comparable to)です。"
+                },
+                {
+                    "日本語": "エラーが増えれば増えるほど、ARの体験の質は低下します。",
+                    "英語": "The more errors there are, the less immersive the AR experience becomes.",
+                    "ポイント": "The 比較級, the 比較級構文で、二つの事象の相関関係を述べています。"
+                },
+                {
+                    "日本語": "私たちが観察した主な違いは、点群の密度にありました。",
+                    "英語": "The main difference we observed was in the density of the point cloud.",
+                    "ポイント": "目的格の関係代名詞の省略(difference (that) we observed)と、場所・位置を表す前置詞(in)です。"
+                },
+                {
+                    "日本語": "この実験から、どんな結論が引き出せるとお考えですか？",
+                    "英語": "What conclusion do you think can be drawn from this experiment?",
+                    "ポイント": "Wh-疑問文と、助動詞を含む受動態(can be drawn)を組み合わせた質問です。"
+                },
+                {
+                    "日本語": "この結果は、統計的に有意であると見なされるほど十分なものではありません。",
+                    "英語": "This result is not significant enough to be considered statistically valid.",
+                    "ポイント": "...enough to do構文の否定形と、不定詞の受動態(to be considered)です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "同意・不同意と代替案の提示",
+            "セクションの説明": "相手の意見に対して同意や不同意を表明したり、議論をより深めるために代替案を提示したりする際の、より高度な会話の例文です。",
+            "例文": [
+                {
+                    "日本語": "処理時間に関するご懸念は理解できます。アルゴリズムを並列化することは検討されましたか？",
+                    "英語": "I understand your concern about the processing time. Have you considered parallelizing the algorithm?",
+                    "ポイント": "関連を表す前置詞(about)と、提案を促す現在完了形+動名詞(Have you considered ...ing)です。"
+                },
+                {
+                    "日本語": "それは妥当なご指摘です。もしその比較を論文に含めていたら、より良かったでしょう。",
+                    "英語": "That's a valid point. It would have been better if we had included that comparison in our paper.",
+                    "ポイント": "同意の表現と、過去の事実に反する仮定法過去完了(It would have been better if...)です。"
+                },
+                {
+                    "日本語": "リアルタイム性能が重要であることには同意しますが、本当に重要なのはユーザー体験だと私は信じています。",
+                    "英語": "While I agree that real-time performance is important, I believe what truly matters is the user experience.",
+                    "ポイント": "譲歩・対比の接続詞(While)、名詞節(that...)、そして強調の関係代名詞whatの組み合わせです。"
+                },
+                {
+                    "日本語": "あなたのご意見には完全には賛成できません。なぜなら、そのアプローチには見過ごされている欠点があるからです。",
+                    "英語": "I'm afraid I can't fully agree with you, because that approach has an overlooked flaw.",
+                    "ポイント": "丁寧な不同意(I'm afraid...)、理由の接続詞(because)、過去分詞の形容詞的用法(overlooked)です。"
+                },
+                {
+                    "日本語": "もし私が何か提案できるとしたら、異なるRGB-Dセンサーを使ってみることです。",
+                    "英語": "If I might make a suggestion, I would try using a different RGB-D sensor.",
+                    "ポイント": "非常に丁寧な提案の切り出し方(If I might...)と、仮定法、動名詞(using)の組み合わせです。"
+                },
+                {
+                    "日本語": "あなたの考えは興味深いですが、私は別の見方をしています。",
+                    "英語": "Your idea is interesting; however, I have a slightly different perspective.",
+                    "ポイント": "感情を表す現在分詞(interesting)、接続副詞(however)、比較級(slightly different)です。"
+                },
+                {
+                    "日本語": "その代替案は魅力的ですが、私たちの現在のハードウェアで実行可能でしょうか？",
+                    "英語": "That alternative sounds appealing, but would it be feasible to run on our current hardware?",
+                    "ポイント": "逆接の接続詞(but)と、可能性を尋ねる丁寧な仮定法(would it be)です。"
+                },
+                {
+                    "日本語": "その点については、あなたと全く同意見です。追加すべきことは何もありません。",
+                    "英語": "I couldn't agree with you more on that point. There is nothing to add.",
+                    "ポイント": "「これ以上同意できない」という、強い賛同を示す慣用句と、不定詞の形容詞的用法(nothing to add)です。"
+                },
+                {
+                    "日本語": "深層学習は確かに強力ですが、この特定の問題に対しては過剰装備ではないでしょうか？",
+                    "英語": "Deep learning is certainly powerful, but isn't it overkill for this particular problem?",
+                    "ポイント": "逆接のbutと、同意を求めるニュアンスの否定疑問文(isn't it...?)です。"
+                },
+                {
+                    "日本語": "もし私が間違っていなければ、あなたの手法はカメラの動きが遅いことを前提としていますよね？",
+                    "英語": "If I'm not mistaken, your method assumes that the camera is moving slowly, correct?",
+                    "ポイント": "丁寧な確認の切り出し(If I'm not mistaken)、名詞節(that...)、そして念押しの付加疑問(correct?)です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "発表の締めと謝辞",
+            "セクションの説明": "プレゼンテーションの最後を締めくくり、共同研究者や聴衆への感謝を述べる際の例文です。",
+            "例文": [
+                {
+                    "日本語": "最後に、私たちの研究の3つの主な貢献を要約することで、締めくくりたいと思います。",
+                    "英語": "I'd like to conclude by summarizing the three main contributions of our work.",
+                    "ポイント": "丁寧な表現(I'd like to)、手段の動名詞(by summarizing)、所有のofです。"
+                },
+                {
+                    "日本語": "共同研究者からのサポートがなければ、この研究は不可能だったでしょう。",
+                    "英語": "Without the support from my collaborators, this work would not have been possible.",
+                    "ポイント": "仮定を表す前置詞(Without)と、過去の事実に反する仮定法過去完了の受動態(would not have been)です。"
+                },
+                {
+                    "日本語": "最後に、本日ここで話す機会を与えてくださった主催者の皆様に感謝いたします。",
+                    "英語": "Finally, I want to thank the organizers who gave me the opportunity to speak here today.",
+                    "ポイント": "SVOOの主格の関係代名詞(who gave me...)と、名詞を修飾する不定詞の形容詞的用法(opportunity to speak)です。"
+                },
+                {
+                    "日本語": "私たちの研究は、まだやるべきことが多く残っている、刺激的な分野です。",
+                    "英語": "Our research is in an exciting field where there is still much work to be done.",
+                    "ポイント": "感情を表す現在分詞(exciting)、場所を表す関係副詞(where)、不定詞の受動態(to be done)です。"
+                },
+                {
+                    "日本語": "この研究が、この分野の将来の探求のきっかけとなることを願っています。",
+                    "英語": "It is hoped that this research will inspire future exploration in this field.",
+                    "ポイント": "It is hoped that...の客観的な構文と、未来形(will inspire)、不定詞(to exploreの省略)です。"
+                },
+                {
+                    "日本語": "私たちの研究室からの継続的な支援に、深く感謝しています。",
+                    "英語": "I am deeply grateful for the continuous support I have received from my lab.",
+                    "ポイント": "感情を表す受動態(be grateful for)と、目的格の関係代名詞の省略(support (that) I have received)です。"
+                },
+                {
+                    "日本語": "これで私の発表は終わりです。ご清聴ありがとうございました。",
+                    "英語": "This brings me to the end of my presentation. Thank you for listening.",
+                    "ポイント": "発表の締めくくりの定型句と、感謝の理由を表す動名詞(for listening)です。"
+                },
+                {
+                    "日本語": "この研究は、ABC基金からの寛大な助成金によって支援されました。",
+                    "英語": "This research was supported by a generous grant from the ABC Foundation.",
+                    "ポイント": "謝辞で使われる、基本的な過去形の受動態(was supported by)です。"
+                },
+                {
+                    "日本語": "質問やコメントがあれば、喜んでお受けします。",
+                    "英語": "I would be happy to take any questions or comments you might have.",
+                    "ポイント": "仮定法を用いた丁寧な表現(I would be happy to)と、目的格の関係代名詞の省略(questions (that) you might have)です。"
+                },
+                {
+                    "日本語": "このプロジェクトに関わった全ての人々、特に私の指導教官に感謝したいと思います。",
+                    "英語": "I'd like to acknowledge everyone involved in this project, especially my supervisor.",
+                    "ポイント": "丁寧な表現(I'd like to)と、名詞を修飾する過去分詞(everyone involved)です。"
+                }
+            ]
+        }
+    ]
+}

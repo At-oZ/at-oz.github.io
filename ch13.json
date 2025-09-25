@@ -1,0 +1,286 @@
+{
+    "章タイトル": "第13章：前置詞",
+    "章の説明": "前置詞は、場所、時間、目的、手段といった、文中の単語同士の論理的な関係性を示す短い単語です。一つ一つの単語は小さいですが、その選択が文全体の意味を大きく左右します。ここでは、特によく使われる前置詞を機能別に分類し、文脈の中で自然に使えるように練習します。",
+    "セクション": [
+        {
+            "セクションタイトル": "場所・位置 (in, on, at, overなど)",
+            "セクションの説明": "物理的な位置関係や、抽象的な「～において」という文脈を表す前置詞です。",
+            "例文": [
+                {
+                    "日本語": "最終的にレンダリングされた画像には、いくつか目に見えるアーティファクトがあります。",
+                    "英語": "There are some visible artifacts in the final rendered image.",
+                    "ポイント": "「画像の中に」という平面・空間の内部を示す基本的なinの使い方です。"
+                },
+                {
+                    "日本語": "このスライドでご覧いただけるように、結果は非常に良好です。",
+                    "英語": "As you can see on this slide, the results are quite good.",
+                    "ポイント": "「スライドの上で」と、表面に接触していることを示すonです。"
+                },
+                {
+                    "日本語": "さらなる質問は、ポスターセッションの会場で対応いたします。",
+                    "英語": "I will be available for further questions at the poster session.",
+                    "ポイント": "「ポスターセッションで」という特定の場所・イベントを指すatです。"
+                },
+                {
+                    "日本語": "私たちは、カメラをロボットアームの上に取り付けました。",
+                    "英語": "We mounted the camera on top of a robotic arm.",
+                    "ポイント": "on top of...で「～の真上に」という位置関係を表します。"
+                },
+                {
+                    "日本語": "拡張現実では、仮想オブジェクトが実世界の上に重ね合わせられます。",
+                    "英語": "In augmented reality, virtual objects are superimposed over the real world.",
+                    "ポイント": "「～の上を覆うように」というニュアンスのoverです。"
+                },
+                {
+                    "日本語": "私たちの研究室は、通りの向かい側の建物にあります。",
+                    "英語": "Our lab is located in the building across the street.",
+                    "ポイント": "across...で「～を横切って、～の向こう側に」という意味です。"
+                },
+                {
+                    "日本語": "提案手法と既存手法の間には、大きな性能差があります。",
+                    "英語": "There is a huge performance gap between our method and the existing one.",
+                    "ポイント": "between A and Bで「AとBの間に」という関係を表します。"
+                },
+                {
+                    "日本語": "この会議には、世界中から多くの研究者が集まっています。",
+                    "英語": "Many researchers from all over the world are gathered at this conference.",
+                    "ポイント": "from...で「～から」という出身・出所を表します。"
+                },
+                {
+                    "日本語": "彼は、ライトフィールドイメージングの分野における第一人者です。",
+                    "英語": "He is a leading expert in the field of light field imaging.",
+                    "ポイント": "「分野・領域の中で」という場合はinを使います。"
+                },
+                {
+                    "日本語": "リアルタイムシステムでは、16ミリ秒の壁というものがあります。",
+                    "英語": "There's a 16-millisecond barrier that we must stay under in real-time systems.",
+                    "ポイント": "「～の下に」という基準点以下の位置を示すunderです。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "時間 (at, on, in, for, duringなど)",
+            "section_description": "特定の時点、期間、曜日など、時間に関する関係性を示します。",
+            "例文": [
+                {
+                    "日本語": "質疑応答は、私の講演の最後に始まります。",
+                    "英語": "The question and answer session will begin at the end of my talk.",
+                    "ポイント": "at...で「～の時点で」という、特定の時点を表します。"
+                },
+                {
+                    "日本語": "この拡張現実のプロジェクトに、3年間取り組んできました。",
+                    "英語": "I have been working on this augmented-reality project for three years.",
+                    "ポイント": "for...で「～の間」という、期間の長さを表します。"
+                },
+                {
+                    "日本語": "リアルタイム処理中に、わずかな遅延に気づきました。",
+                    "英語": "We noticed a slight processing delay during the real-time demonstration.",
+                    "ポイント": "during...で「～の間に」という、特定の出来事が起こっている期間を表します。"
+                },
+                {
+                    "日本語": "私たちは、2025年3月までに最終報告書を提出する予定です。",
+                    "英語": "We plan to submit the final report by March 2025.",
+                    "ポイント": "by...で「～までに」という期限を表します。"
+                },
+                {
+                    "日本語": "2020年以来、マルチビュー幾何学の分野で働いています。",
+                    "英語": "I have been working in the field of multi-view geometry since 2020.",
+                    "ポイント": "since...で「～以来ずっと」という、過去の起点から現在までの継続を表します。"
+                },
+                {
+                    "日本語": "次の発表は、10分後に始まります。",
+                    "英語": "The next presentation will start in ten minutes.",
+                    "ポイント": "in...で「今から～後に」という未来の時点を表します。"
+                },
+                {
+                    "日本語": "私たちは、午前中に全てのデータ収集を終えました。",
+                    "英語": "We finished all the data collection in the morning.",
+                    "ポイント": "in the morning/afternoon/eveningのように、一日の特定の時間帯にはinを使います。"
+                },
+                {
+                    "日本語": "この問題については、発表の後で議論しましょう。",
+                    "英語": "Let's discuss this issue after my presentation is over.",
+                    "ポイント": "after...で「～の後で」という時間的な順序を表します。"
+                },
+                {
+                    "日本語": "締め切りに間に合うように、私たちは夜通し働きました。",
+                    "英語": "We worked through the night to meet the deadline.",
+                    "ポイント": "through...で「～の間ずっと」と、期間の始めから終わりまでを表します。"
+                },
+                {
+                    "日本語": "最終的な論文を投稿する前に、何度も修正を行いました。",
+                    "英語": "We made many revisions before submitting the final paper.",
+                    "ポイント": "before...で「～の前に」という時間的な順序を表します。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "目的・理由・原因 (for, from, due toなど)",
+            "セクションの説明": "「～のために」「～が原因で」など、行為の目的や、事象の原因・理由を示します。",
+            "例文": [
+                {
+                    "日本語": "私たちは、定量的評価のために合成データセットを使用しました。",
+                    "英語": "We used a synthetic dataset for the quantitative evaluation.",
+                    "ポイント": "for...で「～のために」という目的を表します。"
+                },
+                {
+                    "日本語": "予期せぬハードウェアの故障により、実験は失敗しました。",
+                    "英語": "The experiment failed due to an unexpected hardware malfunction.",
+                    "ポイント": "due to...で「～が原因で」という理由を表します。because of...よりフォーマルな表現です。"
+                },
+                {
+                    "日本語": "その誤差は、主に不正確なカメラキャリブレーションから生じます。",
+                    "英語": "The error mainly comes from the inaccurate camera calibration.",
+                    "ポイント": "from...で「～から生じる」という原因や出所を表します。"
+                },
+                {
+                    "日本語": "ご清聴いただき、ありがとうございました。",
+                    "英語": "Thank you very much for your kind attention.",
+                    "ポイント": "Thank you for...で「～をありがとう」と感謝の理由を述べます。"
+                },
+                {
+                    "日本語": "このアルゴリズムは、そのシンプルさから多くの研究者に好まれています。",
+                    "英語": "This algorithm is favored by many researchers because of its simplicity.",
+                    "ポイント": "because of...で「～という理由で」と、直接的な原因・理由を示します。"
+                },
+                {
+                    "日本語": "この研究は、リアルタイムARにおける彼の先行研究に基づいています。",
+                    "英語": "This research is based on his previous work in real-time AR.",
+                    "ポイント": "based on...で「～に基づいて」と、根拠や基礎を示します。"
+                },
+                {
+                    "日本語": "この結果から、私たちの仮説は正しかったと結論付けることができます。",
+                    "英語": "From this result, we can conclude that our hypothesis was correct.",
+                    "ポイント": "from...で「～から判断して」と、判断の根拠を示します。"
+                },
+                {
+                    "日本語": "この点群は、後処理のために保存されました。",
+                    "英語": "This point cloud was saved for the purpose of post-processing.",
+                    "ポイント": "for the purpose of...で「～という目的で」と、目的をより明確に述べます。"
+                },
+                {
+                    "日本語": "計算リソースの不足により、私たちは実験を中止せざるを得ませんでした。",
+                    "英語": "We had to stop the experiment owing to a lack of computational resources.",
+                    "ポイント": "owing to...はdue to...と同様に、「～が原因で」というフォーマルな表現です。"
+                },
+                {
+                    "日本語": "彼は、拡張現実への貢献で有名です。",
+                    "英語": "He is famous for his significant contributions to augmented reality.",
+                    "ポイント": "famous for...で「～で有名だ」と、名声の理由を示します。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "方法・手段・材料 (by, with, throughなど)",
+            "セクションの説明": "「～によって」「～を使って」「～を通して」など、何かを達成するための方法や手段、道具、材料を示します。",
+            "例文": [
+                {
+                    "日本語": "私たちは、新しいフィルタリングのステップを加えることによって、精度を改善しました。",
+                    "英語": "We improved the accuracy by adding a new filtering step.",
+                    "ポイント": "by ...ingで「～することによって」という方法・手段を表す最も一般的な形です。"
+                },
+                {
+                    "日本語": "点群は、高解像度のLiDARセンサーでキャプチャされました。",
+                    "英語": "The point cloud was captured with a high-resolution LiDAR sensor.",
+                    "ポイント": "with...で「～を使って」と、具体的な道具を示します。"
+                },
+                {
+                    "日本語": "私たちは、一連の厳密な実験を通して、仮説を検証しました。",
+                    "英語": "We validated our hypothesis through a series of rigorous experiments.",
+                    "ポイント": "through...で「～を通して」と、プロセスや一連の行為を手段として示します。"
+                },
+                {
+                    "日本語": "このARアプリは、音声コマンドによって操作できます。",
+                    "英語": "This AR app can be controlled by means of voice commands.",
+                    "ポイント": "by means of...で「～という手段によって」と、方法を明確に述べます。"
+                },
+                {
+                    "日本語": "このシステムは、C++で実装されています。",
+                    "英語": "This system is implemented in C++.",
+                    "ポイント": "言語や材料を表すinです。「C++という言語で」という意味。"
+                },
+                {
+                    "日本語": "私たちは、その問題についてEメールで議論しました。",
+                    "英語": "We discussed the matter via email instead of meeting in person.",
+                    "ポイント": "via...で「～経由で」と、通信や交通の手段を示します。"
+                },
+                {
+                    "日本語": "このライトフィールドディスプレイは、裸眼で見ることができます。",
+                    "英語": "You can see this light field display with the naked eye.",
+                    "ポイント": "with...で、手段として使われる身体の一部を示すこともあります。"
+                },
+                {
+                    "日本語": "そのデータは、ワイヤレス接続を介してサーバーに送信されます。",
+                    "英語": "The data is sent to the server over a wireless connection.",
+                    "ポイント": "over...で「～経由で」と、通信経路を示すことがあります。"
+                },
+                {
+                    "日本語": "このオブジェクトは、複数の2D画像から作られています。",
+                    "英語": "This object is made from multiple 2D images.",
+                    "ポイント": "made from...で、元の形をとどめない材料を表します。"
+                },
+                {
+                    "日本語": "このソフトウェアは、Pythonのライブラリを使って書かれています。",
+                    "英語": "This software is written using Python libraries.",
+                    "ポイント": "using...は分詞構文ですが、「～を使って」という手段を表す前置詞のように頻繁に使われます。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "その他の重要前置詞 (of, about, to, asなど)",
+            "section_description": "所有、関連、方向、資格など、様々な関係性を示す、基本的かつ重要な前置詞です。",
+            "例文": [
+                {
+                    "日本語": "あなたのマルチビューアプローチの主な利点は何ですか？",
+                    "英語": "What is the main advantage of your multi-view approach?",
+                    "ポイント": "A of Bで「BのA」という所有・所属関係を表す最も基本的なofです。"
+                },
+                {
+                    "日本語": "あなたが使ったライトフィールドデータについて、質問があります。",
+                    "英語": "I have a question about the light field data you used in the paper.",
+                    "ポイント": "about...で「～について」という関連性を表します。regardingも同様の使い方ができます。"
+                },
+                {
+                    "日本語": "私たちの手法は、照明の大きな変化に対して頑健です。",
+                    "英語": "Our method is robust to significant changes in lighting conditions.",
+                    "ポイント": "robust to...で「～に対して頑健だ」という、特定の動詞や形容詞と結びつくtoです。"
+                },
+                {
+                    "日本語": "私たちは、先行研究の手法を比較のベースラインとして使いました。",
+                    "英語": "We used the previous state-of-the-art method as our baseline for comparison.",
+                    "ポイント": "as...で「～として」という資格・役割を表します。"
+                },
+                {
+                    "日本語": "この結果は、以前の研究と一致しています。",
+                    "英語": "This result is consistent with the findings of previous studies.",
+                    "ポイント": "consistent with...で「～と一致している」という意味の頻出表現です。"
+                },
+                {
+                    "日本語": "彼の研究は、拡張現実の分野に大きな影響を与えました。",
+                    "英語": "His research had a great impact on the field of augmented reality.",
+                    "ポイント": "impact on...で「～への影響」という決まった組み合わせです。"
+                },
+                {
+                    "日本語": "このアルゴリズムは、いくつかの独立したモジュールで構成されています。",
+                    "英語": "This algorithm consists of several independent modules.",
+                    "ポイント": "consist of...で「～から構成される」という意味です。"
+                },
+                {
+                    "日本語": "リアルタイム性能の点で、私たちの手法は彼らのものと異なります。",
+                    "英語": "Our method is different from theirs in terms of real-time performance.",
+                    "ポイント": "in terms of...で「～の観点では」と、比較や議論の範囲を限定します。"
+                },
+                {
+                    "日本語": "あなたの提案に、完全に同意します。",
+                    "英語": "I completely agree with your suggestion to use a different parameter.",
+                    "ポイント": "agree with...で「～に同意する」という意味です。"
+                },
+                {
+                    "日本語": "RGB-Dセンサーの代わりに、ステレオカメラを使うこともできます。",
+                    "英語": "Instead of an RGB-D sensor, you could also use a stereo camera.",
+                    "ポイント": "instead of...で「～の代わりに」という意味です。"
+                }
+            ]
+        }
+    ]
+}

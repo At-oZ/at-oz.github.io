@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第11章：仮定法",
+    "章の説明": "仮定法は、事実とは異なる「もしも」の世界を表現するための文法です。現在の事実に反する仮定（もし今～だったら）、過去の事実に反する仮定（もしあの時～だったら）を表現できるほか、「もしよろしければ」といった丁寧な提案や依頼にも使われます。研究の可能性を議論したり、相手に敬意を払ったりする上で極めて重要な表現です。",
+    "セクション": [
+        {
+            "セクションタイトル": "仮定法過去 (現在の事実に反する仮定)",
+            "セクションの説明": "「もし今～なら、…だろうに」という、現在の事実とは異なる、あるいは実現可能性の低い仮定を述べます。形は<If + S' + 過去形, S + would/could/might + 動詞の原形>です。",
+            "例文": [
+                {
+                    "日本語": "もしもっと強力なGPUがあれば、レンダリングははるかに速くなるでしょう。",
+                    "英語": "If we had a more powerful GPU, the rendering would be much faster.",
+                    "ポイント": "「(実際にはないが)もしGPUがあれば」という、現在の事実に反する仮定を表しています。"
+                },
+                {
+                    "日本語": "もし私があなたの立場なら、RGB-Dセンサーの代わりにステレオカメラを使うでしょう。",
+                    "英語": "If I were in your position, I would use a stereo camera instead of an RGB-D sensor.",
+                    "ポイント": "仮定法では、be動詞は主語に関わらずwereを使うのが正式です(wasも口語で可)。相手への提案で使われます。"
+                },
+                {
+                    "日本語": "もしこのアルゴリズムがリアルタイムで動作するなら、非常に有用でしょう。",
+                    "英語": "This algorithm would be very useful if it ran in real-time.",
+                    "ポイント": "If節と主節は逆転させることができます。「(実際はリアルタイムではないが)もしそうなら」というニュアンス。"
+                },
+                {
+                    "日本語": "もしこの研究に無制限の予算があるとしたら、あなたなら何をしますか？",
+                    "英語": "What would you do if you had an unlimited budget for this research?",
+                    "ポイント": "What would you do if...?の形で、相手の考えや意見を仮定の状況で尋ねます。"
+                },
+                {
+                    "日本語": "もし推測するとしたら、主なボトルネックはデータ転送だと思います。",
+                    "英語": "If I were to guess, I would say the main bottleneck is the data transfer.",
+                    "ポイント": "If I were to...は「もし私が～するとしたら」と、より丁寧でフォーマルな仮定を表す表現です。"
+                },
+                {
+                    "日本語": "もしライトフィールドがなければ、このオクルージョン問題を解決することはできないでしょう。",
+                    "英語": "We could not solve this occlusion problem if we did not have light fields.",
+                    "ポイント": "「(実際はあるから解決できるが)もしなければ」という現在の事実に反する仮定です。"
+                },
+                {
+                    "日本語": "もし私があなたなら、マルチビューのベースラインを広げてみるでしょう。",
+                    "英語": "If I were you, I would try to widen the baseline of the multi-view setup.",
+                    "ポイント": "If I were you...の形で、相手にアドバイスをする際の定番表現です。"
+                },
+                {
+                    "日本語": "その点群がもう少し高密度であれば、より良い結果が得られるかもしれません。",
+                    "英語": "We might get a better result if the point cloud were a little denser.",
+                    "ポイント": "mightを使うことで、「～かもしれない」と、より確度の低い結果を推測します。"
+                },
+                {
+                    "日本語": "もし私がこのシステムの限界を挙げるとしたら、それはノイズに対する脆弱性でしょう。",
+                    "英語": "If I had to name a limitation of this system, it would be its vulnerability to noise.",
+                    "ポイント": "If I had to...は「もし～しなければならないとしたら」という仮定の表現です。"
+                },
+                {
+                    "日本語": "そのARアプリは、もしユーザーインターフェースがもっと直感的であれば、より良くなるでしょう。",
+                    "英語": "The AR app would be better if its user interface were more intuitive.",
+                    "ポイント": "改善の提案をする際に、「もし～であれば、もっと良くなるのに」という形で使えます。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "仮定法過去完了 (過去の事実に反する仮定)",
+            "セクションの説明": "「もしあの時～だったら、…だっただろうに」という、過去の事実とは異なる仮定を述べます。形は<If + S' + 過去完了形, S + would/could/might + have + 過去分詞>です。",
+            "例文": [
+                {
+                    "日本語": "もしその論文について知っていたら、私たちの研究で引用していたでしょう。",
+                    "英語": "If we had known about that paper, we would have cited it in our work.",
+                    "ポイント": "「(実際は知らなかったので引用しなかったが)もし知っていたら」という、過去の事実に反する仮定です。"
+                },
+                {
+                    "日本語": "もしもっと慎重にキャリブレーションしていたら、システムはもっとうまく機能したかもしれません。",
+                    "英語": "The system might have worked better if we had calibrated the cameras more precisely.",
+                    "ポイント": "「(実際はしなかったので)もし～していたら」と、過去の行為への後悔や、異なる結果の可能性を述べます。"
+                },
+                {
+                    "日本語": "もし十分な学習データがあったなら、深層学習のアプローチを試していたでしょう。",
+                    "英語": "We would have tried a deep learning approach if we had had enough training data.",
+                    "ポイント": "had hadとhadが2回続くのは、過去完了形(had + 過去分詞)のhaveの過去分詞がhadであるためです。"
+                },
+                {
+                    "日本語": "もし彼のアドバイスがなかったら、この問題を解決できなかったでしょう。",
+                    "英語": "We could not have solved this problem if we had not received his advice.",
+                    "ポイント": "「(実際はアドバイスがあったので解決できたが)もしなかったら」という過去の事実に反する仮定です。"
+                },
+                {
+                    "日本語": "もしリアルタイム性能が要件でなかったら、より複雑なアルゴリズムを選んでいたでしょう。",
+                    "英語": "If real-time performance had not been a requirement, I would have chosen a more complex algorithm.",
+                    "ポイント": "過去の選択が、異なる条件だったらどうなっていたかを述べています。"
+                },
+                {
+                    "日本語": "もし昨日あなたの発表に出席していたら、ライトフィールドについてもっと学べたでしょうに。",
+                    "英語": "I could have learned more about light fields if I had attended your talk yesterday.",
+                    "ポイント": "過去にできなかったことへの残念な気持ちを表しています。"
+                },
+                {
+                    "日本語": "もしそのRGB-Dセンサーが故障していなかったら、実験を終えられていたでしょう。",
+                    "英語": "We would have finished the experiment if the RGB-D sensor had not broken down.",
+                    "ポイント": "過去に起こったトラブルがなければどうなっていたかを述べています。"
+                },
+                {
+                    "日本語": "もしあなたがその点に言及しなかったら、私はそれを見過ごしていたかもしれません。",
+                    "英語": "I might have overlooked that point if you had not mentioned it. Thank you.",
+                    "ポイント": "相手への感謝を伝える際に、相手の行為がなければどうなっていたかを述べることで、その価値を強調します。"
+                },
+                {
+                    "日本語": "もし彼が私たちのチームに加わっていたら、プロジェクトは全く違うものになっていたでしょう。",
+                    "英語": "The project would have been completely different if he had joined our team.",
+                    "ポイント": "過去の事実とは異なるシナリオを想像して述べています。"
+                },
+                {
+                    "日本語": "もしマルチビュー画像が同期されていなかったら、3D再構成は失敗していたでしょう。",
+                    "英語": "The 3D reconstruction would have failed if the multi-view images had not been synchronized.",
+                    "ポイント": "過去の成功要因が何であったかを、それがなかった場合を仮定して強調しています。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "丁寧な表現・提案としての仮定法",
+            "セクションの説明": "would, could, mightを使うことで、断定的な響きを和らげ、丁寧な依頼や提案、控えめな意見表明をすることができます。",
+            "例文": [
+                {
+                    "日本語": "その点について、もう少し詳しく説明していただけるとありがたいのですが。",
+                    "英語": "I would appreciate it if you could explain that point in a little more detail.",
+                    "ポイント": "I would appreciate it if...は、「もし～していただけるとありがたい」という非常に丁寧な依頼表現です。"
+                },
+                {
+                    "日本語": "もし共同研究ができれば、素晴らしいでしょうね。",
+                    "英語": "It would be great if we could collaborate on this topic in the future.",
+                    "ポイント": "It would be great if...で、「もし～できたら素晴らしい」と、丁寧な提案や願望を述べます。"
+                },
+                {
+                    "日本語": "もしよろしければ、プレゼンテーションのスライドをいただけますでしょうか？",
+                    "英語": "Would it be possible to get a copy of your presentation slides?",
+                    "ポイント": "Would it be possible to...?は、「～することは可能でしょうか」という丁寧な依頼の決まり文句です。"
+                },
+                {
+                    "日本語": "そのデータセットを私たちと共有していただけるか、気になっておりました。",
+                    "英語": "I was wondering if you could share that interesting dataset with us.",
+                    "ポイント": "I was wondering if...は、「～かなと思っていたのですが」と、非常に控えめに依頼を切り出す表現です。"
+                },
+                {
+                    "日本語": "私なら、リアルタイム性能がより重要だと主張します。",
+                    "英語": "I would argue that the real-time performance is more critical for this application.",
+                    "ポイント": "I would argue that...で、「(もし意見を言うならば)～と主張します」と、断定を避けた丁寧な意見表明になります。"
+                },
+                {
+                    "日本語": "このアプローチを私たちの点群データに適用してみるのは、面白いかもしれません。",
+                    "英語": "It might be interesting to apply this approach to our own point cloud data.",
+                    "ポイント": "It might be...とすることで、「～かもしれない」と、断定を避けた提案ができます。"
+                },
+                {
+                    "日本語": "もし可能であれば、後であなたのARシステムのデモを拝見したいです。",
+                    "英語": "I would love to see a demo of your AR system later, if that's possible.",
+                    "ポイント": "I would love to...で、「ぜひ～したいです」という丁寧ながらも強い希望を表します。"
+                },
+                {
+                    "日本語": "この問題は、別の視点から考える必要があると私は思います。",
+                    "英語": "I would say that we need to think about this problem from a different perspective.",
+                    "ポイント": "I would say...で、「私なら～と言うでしょう」と、自分の意見を控えめに述べます。"
+                },
+                {
+                    "日本語": "もし反対がなければ、次のトピックに進みたいと思います。",
+                    "英語": "If you don't mind, I would like to move on to the next topic.",
+                    "ポイント": "If you don't mind, I would like to...は、「もしよろしければ、～したいのですが」という丁寧な進行の表現です。"
+                },
+                {
+                    "日本語": "その結果について、1つか2つ質問してもよろしいでしょうか？",
+                    "英語": "I was hoping I could ask one or two questions about that result.",
+                    "ポイント": "I was hoping...も、I was wondering if...と同様に、非常に控えめな依頼の切り出し方です。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "その他の仮定法表現 (wish, as ifなど)",
+            "セクションの説明": "I wish...（～ならいいのに）、as if...（まるで～かのように）など、仮定法を用いた様々な慣用表現です。",
+            "例文": [
+                {
+                    "日本語": "この研究の限界について、もっと議論する時間があればよかったのですが。",
+                    "英語": "I wish I had more time to discuss the limitations of our current work.",
+                    "ポイント": "I wish + S + 過去形で、「(実際はないが)今～があればなあ」という現在の願望を表します。"
+                },
+                {
+                    "日本語": "そのARオブジェクトは、まるでシーンの中の実在の物体かのように動きます。",
+                    "英語": "The AR object moves as if it were a real object in the scene.",
+                    "ポイント": "as if + 仮定法で、「まるで～であるかのように」と、事実に反するたとえ話をします。"
+                },
+                {
+                    "日本語": "もしセンサーのノイズがなければ、私たちの結果はほぼ完璧でしょう。",
+                    "英語": "If it were not for the sensor noise, our results would be nearly perfect.",
+                    "ポイント": "If it were not for...で、「もし～がなければ」という現在の事実に反する仮定を表す重要表現です。"
+                },
+                {
+                    "日本語": "リアルタイムのフィードバックなしでは、AR体験はあまり没入感のあるものにはならないでしょう。",
+                    "英語": "Without real-time feedback, the AR experience wouldn't be very immersive.",
+                    "ポイント": "Without... ( = If it were not for...)で、「～がなければ」と仮定を表すことができます。"
+                },
+                {
+                    "日本語": "あの時、もっと多くのマルチビュー画像を取得しておけばよかったです。",
+                    "英語": "I wish we had captured more multi-view images at that time.",
+                    "ポイント": "I wish + S + 過去完了形で、「(実際はしなかったが)あの時～しておけばよかった」という過去への後悔を表します。"
+                },
+                {
+                    "日本語": "そろそろ質疑応答に移る時間です。",
+                    "英語": "It's about time we moved on to the question and answer session.",
+                    "ポイント": "It's time + S + 過去形で、「そろそろ～する時間だ」という意味の仮定法表現です。"
+                },
+                {
+                    "日本語": "もしあなたの助けがなかったら、私たちはこのプロジェクトを終えられなかったでしょう。",
+                    "英語": "But for your help, we could not have finished this project on time.",
+                    "ポイント": "But for... ( = If it had not been for...)で、「もし～がなかったら」と過去の事実に反する仮定を表します。"
+                },
+                {
+                    "日本語": "彼は、まるでライトフィールド技術の全てを知っているかのように話します。",
+                    "英語": "He talks as if he knew everything about light field technology.",
+                    "ポイント": "as if + 仮定法過去で、「(実際は知らないのに)まるで～であるかのように」という意味です。"
+                },
+                {
+                    "日本語": "仮にあなたの手法がリアルタイムで動くとして、計算コストはどうなりますか？",
+                    "英語": "Supposing your method worked in real-time, what would the computational cost be?",
+                    "ポイント": "Supposing... ( = If...)で、「もし～だと仮定すると」と、仮定の条件を提示します。"
+                },
+                {
+                    "日本語": "そうでなければ、この結果を説明することは非常に難しいでしょう。",
+                    "英語": "Otherwise, it would be very difficult to explain this particular result.",
+                    "ポイント": "Otherwiseは「そうでなければ」という意味で、文脈からIf節の内容を暗に示唆する仮定法表現です。"
+                }
+            ]
+        }
+    ]
+}

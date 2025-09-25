@@ -1,0 +1,230 @@
+{
+    "章タイトル": "第14章：接続詞・接続副詞",
+    "章の説明": "接続詞や接続副詞は、文と文、アイデアとアイデアを繋ぐ「論理の架け橋」です。順接、逆接、原因、結果、追加、対比といった関係性を示すことで、話の流れをスムーズにし、聞き手が議論を追いやすくします。これらを使いこなすことが、説得力のあるスピーキングを完成させる最後の鍵となります。",
+    "セクション": [
+        {
+            "セクションタイトル": "等位接続詞 (and, but, or, so)",
+            "セクションの説明": "文法的に対等な語、句、節を繋ぐ最も基本的な接続詞です。シンプルですが、話の展開を作る上で不可欠です。",
+            "例文": [
+                {
+                    "日本語": "私たちの手法は高速で、かつ正確です。",
+                    "英語": "Our proposed method is both fast and accurate for this task.",
+                    "ポイント": "「Aであり、そしてBでもある」と、2つの要素を並列に繋ぐ基本的なandの使い方です。"
+                },
+                {
+                    "日本語": "その結果は有望ですが、さらなる実験が必要です。",
+                    "英語": "The result is quite promising, but more experiments are needed for validation.",
+                    "ポイント": "「Aだが、しかしBだ」と、前後の文脈が逆の内容であることを示すbutです。"
+                },
+                {
+                    "日本語": "RGB-Dセンサーを使うか、あるいはマルチビューステレオのセットアップを使うことができます。",
+                    "英語": "We can either use an RGB-D sensor or a multi-view stereo setup.",
+                    "ポイント": "「Aか、あるいはBか」と、選択肢を示すorの使い方です。either...orの形で使われています。"
+                },
+                {
+                    "日本語": "センサーはノイズが多かったので、フィルタリングのステップを追加する必要がありました。",
+                    "英語": "The sensor was very noisy, so we had to add a filtering step.",
+                    "ポイント": "「Aである。だからBだ」と、前の文が原因で、後ろの文が結果であることを示すsoです。"
+                },
+                {
+                    "日本語": "このARシステムは直感的で、かつユーザーフレンドリーです。",
+                    "英語": "This augmented-reality system is intuitive and user-friendly.",
+                    "ポイント": "intuitiveとuser-friendlyという2つの形容詞をandで繋いでいます。"
+                },
+                {
+                    "日本語": "そのアイデアは理論的には良いですが、実装するのは非常に難しいです。",
+                    "英語": "The idea is good in theory, but it is very difficult to implement.",
+                    "ポイント": "理論と実践の対比を、butを使って表現しています。"
+                },
+                {
+                    "日本語": "パラメータを調整するか、あるいは全く異なるアプローチを試す必要があります。",
+                    "英語": "We need to either tune the parameters or try a completely different approach.",
+                    "ポイント": "tune the parametersとtry a different approachという2つの動詞句をorで繋いでいます。"
+                },
+                {
+                    "日本語": "リアルタイム性能が鍵となる要件だったので、私たちは速度を優先しました。",
+                    "英語": "Real-time performance was a key requirement, so we prioritized speed over accuracy.",
+                    "ポイント": "前の文が理由となり、後ろの文がその結果として取った行動を示しています。"
+                },
+                {
+                    "日本語": "私たちは点群をキャプチャし、そしてそれを3Dモデルに変換しました。",
+                    "英語": "We captured the point cloud and then converted it into a 3D model.",
+                    "ポイント": "and (then) を使って、一連の動作を時系列で繋いでいます。"
+                },
+                {
+                    "日本語": "アルゴリズムは単純ですが、驚くほどうまく機能します。",
+                    "英語": "The algorithm is simple, yet it works surprisingly well in many cases.",
+                    "ポイント": "yetはbutと同様に逆接を表しますが、より書き言葉的で「にもかかわらず」というニュアンスが強まります。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "従位接続詞 (because, if, when, althoughなど)",
+            "セクションの説明": "主節と、それに従属する節（従属節）を繋ぎ、理由、条件、時間、譲歩といった、より複雑な関係性を示します。",
+            "例文": [
+                {
+                    "日本語": "計算効率が良いので、私たちはこの手法を選びました。",
+                    "英語": "We chose this method because it is computationally very efficient.",
+                    "ポイント": "「なぜなら～だから」と、明確な理由を示すbecauseです。"
+                },
+                {
+                    "日本語": "もしカメラが速く動きすぎると、トラッキングは不安定になる可能性があります。",
+                    "英語": "The tracking can become unstable if the camera moves too quickly.",
+                    "ポイント": "「もし～ならば」と、条件を示すifです。"
+                },
+                {
+                    "日本語": "キャリブレーションが完了したら、主実験を開始できます。",
+                    "英語": "We can start the main experiment once the calibration is complete.",
+                    "ポイント": "onceは「一度～したら」という意味で、whenより「完了」のニュアンスが強いです。"
+                },
+                {
+                    "日本語": "その精度は高いですが、処理時間はかなり長いです。",
+                    "英語": "Although the accuracy is very high, the processing time is quite long.",
+                    "ポイント": "「～だけれども」と、逆の内容を述べる譲歩のalthoughです。"
+                },
+                {
+                    "日本語": "リアルタイムシステムを扱っている間は、常に遅延を考慮しなければなりません。",
+                    "英語": "You always have to consider the latency while you are dealing with a real-time system.",
+                    "ポイント": "「～している間」と、継続的な状況を示すwhileです。"
+                },
+                {
+                    "日本語": "この手法が有望であると、私は信じています。",
+                    "英語": "I believe that this light field technology has great potential.",
+                    "ポイント": "believeの目的語となる名詞節を導くthatです。しばしば省略されます。"
+                },
+                {
+                    "日本語": "テクスチャのない領域では、私たちの手法はうまく機能しません。",
+                    "英語": "Our method does not work well unless the region has rich textures.",
+                    "ポイント": "unless...で「～でない限り」という否定の条件を示します。if ... notと同じ意味です。"
+                },
+                {
+                    "日本語": "この拡張現実システムは、ユーザーが期待した通りに動作します。",
+                    "英語": "This augmented-reality system works just as the user would expect.",
+                    "ポイント": "as...で「～の通りに」と、様態を示します。"
+                },
+                {
+                    "日本語": "データセットが公開されて以来、多くの研究が行われてきました。",
+                    "英語": "Many studies have been conducted since the dataset was released.",
+                    "ポイント": "「～以来」と、過去の起点を表すsinceです。"
+                },
+                {
+                    "日本語": "たとえ結果が完璧でなくても、この研究には価値があります。",
+                    "英語": "Even if the results are not perfect, this research has its own value.",
+                    "ポイント": "even if...で「たとえ～だとしても」と、仮の条件を譲歩的に述べます。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "接続副詞 (However, Therefore, Moreoverなど)",
+            "セクションの説明": "文頭に置かれ、前の文と後ろの文の論理的な関係を示す副詞です。議論の流れを整理し、聞き手を導くための「道しるべ」として、プレゼンテーションや質疑応答で極めて重要です。",
+            "例文": [
+                {
+                    "日本語": "私たちの手法は、合成データではうまく機能します。しかしながら、実世界のノイズには苦戦します。",
+                    "英語": "Our method works well on synthetic data. However, it struggles with real-world noise.",
+                    "ポイント": "「しかしながら」と、前の文と逆の内容を述べる、butよりフォーマルなHoweverです。"
+                },
+                {
+                    "日本語": "リアルタイムの制約は非常に重要です。それゆえに、私たちは速度を優先しました。",
+                    "英語": "The real-time constraint is critical; therefore, we prioritized speed over accuracy.",
+                    "ポイント": "「それゆえに」と、前の文を理由として、論理的な結論を導くThereforeです。"
+                },
+                {
+                    "日本語": "このシステムは非常に正確です。さらに、キャリブレーションも簡単です。",
+                    "英語": "This system is very accurate. Moreover, it is quite easy to calibrate.",
+                    "ポイント": "「さらに」と、前の文に情報を付け加えるMoreoverです。In additionも同様に使えます。"
+                },
+                {
+                    "日本語": "一方で、RGB-Dセンサーは安価ですが、他方で、照明条件に敏感です。",
+                    "英語": "On the one hand, RGB-D sensors are cheap. On the other hand, they are sensitive to light.",
+                    "ポイント": "On the one hand... On the other hand...で、対照的な2つの側面を比較します。"
+                },
+                {
+                    "日本語": "言い換えれば、このアプローチは大規模な点群には適していません。",
+                    "英語": "In other words, this approach is not suitable for large-scale point clouds.",
+                    "ポイント": "「言い換えれば」と、前の文の内容を別の言葉で分かりやすく説明するIn other wordsです。"
+                },
+                {
+                    "日本語": "例えば、この手法はARナビゲーションシステムに応用できます。",
+                    "英語": "For example, this method can be applied to an AR navigation system.",
+                    "ポイント": "「例えば」と、具体的な例を挙げるFor example / For instanceです。"
+                },
+                {
+                    "日本語": "それどころか、その最適化は実際には性能を少し低下させました。",
+                    "英語": "On the contrary, that optimization actually degraded the performance slightly.",
+                    "ポイント": "「それどころか」と、前の文の内容を強く否定して、逆の事実を述べます。"
+                },
+                {
+                    "日本語": "同様に、ライトフィールドデータも慎重なキャリブレーションを必要とします。",
+                    "英語": "Likewise, light field data also requires a very careful calibration process.",
+                    "ポイント": "「同様に」と、前の文と似た内容を続けるLikewise / Similarlyです。"
+                },
+                {
+                    "日本語": "結論として、私たちの手法は速度と精度の良いトレードオフを達成しています。",
+                    "英語": "In conclusion, our method achieves a good trade-off between speed and accuracy.",
+                    "ポイント": "「結論として」と、議論を締めくくるIn conclusion / To summarizeです。"
+                },
+                {
+                    "日本語": "その結果、点群の密度が大幅に向上しました。",
+                    "英語": "As a result, the density of the point cloud was improved significantly.",
+                    "ポイント": "「その結果として」と、前の文の行為がもたらした結果を述べるAs a resultです。"
+                }
+            ]
+        },
+        {
+            "セクションタイトル": "対になる接続詞 (both A and Bなど)",
+            "セクションの説明": "both ... and ...やnot only ... but also ...のように、ペアで使われることで、文の構造を整え、意味を強調する働きをします。",
+            "例文": [
+                {
+                    "日本語": "このアプローチは、システムの速度と堅牢性の両方を改善します。",
+                    "英語": "This approach improves both the speed and the robustness of the system.",
+                    "ポイント": "both A and Bで「AとBの両方」と、2つの要素を対等に強調します。"
+                },
+                {
+                    "日本語": "私たちの手法は、より高速なだけでなく、より正確でもあります。",
+                    "英語": "Our method is not only faster but also more accurate than previous works.",
+                    "ポイント": "not only A but also Bで「AだけでなくBも」と、Bをより強調して述べます。"
+                },
+                {
+                    "日本語": "RGB-Dセンサーか、マルチビューステレオのどちらかを使えます。",
+                    "英語": "You can use either an RGB-D sensor or a multi-view stereo setup.",
+                    "ポイント": "either A or Bで「AかBのどちらか」という選択肢を示します。"
+                },
+                {
+                    "日本語": "このアルゴリズムは、CPU上でもGPU上でも動作しません。",
+                    "英語": "This algorithm runs on neither the CPU nor the GPU efficiently.",
+                    "ポイント": "neither A nor Bで「AでもBでもない」という両方を否定する表現です。"
+                },
+                {
+                    "日本語": "精度とリアルタイム性能の両方を考慮に入れる必要があります。",
+                    "英語": "We have to take both accuracy and real-time performance into account.",
+                    "ポイント": "both A and Bが、動詞の目的語になっています。"
+                },
+                {
+                    "日本語": "このライトフィールドデータは、角度情報だけでなく、色情報も含んでいます。",
+                    "英語": "This light field data contains not only angular but also color information.",
+                    "ポイント": "not only A but also Bで、2つの名詞を繋いでいます。"
+                },
+                {
+                    "日本語": "選択肢は、実験をやり直すか、あるいは論文の主張を弱めるかです。",
+                    "英語": "The choice is either to rerun the experiment or to weaken the claims in the paper.",
+                    "ポイント": "either A or Bで、2つの不定詞句(to rerun... / to weaken...)を繋いでいます。"
+                },
+                {
+                    "日本語": "彼は、拡張現実の専門家であるだけでなく、優れたプログラマーでもあります。",
+                    "英語": "He is not only an expert in augmented reality but also an excellent programmer.",
+                    "ポイント": "not only A but also Bで、2つの名詞句を繋いでいます。"
+                },
+                {
+                    "日本語": "この問題には、単純な解決策も簡単な解決策もありません。",
+                    "英語": "There is neither a simple nor an easy solution to this problem.",
+                    "ポイント": "neither A nor Bで、2つの名詞を否定しています。"
+                },
+                {
+                    "日本語": "良い研究は、理論的な新規性と実践的な有用性の両方を持つべきです。",
+                    "英語": "Good research should have both theoretical novelty and practical usefulness.",
+                    "ポイント": "both A and Bで、2つの目的語を並列に並べています。"
+                }
+            ]
+        }
+    ]
+}
