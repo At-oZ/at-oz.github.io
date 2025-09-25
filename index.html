@@ -77,18 +77,15 @@
             const headerTitle = document.getElementById('header-title');
 
             // --- Data Loading ---
-            // manifest.jsonから読み込むファイルリストを取得する
             const loadInitialData = async () => {
                 try {
-                    // 1. manifest.jsonを読み込む
                     const manifestResponse = await fetch('manifest.json');
                     if (!manifestResponse.ok) {
                         throw new Error('manifest.jsonの読み込みに失敗しました。');
                     }
                     const manifest = await manifestResponse.json();
-                    const chapterFiles = manifest.chapters; // ファイルのリストを取得
+                    const chapterFiles = manifest.chapters;
 
-                    // 2. リストに基づいて各章のJSONを読み込む
                     const responses = await Promise.all(
                         chapterFiles.map(file => fetch(file))
                     );
@@ -102,13 +99,14 @@
                     const allChapters = await Promise.all(responses.map(res => res.json()));
 
                     pages = allChapters.map((data, index) => ({
-                        id: `chapter-${index + 1}`,
+                        id: chapterFiles[index].replace('.json', ''), // IDをファイル名から生成
                         title: data.章タイトル,
                         data: data
                     }));
 
                     if (pages.length > 0) {
-                        pages.sort((a, b) => a.title.localeCompare(b.title, 'ja'));
+                        // ★★★ タイトルでの自動ソート処理を削除しました ★★★
+                        // これにより、manifest.jsonの順序が維持されます。
                         currentPageId = pages[0].id;
                         renderPage(currentPageId);
                     } else {
@@ -162,7 +160,6 @@
                 headerTitle.textContent = page.title;
                 renderChapterPage(page.data);
                 renderSidebar();
-                 // ページ上部にスクロール
                 window.scrollTo(0, 0);
             };
 
@@ -224,5 +221,4 @@
 
 </body>
 </html>
-
 
