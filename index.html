@@ -77,11 +77,18 @@
             const headerTitle = document.getElementById('header-title');
 
             // --- Data Loading ---
-            // ここに読み込みたいJSONファイル名を追加してください
-            const chapterFiles = ['ch1.json', 'ch2.json'];
-
+            // manifest.jsonから読み込むファイルリストを取得する
             const loadInitialData = async () => {
                 try {
+                    // 1. manifest.jsonを読み込む
+                    const manifestResponse = await fetch('manifest.json');
+                    if (!manifestResponse.ok) {
+                        throw new Error('manifest.jsonの読み込みに失敗しました。');
+                    }
+                    const manifest = await manifestResponse.json();
+                    const chapterFiles = manifest.chapters; // ファイルのリストを取得
+
+                    // 2. リストに基づいて各章のJSONを読み込む
                     const responses = await Promise.all(
                         chapterFiles.map(file => fetch(file))
                     );
@@ -217,3 +224,5 @@
 
 </body>
 </html>
+
+
