@@ -225,6 +225,112 @@
                     "ポイント": "丁寧な表現(I'd like to)と、名詞を修飾する過去分詞(everyone involved)です。"
                 }
             ]
+        },
+        {
+            "セクションタイトル": "追加例文",
+            "セクションの説明": "総合的な会話能力をさらに高めるための、様々な文法事項を組み合わせた追加の例文です。",
+            "例文": [
+                {
+                    "日本語": "もしあなたが私たちのチームの一員だったら、この問題をどう解決していたと思いますか？",
+                    "英語": "If you had been a member of our team, how would you have solved this problem?",
+                    "ポイント": "過去の事実に反する仮定法過去完了と、方法を尋ねるWh-疑問文を組み合わせた高度な質問です。"
+                },
+                {
+                    "日本語": "彼が提案したアルゴリズムは、私たちのものよりはるかに計算コストが高いことが判明しました。",
+                    "英語": "The algorithm that he proposed turned out to be far more computationally expensive than ours.",
+                    "ポイント": "目的格の関係代名詞(that)、...であることが判明する(turn out to be)、比較級の強調(far more)の組み合わせです。"
+                },
+                {
+                    "日本語": "この拡張現実システムは、ユーザーに全く新しいレベルの没入感を提供することを約束します。",
+                    "英語": "This augmented-reality system promises to offer users a whole new level of immersion.",
+                    "ポイント": "不定詞を目的語に取る動詞(promise to offer)と、SVOO構文(offer users a level)の組み合わせです。"
+                },
+                {
+                    "日本語": "そのライトフィールドデータセットは非常に巨大なので、処理する前に圧縮する必要があります。",
+                    "英語": "Since the light field dataset is so huge, it needs to be compressed before processing.",
+                    "ポイント": "理由の接続詞(Since)、need + 不定詞の受動態(needs to be compressed)、前置詞+動名詞(before processing)の組み合わせです。"
+                },
+                {
+                    "日本語": "この点群に適用されたフィルタリング処理について、もう少し詳しく教えていただけますか？",
+                    "英語": "Could you tell me more about the filtering process applied to this point cloud?",
+                    "ポイント": "丁寧な依頼(Could you)、名詞を後ろから修飾する過去分詞(process applied to...)です。"
+                },
+                {
+                    "日本語": "私たちの知る限り、このアプローチには2つの主な欠点があります。",
+                    "英語": "As far as we know, there are two main drawbacks to this particular approach.",
+                    "ポイント": "慣用句(As far as we know)と、基本的なSVC構文、前置詞(to)の組み合わせです。"
+                },
+                {
+                    "日本語": "私たちの最終目標は、専門知識のない人でも使えるシステムを設計することです。",
+                    "英語": "Our ultimate goal is to design a system that can be used by people with no expert knowledge.",
+                    "ポイント": "不定詞の名詞的用法(is to design)、主格の関係代名詞(that)、助動詞を含む受動態(can be used)の組み合わせです。"
+                },
+                {
+                    "日本語": "その結果は有望に見えますが、再現性を確認するためにはさらなる作業が必要です。",
+                    "英語": "While the results look promising, further work is required to ensure reproducibility.",
+                    "ポイント": "譲歩の接続詞(While)、感情・性質を表す現在分詞(promising)、受動態(is required)、目的の不定詞(to ensure)の組み合わせです。"
+                },
+                {
+                    "日本語": "もし私がその会議に出席していたら、あなたの素晴らしい発表を見逃すことはなかったでしょう。",
+                    "英語": "Had I attended the conference, I would not have missed your wonderful presentation.",
+                    "ポイント": "Ifを省略した仮定法過去完了の倒置構文(Had I attended...)です。"
+                },
+                {
+                    "日本語": "リアルタイムシステムを構築することは、言うは易く行うは難しです。",
+                    "英語": "Building a real-time system from scratch is easier said than done.",
+                    "ポイント": "主語としての動名詞(Building)と、比較の慣用句(easier said than done)です。"
+                },
+                {
+                    "日本語": "このマルチビューデータセットがなければ、この研究は不可能だったでしょう。",
+                    "英語": "This research would not have been possible without this multi-view dataset.",
+                    "ポイント": "仮定を表す前置詞(Without)と、過去の事実に反する仮定法過去完了です。"
+                },
+                {
+                    "日本語": "この問題は、多くの先行研究で議論されてきましたが、まだ解決されていません。",
+                    "英語": "This problem has been discussed in many previous studies, but it has not been solved yet.",
+                    "ポイント": "現在完了形の受動態(has been discussed)と、逆接の接続詞(but)です。"
+                },
+                {
+                    "日本語": "そのARアプリケーションをより良くするために、どんな提案でも歓迎します。",
+                    "英語": "Any suggestion on how to make the AR application better would be greatly appreciated.",
+                    "ポイント": "間接疑問文(how to make)、仮定法を用いた丁寧な受動態(would be... appreciated)です。"
+                },
+                {
+                    "日本語": "キャリブレーションのプロセスは、退屈であるだけでなく、非常にエラーを起こしやすいです。",
+                    "英語": "The calibration process is not only tedious but also very prone to errors.",
+                    "ポイント": "対になる接続詞(not only... but also...)と、形容詞(tedious, prone to)の組み合わせです。"
+                },
+                {
+                    "日本語": "彼がこの分野の権威であることは、疑う余地がありません。",
+                    "英語": "There is no denying the fact that he is an authority in this field.",
+                    "ポイント": "動名詞の慣用表現(There is no denying)と、同格の名詞節を導くthatです。"
+                },
+                {
+                    "日本語": "その論文は非常に難しかったので、私はそれを2回読まなければなりませんでした。",
+                    "英語": "The paper was so difficult that I had to read it twice to understand.",
+                    "ポイント": "so... that構文(非常に…なので～だ)と、目的の不定詞(to understand)です。"
+                },
+                {
+                    "日本語": "彼らのアプローチは、私たちのものと多くの点で似ています。",
+                    "英語": "Their approach is similar to ours in many respects.",
+                    "ポイント": "比較表現(similar to)と、範囲を限定する前置詞句(in many respects)です。"
+                },
+                {
+                    "日本語": "ご指摘の点は考慮する価値があります。今後の研究で検討します。",
+                    "英語": "The point you raised is worth considering. We will look into it in our future work.",
+                    "ポイント": "目的格の関係代名詞の省略(point (that) you raised)、動名詞の慣用表現(worth considering)、未来形(will look into)です。"
+                },
+                {
+                    "日本語": "このシステムが一般に公開されるまでには、まだ長い道のりがあります。",
+                    "英語": "There is still a long way to go before this system is released to the public.",
+                    "ポイント": "不定詞の形容詞的用法(a long way to go)、接続詞(before)、受動態(is released)です。"
+                },
+                {
+                    "日本語": "もし何か質問があれば、遠慮なく私の話を遮ってください。",
+                    "英語": "If you have any questions, please do not hesitate to interrupt me at any time.",
+                    "ポイント": "条件節(If...)と、丁寧な許可(please do not hesitate to...)の組み合わせです。"
+                }
+            ]
         }
     ]
 }

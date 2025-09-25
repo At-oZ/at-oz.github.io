@@ -55,6 +55,11 @@
                     "日本語": "各視点からの画像には、カメラの内部パラメータが含まれています。",
                     "英語": "Each view from the multi-view camera contains its own intrinsic parameters.",
                     "ポイント": "データの内容や構成という事実を述べる現在形(contains)です。"
+                },
+                {
+                    "日本語": "私たちのRGB-Dシステムは、深度と色の両方の情報を毎秒30回キャプチャします。",
+                    "英語": "Our RGB-D system captures both depth and color information 30 times per second.",
+                    "ポイント": "システムの恒常的な能力・仕様を説明する、基本的な現在形(captures)です。"
                 }
             ]
         },
@@ -111,7 +116,13 @@
                     "日本語": "最終的な点群の品質は、期待したほど良くありませんでした。",
                     "英語": "The quality of the final point cloud was not as good as we originally expected.",
                     "ポイント": "過去の結果に対する評価を述べる過去形(was not)です。"
+                },
+                {
+                    "日本語": "その会議で、彼はライトフィールドレンダリングに関する画期的なアイデアを発表しました。",
+                    "英語": "At that conference, he presented a groundbreaking idea on light field rendering.",
+                    "ポイント": "過去の特定の出来事を述べる、基本的な過去形(presented)です。"
                 }
+
             ]
         },
         {
@@ -167,6 +178,16 @@
                     "日本語": "ちょうど私たちの予備実験の結果を受け取ったところです。",
                     "英語": "We have just received the results from our preliminary set of experiments.",
                     "ポイント": "ついさっき完了したことを報告する現在完了形(have just received)です。"
+                },
+                {
+                    "日本語": "この論文を投稿した時点で、私たちは100以上の実験を行っていました。",
+                    "英語": "By the time we submitted the paper, we had conducted over one hundred experiments.",
+                    "ポイント": "過去のある時点(投稿した)までに完了していたことを示す、過去完了形(had conducted)です。"
+                },
+                {
+                    "日本語": "この3年間、私はずっと拡張現実の分野で研究を続けています。",
+                    "英語": "For the last three years, I have been working in the field of augmented reality.",
+                    "ポイント": "過去から現在までの行為の継続を強調する、現在完了進行形(have been working)です。"
                 }
             ]
         },
@@ -254,6 +275,11 @@
                     "日本語": "その質問には、最後のまとめのスライドで回答します。",
                     "英語": "That's a very good question, and I will answer it in my final summary slide.",
                     "ポイント": "今後の発表の流れを説明し、相手に約束する未来形(will answer)です。"
+                },
+                {
+                    "日本語": "プロジェクトが終わるまでには、私たちはこのシステムを完全に自動化しているでしょう。",
+                    "英語": "We will have fully automated this system by the time the project ends.",
+                    "ポイント": "未来のある時点までに完了していることを予測する、未来完了形(will have automated)です。"
                 }
             ]
         }

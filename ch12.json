@@ -167,6 +167,26 @@
                     "日本語": "コンピュータビジョンは、急速に進歩している分野です。",
                     "英語": "Computer vision is a rapidly advancing field of study.",
                     "ポイント": "Computer visionは「コンピュータビジョン」という学問分野を指す固有名詞的な不可算名詞です。"
+                },
+                {
+                    "日本語": "このプロジェクトの進捗はいかがですか？",
+                    "英語": "How is the progress on this project so far?",
+                    "ポイント": "progress(進捗)も、不可算名詞です。a progressとは言いません。"
+                },
+                {
+                    "日本語": "私たちの研究室には、ライトフィールドをキャプチャするための新しい機材があります。",
+                    "英語": "Our lab has some new equipment for capturing light fields.",
+                    "ポイント": "equipment(機材、設備)も不可算名詞です。複数形にはなりません。"
+                },
+                {
+                    "日本語": "この作業を完了するには、多くの時間と忍耐が必要です。",
+                    "英語": "A great deal of time and patience is required to complete this work.",
+                    "ポイント": "time(時間)とpatience(忍耐)は、不可算名詞です。"
+                },
+                {
+                    "日本語": "この部屋の家具は、全て最新のものです。",
+                    "英語": "All the furniture in this room is brand new.",
+                    "ポイント": "furniture(家具)は、不可算名詞の集合名詞です。複数形にはなりません。"
                 }
             ]
         },
@@ -223,6 +243,36 @@
                     "日本語": "彼は、正直な人です。",
                     "英語": "He is an honest person with a lot of integrity.",
                     "ポイント": "honestはhで始まりますが、発音が母音なのでanを使います。hour, honorなども同様です。"
+                },
+                {
+                    "日本語": "このトピックに関しては、多くの研究が行われてきました。",
+                    "英語": "There have been many pieces of research on this specific topic.",
+                    "ポイント": "不可算名詞のresearchを数える場合、a piece of research / pieces of researchという表現を使います。"
+                },
+                {
+                    "日本語": "これは、この分野に大きな影響を与えた研究論文です。",
+                    "英語": "This is a research paper that had a great impact on the field.",
+                    "ポイント": "researchは不可算ですが、具体的な「研究論文」を指す場合はa paper / papersと可算名詞になります。"
+                },
+                {
+                    "日本語": "私たちは、その問題について何度も議論を重ねました。",
+                    "英語": "We had a number of discussions about that particular issue.",
+                    "ポイント": "discussionは可算名詞(議論の回数)としても不可算名詞(議論という行為)としても使えます。"
+                },
+                {
+                    "日本語": "仕事の後、私たちは夕食に行きました。",
+                    "英語": "We went for dinner after a long day of work.",
+                    "ポイント": "workは不可算名詞(仕事、労働)ですが、「作品」という意味ではa work/worksと可算名詞になります。"
+                },
+                {
+                    "日本語": "その強い主張を裏付けるのに十分な証拠が、私たちにはありません。",
+                    "英語": "We do not have enough evidence to support that strong claim yet.",
+                    "ポイント": "evidence(証拠)は、代表的な不可算名詞です。"
+                },
+                {
+                    "日本語": "その問題について、いくつか有益な助言を彼から得ました。",
+                    "英語": "I got several pieces of helpful advice from him on that problem.",
+                    "ポイント": "不可算名詞のadviceを数える場合、a piece of / pieces ofを使います。"
                 }
             ]
         }

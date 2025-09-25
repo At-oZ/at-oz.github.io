@@ -136,6 +136,11 @@
                     "日本語": "私たちの知る限り、これはリアルタイムARで試みられた最初の事例かもしれません。",
                     "英語": "To our knowledge, this may be the first attempt to do this in real-time AR.",
                     "ポイント": "「かもしれない」と断定を避けつつ、研究の新規性を主張するmayです。"
+                },
+                {
+                    "日本語": "この手法は、過去にリアルタイムARに応用されたかもしれません。",
+                    "英語": "This technique may have been applied to real-time AR in the past.",
+                    "ポイント": "「～だったかもしれない」という過去の可能性を推量するmay have + 過去分詞です。"
                 }
             ]
         },
@@ -192,6 +197,21 @@
                     "日本語": "私でしたら、RGB-Dセンサーの代わりにステレオカメラを使ったでしょう。",
                     "英語": "Personally, I would have used a stereo camera instead of an RGB-D sensor.",
                     "ポイント": "「もし私がその立場だったら、～しただろう」という過去の事実に反する仮定を述べるwould have + 過去分詞です。"
+                },
+                {
+                    "日本語": "私なら、そのパラメータを使うよりは、むしろデフォルト設定を使います。",
+                    "英語": "I would rather use the default settings than use that specific parameter.",
+                    "ポイント": "would rather A than Bで、「BするよりはむしろAしたい」という好みを表します。"
+                },
+                {
+                    "日本語": "あなたは、マルチビューシステムのキャリブレーションを手伝っていただけませんか？",
+                    "英語": "Would you be so kind as to help me calibrate the multi-view system?",
+                    "ポイント": "Would you be so kind as to...?は、非常に丁寧な依頼の表現です。"
+                },
+                {
+                    "日本語": "そのエラーの原因を特定するには、さらなる調査が必要とされるでしょう。",
+                    "英語": "Further investigation will be needed to identify the source of that error.",
+                    "ポイント": "「～される必要があるだろう」という未来の必要性を客観的に述べるwill be neededです。"
                 }
             ]
         },
@@ -248,6 +268,11 @@
                     "日本語": "ライトフィールドのデータ量は膨大になるため、これは大きな課題に違いありません。",
                     "英語": "The amount of light field data can be huge, so this must be a significant challenge.",
                     "ポイント": "事実から「～に違いない」と論理的に結論付けるmustです。"
+                },
+                {
+                    "日本語": "私たちは、このRGB-Dセンサーの限界をもっと明確に認めるべきです。",
+                    "英語": "We ought to acknowledge the limitations of this RGB-D sensor more clearly.",
+                    "ポイント": "shouldよりも少し硬い、「～するべきである」という義務・当然を表すought toです。"
                 }
             ]
         }

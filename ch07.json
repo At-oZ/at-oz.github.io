@@ -55,6 +55,11 @@
                     "日本語": "私たちの研究室は、最先端のマルチビューキャプチャシステムを所有しています。",
                     "英語": "Our lab possesses a leading-edge multi-view capture system.",
                     "ポイント": "「最先端の」という意味で、名詞systemを前から修飾するleading-edgeです。"
+                },
+                {
+                    "日本語": "点群内の全ての点が、最近傍の点に接続されます。",
+                    "英語": "Every point in the point cloud is connected to its nearest neighboring point.",
+                    "ポイント": "名詞pointを前から修飾する現在分詞(neighboring)です。"
                 }
             ]
         },
@@ -111,6 +116,11 @@
                     "日本語": "そのRGB-Dセンサーによってキャプチャされた深度情報は、かなりノイズが多いです。",
                     "英語": "The depth information captured by that RGB-D sensor is quite noisy.",
                     "ポイント": "informationを「何によってキャプチャされたか」を説明するcaptured by...という句が後ろから修飾しています。"
+                },
+                {
+                    "日本語": "拡張現実に使われる現在の技術は、急速に進歩しています。",
+                    "英語": "The current technology used in augmented reality is advancing rapidly.",
+                    "ポイント": "名詞technologyを後ろから修飾する過去分詞句(used in...)です。"
                 }
             ]
         },
@@ -167,6 +177,36 @@
                     "日本語": "他のすべての条件を同じにして、私たちは二つのアルゴリズムを比較しました。",
                     "英語": "Keeping all other conditions the same, we compared the two algorithms.",
                     "ポイント": "「～の状態に保ちながら」という付帯状況を表す分詞構文です。"
+                },
+                {
+                    "日本語": "センサーの限界を認識し、私たちはソフトウェアベースの補正手法を開発しました。",
+                    "英語": "Realizing the limitations of the sensor, we developed a software-based correction method.",
+                    "ポイント": "「～を認識したので」という理由を表す分詞構文です。"
+                },
+                {
+                    "日本語": "私たちのマルチビューシステムは、昨年構築されたもので、10台の同期カメラを使っています。",
+                    "英語": "Our multi-view system, built last year, uses ten synchronized cameras.",
+                    "ポイント": "挿入句として過去分詞句(built last year)を使い、名詞を補足説明しています。"
+                },
+                {
+                    "日本語": "以下にリストされている全てのパラメータは、注意深く調整されました。",
+                    "英語": "All the parameters listed below were carefully tuned for the experiment.",
+                    "ポイント": "名詞parametersを、後ろから修飾する過去分詞句(listed below)です。"
+                },
+                {
+                    "日本語": "このリアルタイムシステムを開発している間、私たちは多くの困難に直面しました。",
+                    "英語": "We faced many difficulties developing this real-time system.",
+                    "ポイント": "while we were developing...のwhile we wereが省略された分詞構文です。"
+                },
+                {
+                    "日本語": "全ての条件が同じだと仮定すると、どちらの手法が優れていますか？",
+                    "英語": "Assuming all conditions are the same, which method is superior?",
+                    "ポイント": "「～だと仮定すると」という意味の、慣用的な分詞構文(Assuming...)です。"
+                },
+                {
+                    "日本語": "この分野の既存の研究を考えると、あなたの貢献は非常に重要です。",
+                    "英語": "Considering the existing work in this field, your contribution is very significant.",
+                    "ポイント": "「～を考慮すると」という、理由や判断の根拠を示す分詞構文です。"
                 }
             ]
         },
@@ -223,6 +263,16 @@
                     "日本語": "彼の質問の意図は、少し分かりにくいものでした。",
                     "英語": "The intention behind his question was a little bit confusing to me.",
                     "ポイント": "質問の意図が「混乱の原因」なので、-ing形のconfusingです。"
+                },
+                {
+                    "日本語": "この結果に満足していますか、それとも少しがっかりしていますか？",
+                    "英語": "Are you satisfied with this result, or are you a little bit disappointed?",
+                    "ポイント": "感情を感じる側なので、-ed形のsatisfiedとdisappointedを使っています。"
+                },
+                {
+                    "日本語": "このライトフィールドデータは、私たちの期待を満たすものでした。",
+                    "英語": "This light field data was satisfying to our expectations.",
+                    "ポイント": "データが「満足させる原因」なので、-ing形のsatisfyingを使っています。"
                 }
             ]
         }

@@ -55,6 +55,16 @@
                     "日本語": "その結論は、あなたの行った全ての実験によって裏付けられていますか？",
                     "英語": "Is that conclusion supported by all the experiments you have conducted?",
                     "ポイント": "結論の妥当性を、根拠との関連で確認する受動態の疑問文です。"
+                },
+                {
+                    "日本語": "この点群に、これ以上処理を施す必要はないと思いますか？",
+                    "英語": "Don't you think this point cloud needs any further processing?",
+                    "ポイント": "「～とは思いませんか？」と、相手に同意を求めるニュアンスの否定疑問文です。"
+                },
+                {
+                    "日本語": "その2つのデータセットの間に、統計的な有意差はありましたか？",
+                    "英語": "Was there any statistically significant difference between the two datasets?",
+                    "ポイント": "有無を尋ねるWas there any...?という、過去の事実確認の質問です。"
                 }
             ]
         },
@@ -111,6 +121,36 @@
                     "日本語": "なぜこの問題が重要だとお考えか、ご説明いただけますか？",
                     "英語": "Could you explain why you think this problem is important to solve?",
                     "ポイント": "理由をより詳細に、そして丁寧に尋ねるCould you explain why...?の形です。"
+                },
+                {
+                    "日本語": "あなたのリアルタイムシステムは、どの程度GPUの性能に依存していますか？",
+                    "英語": "To what extent is your real-time system dependent on the GPU performance?",
+                    "ポイント": "「どの程度まで」と、依存度や影響の度合いを尋ねるTo what extent...?というWh-疑問文です。"
+                },
+                {
+                    "日本語": "この手法が、なぜ他の手法より優れているのか、詳しく説明していただけますか？",
+                    "英語": "Could you elaborate on why this method is superior to the others?",
+                    "ポイント": "理由を尋ねるwhy節を含んだ、丁寧な依頼の疑問文です。"
+                },
+                {
+                    "日本語": "ライトフィールドの角度解像度は、どのように定義したのですか？",
+                    "英語": "How exactly did you define the angular resolution of the light field?",
+                    "ポイント": "方法を尋ねるHowに、exactly（正確に）を加えて詳細な説明を求める疑問文です。"
+                },
+                {
+                    "日本語": "あなたのマルチビューセットアップには、いくつのカメラが含まれていますか？",
+                    "英語": "How many cameras does your multi-view setup consist of?",
+                    "ポイント": "数を尋ねるHow many...?と、構成を尋ねるconsist of...?を組み合わせた疑問文です。"
+                },
+                {
+                    "日本語": "このタスクには、どの特徴記述子が最も適していると思いますか？",
+                    "英語": "Which feature descriptor do you believe is the most suitable for this task?",
+                    "ポイント": "選択肢の中から「どれが」を尋ねるWhich...?と、最上級(the most suitable)を組み合わせた質問です。"
+                },
+                {
+                    "日本語": "そのARマーカーは、どのような素材でできているのですか？",
+                    "英語": "What kind of material is that augmented-reality marker made of?",
+                    "ポイント": "種類を尋ねるWhat kind of...?と、材料を尋ねるbe made of...を組み合わせた疑問文です。"
                 }
             ]
         },
@@ -167,6 +207,41 @@
                     "日本語": "テクスチャのない表面の再構成は、簡単ではありません。",
                     "英語": "Reconstructing texture-less surfaces is by no means an easy task for our method.",
                     "ポイント": "is not an easy taskを強調した、is by no means an easy taskという表現です。"
+                },
+                {
+                    "日本語": "私たちの点群が、決して疎でないことを確認しました。",
+                    "英語": "We made sure that the resulting point cloud was by no means sparse.",
+                    "ポイント": "by no meansは「決して～ない」という、強い否定を表す表現です。"
+                },
+                {
+                    "日本語": "このARアプリケーションには、ユーザー登録は必要ありません。",
+                    "英語": "No user registration is required to use this AR application.",
+                    "ポイント": "No + 名詞で文を始めることで、「いかなる～もない」という強い否定を表します。"
+                },
+                {
+                    "日本語": "この結果は、私たちの初期の期待とは一致しませんでした。",
+                    "英語": "This result did not align with our initial expectations at all.",
+                    "ポイント": "「全く～ない」と否定を強調するat allを使った過去の否定文です。"
+                },
+                {
+                    "日本語": "動的なシーンの再構成は、この研究の範囲には含まれていません。",
+                    "英語": "The reconstruction of dynamic scenes is not included in the scope of this paper.",
+                    "ポイント": "研究の範囲を明確に限定するための、基本的な否定文です。"
+                },
+                {
+                    "日本語": "私たちのフレームワークは、いかなる特定のハードウェアにも依存していません。",
+                    "英語": "Our framework is not dependent on any particular hardware.",
+                    "ポイント": "not ... any ...で「いかなる～もない」という、完全な否定を表します。"
+                },
+                {
+                    "日本語": "この問題は、これまで十分に研究されてきませんでした。",
+                    "英語": "This problem has not been sufficiently studied in previous literature.",
+                    "ポイント": "現在完了形の受動態の否定文で、研究の新規性を示唆しています。"
+                },
+                {
+                    "日本語": "彼の主張を裏付ける経験的な証拠はほとんどありません。",
+                    "英語": "There is little empirical evidence to support his claims.",
+                    "ポイント": "littleを否定的に使い、「ほとんど～ない」という意味を表しています。"
                 }
             ]
         },

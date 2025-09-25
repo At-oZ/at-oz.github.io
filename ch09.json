@@ -111,6 +111,11 @@
                     "日本語": "この問題は、私たちが最初考えていたよりずっと複雑です。",
                     "英語": "This problem is much more complicated than we initially thought.",
                     "ポイント": "比較級more complicatedを、muchで強調しています。"
+                },
+                {
+                    "日本語": "この結果は、以前の結果より3倍優れています。",
+                    "英語": "This result is three times better than the previous one.",
+                    "ポイント": "「X times + 比較級 + than」で、「～よりX倍…だ」という倍数表現です。"
                 }
             ]
         },
@@ -223,6 +228,46 @@
                     "日本語": "ハードウェアが強力になればなるほど、より複雑なアルゴリズムを実行できます。",
                     "英語": "The more powerful the hardware becomes, the more complex algorithms we can run.",
                     "ポイント": "The 比較級, the 比較級の構文です。"
+                },
+                {
+                    "日本語": "点群の品質は、リアルタイム性能と同じくらい重要です。",
+                    "英語": "The quality of the point cloud is no less important than the real-time performance.",
+                    "ポイント": "no less ... than Aで、「Aと同じくらい…だ」と、重要性を強調する表現です。"
+                },
+                {
+                    "日本語": "この手法は、他のどの手法とも根本的に異なっています。",
+                    "英語": "This method is fundamentally different from any other existing approach.",
+                    "ポイント": "different from...で、「～と異なる」という比較表現です。"
+                },
+                {
+                    "日本語": "2つのARグラスの主な違いは何ですか？",
+                    "英語": "What is the primary difference between the two augmented-reality glasses?",
+                    "ポイント": "the difference between A and Bで、「AとBの違い」を表します。"
+                },
+                {
+                    "日本語": "私たちのシステムは、他のどのシステムよりも2倍以上速く動作します。",
+                    "英語": "Our system runs more than twice as fast as any other system.",
+                    "ポイント": "more than + X times as ... asで、「～のX倍より速い」と表現します。"
+                },
+                {
+                    "日本語": "これは、私が今まで見た中で群を抜いて最も高密度な点群です。",
+                    "英語": "This is by far the densest point cloud I have ever seen.",
+                    "ポイント": "by far + the + 最上級で、「群を抜いて最も～だ」と、最上級を強調します。"
+                },
+                {
+                    "日本語": "彼の貢献は、私の貢献よりもはるかに意義深いものです。",
+                    "英語": "His contribution is of far greater significance than mine.",
+                    "ポイント": "of + 抽象名詞で形容詞句を作った、よりフォーマルな比較級表現です。"
+                },
+                {
+                    "日本語": "このタスクに関しては、他の誰よりも彼が適任です。",
+                    "英語": "He is more qualified than anyone else for this particular task.",
+                    "ポイント": "...than anyone elseで、「他の誰よりも」と、集団の中での優位性を示します。"
+                },
+                {
+                    "日本語": "このRGB-Dセンサーは、以前のモデルと同等か、それ以上に優れています。",
+                    "英語": "This RGB-D sensor is as good as, if not better than, the previous model.",
+                    "ポイント": "as ... as, if not better thanで、「～より良いとは言わないまでも、同等だ」という控えめな比較表現です。"
                 }
             ]
         }

@@ -223,6 +223,56 @@
                     "日本語": "私たちは、ユーザーがARコンテンツと直感的に対話できるようにしたいです。",
                     "英語": "We want users to interact with the AR content in an intuitive way.",
                     "ポイント": "want O to doの構文。「Oに～してほしい」と、システムの目的や目標を述べる際に使えます。"
+                },
+                {
+                    "日本語": "このアプローチは、カメラの動きが速い場合には失敗しがちです。",
+                    "英語": "This approach is likely to fail when there are fast camera motions.",
+                    "ポイント": "be likely to doで、「～しそうだ、～する可能性が高い」という推測を表す重要構文です。"
+                },
+                {
+                    "日本語": "私たちは、その結果を公表することに、少し気が進みませんでした。",
+                    "英語": "We were a bit reluctant to publish the results from that experiment.",
+                    "ポイント": "be reluctant to doで、「～することに気が進まない」という話者の気持ちを表します。"
+                },
+                {
+                    "日本語": "私たちの目標は、ユーザーが仮想オブジェクトとシームレスに対話できるようにすることです。",
+                    "英語": "Our goal is to enable users to interact seamlessly with virtual objects.",
+                    "ポイント": "enable O to doで、「Oが～するのを可能にする」というSVO to do構文の典型例です。"
+                },
+                {
+                    "日本語": "驚いたことに、その最適化は実際には性能を低下させました。",
+                    "英語": "To our surprise, the optimization actually caused the performance to decrease.",
+                    "ポイント": "cause O to doで、「Oが～する原因となる」という意味のSVO to do構文です。"
+                },
+                {
+                    "日本語": "リアルタイムのフィードバックは、ユーザーがシステムの状態を理解するのに役立ちます。",
+                    "英語": "The real-time feedback helps the user to understand the state of the system.",
+                    "ポイント": "help O (to) doで、「Oが～するのを助ける」という意味。toは省略されることも多いです。"
+                },
+                {
+                    "日本語": "私は、彼にマルチビューシステムのキャリブレーションを手伝うよう説得しました。",
+                    "英語": "I persuaded him to help me with the multi-view system calibration.",
+                    "ポイント": "persuade O to doで、「Oを説得して～させる」というSVO to do構文です。"
+                },
+                {
+                    "日本語": "この研究は、AR技術をより利用しやすくすることを意図しています。",
+                    "英語": "This study is intended to make AR technology more accessible to everyone.",
+                    "ポイント": "be intended to doで、「～することを意図している」という目的を表す受動態の構文です。"
+                },
+                {
+                    "日本語": "この仕事を引き受けるかどうか、まだ決めていません。",
+                    "英語": "I haven't decided yet whether to take on this task or not.",
+                    "ポイント": "whether to doで、「～すべきかどうか」という名詞句を作ります。decideの目的語になっています。"
+                },
+                {
+                    "日本語": "ライトフィールドを扱うには、膨大なメモリが必要です。",
+                    "英語": "It requires a huge amount of memory to handle the light field data.",
+                    "ポイント": "It requires ... to do.で、「～するには…が必要だ」という意味の形式主語構文です。"
+                },
+                {
+                    "日本語": "この結果が最終的なものであると結論付けるのは、時期尚早です。",
+                    "英語": "It is still too early to conclude that this result is definitive.",
+                    "ポイント": "It is ... to do.の構文と、名詞節を導くthatを組み合わせた文です。"
                 }
             ]
         }

@@ -223,6 +223,56 @@
                     "日本語": "そうでなければ、この結果を説明することは非常に難しいでしょう。",
                     "英語": "Otherwise, it would be very difficult to explain this particular result.",
                     "ポイント": "Otherwiseは「そうでなければ」という意味で、文脈からIf節の内容を暗に示唆する仮定法表現です。"
+                },
+                {
+                    "日本語": "もしセンサーのノイズがなければ、私たちの結果はほぼ完璧でしょう。",
+                    "英語": "If it were not for the sensor noise, our results would be nearly perfect.",
+                    "ポイント": "If it were not for...で、「もし～がなければ」という現在の事実に反する仮定を表す重要表現です。"
+                },
+                {
+                    "日本語": "リアルタイムのフィードバックなしでは、AR体験はあまり没入感のあるものにはならないでしょう。",
+                    "英語": "Without real-time feedback, the AR experience wouldn't be very immersive.",
+                    "ポイント": "Without... ( = If it were not for...)で、「～がなければ」と仮定を表すことができます。"
+                },
+                {
+                    "日本語": "あの時、もっと多くのマルチビュー画像を取得しておけばよかったです。",
+                    "英語": "I wish we had captured more multi-view images at that time.",
+                    "ポイント": "I wish + S + 過去完了形で、「(実際はしなかったが)あの時～しておけばよかった」という過去への後悔を表します。"
+                },
+                {
+                    "日本語": "そろそろ質疑応答に移る時間です。",
+                    "英語": "It's about time we moved on to the question and answer session.",
+                    "ポイント": "It's time + S + 過去形で、「そろそろ～する時間だ」という仮定法表現です。"
+                },
+                {
+                    "日本語": "もしあなたの助けがなかったら、私たちはこのプロジェクトを終えられなかったでしょう。",
+                    "英語": "But for your help, we could not have finished this project on time.",
+                    "ポイント": "But for... ( = If it had not been for...)で、「もし～がなかったら」と過去の事実に反する仮定を表します。"
+                },
+                {
+                    "日本語": "彼は、まるでライトフィールド技術の全てを知っているかのように話します。",
+                    "英語": "He talks as if he knew everything about light field technology.",
+                    "ポイント": "as if + 仮定法過去で、「(実際は知らないのに)まるで～であるかのように」という意味です。"
+                },
+                {
+                    "日本語": "仮にあなたの手法がリアルタイムで動くとして、計算コストはどうなりますか？",
+                    "英語": "Supposing your method worked in real-time, what would the computational cost be?",
+                    "ポイント": "Supposing... ( = If...)で、「もし～だと仮定すると」と、仮定の条件を提示します。"
+                },
+                {
+                    "日本語": "そうでなければ、この結果を説明することは非常に難しいでしょう。",
+                    "英語": "Otherwise, it would be very difficult to explain this particular result.",
+                    "ポイント": "Otherwiseは「そうでなければ」という意味で、文脈からIf節の内容を暗に示唆する仮定法表現です。"
+                },
+                {
+                    "日本語": "万が一システムが故障した場合、バックアップ計画はありますか？",
+                    "英語": "Should the system fail for any reason, do you have a backup plan?",
+                    "ポイント": "If the system should fail...のIfを省略し、Should the system...と倒置した、未来の可能性の低い仮定です。"
+                },
+                {
+                    "日本語": "あなたの協力がなければ、この研究はこれほど早くは進まなかったでしょう。",
+                    "英語": "Had it not been for your help, this research would not have progressed so quickly.",
+                    "ポイント": "If it had not been for...のIfを省略し、Had it...と倒置した、よりフォーマルな表現です。"
                 }
             ]
         }

@@ -223,6 +223,56 @@
                     "日本語": "その会議で、私は光栄にも基調講演を行うよう招待されました。",
                     "英語": "I was honored to be invited to give a keynote speech at the conference.",
                     "ポイント": "be honored to do...で「～することを光栄に思う」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "実験の前に、マルチビューシステムをキャリブレーションしてもらう必要があります。",
+                    "英語": "We need to get the multi-view system calibrated before the experiment.",
+                    "ポイント": "get + O + 過去分詞で、「Oを～してもらう・される」という使役・被害の意味を表します。"
+                },
+                {
+                    "日本語": "その結果には、少しがっかりしました。",
+                    "英語": "I was a bit disappointed with the final results of the experiment.",
+                    "ポイント": "be disappointed with...で「～にがっかりする」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "私たちの手法は、評価において他の全てを上回るのが見られました。",
+                    "英語": "Our method was seen to outperform all the others in the evaluation.",
+                    "ポイント": "be seen to do...で、「～するのが見られる」という客観的な報告の表現です。"
+                },
+                {
+                    "日本語": "この問題は、点群の位置合わせに関係しています。",
+                    "英語": "This problem is related to the registration of the point clouds.",
+                    "ポイント": "be related to...で「～に関連している」という意味の頻出表現です。"
+                },
+                {
+                    "日本語": "多くの参加者が、あなたのARデモに感銘を受けていました。",
+                    "英語": "Many attendees were impressed by your augmented-reality demonstration.",
+                    "ポイント": "be impressed by...で「～に感銘を受ける」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "そのライトフィールドデータは、もはや入手できなくなっています。",
+                    "英語": "That light field data is no longer made available to the public.",
+                    "ポイント": "be made Cで「Cの状態にされる」というSVOCの受動態の応用です。"
+                },
+                {
+                    "日本語": "私は、あなたの最終的な結論に納得していません。",
+                    "英語": "I am not fully convinced by your final conclusion.",
+                    "ポイント": "be convinced by...で「～に納得させられる」。否定文で「納得できない」という意味。"
+                },
+                {
+                    "日本語": "コンピュータビジョンの知識が、このプロジェクトでは必要とされます。",
+                    "英語": "A background in computer vision is required for this project.",
+                    "ポイント": "be required for...で「～に必要とされる」という意味です。"
+                },
+                {
+                    "日本語": "その会議で、私は光栄にも基調講演を行うよう招待されました。",
+                    "英語": "I was honored to be invited to give a keynote speech at the conference.",
+                    "ポイント": "be honored to do...で「～することを光栄に思う」。感情を表す受動態です。"
+                },
+                {
+                    "日本語": "このARシステムは、まだ商品化の準備ができていません。",
+                    "英語": "This AR system is not yet ready to be commercialized.",
+                    "ポイント": "不定詞の受動態(to be commercialized)です。"
                 }
             ]
         }

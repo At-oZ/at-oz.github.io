@@ -111,6 +111,11 @@
                     "日本語": "そのステップを省略すると、最終的な精度が低下するリスクがあります。",
                     "英語": "You risk lowering the final accuracy if you decide to skip that step.",
                     "ポイント": "risk (～の危険を冒す)も、目的語に動名詞をとります。"
+                },
+                {
+                    "日本語": "彼は、予備実験の結果を報告するのを延期しました。",
+                    "英語": "He postponed reporting the results from the preliminary experiments.",
+                    "ポイント": "postponeは、目的語に動名詞をとる動詞です。"
                 }
             ]
         },
@@ -167,6 +172,31 @@
                     "日本語": "この結果は、私たちの仮説が正しいという考えを支持します。",
                     "英語": "This result is in favor of our hypothesis being correct.",
                     "ポイント": "前置詞ofの目的語として、動名詞beingが使われています。our hypothesisはその意味上の主語です。"
+                },
+                {
+                    "日本語": "私は、この古いRGB-Dセンサーを使い続けることには反対です。",
+                    "英語": "I object to using this old RGB-D sensor for any further experiments.",
+                    "ポイント": "object to ...ingで、「～することに反対する」という意味。toは前置詞です。"
+                },
+                {
+                    "日本語": "リアルタイム性能を達成することに加えて、私たちの手法は非常に頑健です。",
+                    "英語": "In addition to achieving real-time performance, our method is very robust.",
+                    "ポイント": "In addition to ...ingで、「～することに加えて」と、情報を付け加える表現です。"
+                },
+                {
+                    "日本語": "その件について、すぐに返事をしなくてすみません。",
+                    "英語": "I apologize for not replying to your inquiry sooner.",
+                    "ポイント": "動名詞の否定は直前にnotを置きます。for not replyingで「返信しなかったことに対して」。"
+                },
+                {
+                    "日本語": "彼は、自分のアルゴリズムが完璧だと主張することに固執しました。",
+                    "英語": "He insisted on claiming that his algorithm was perfect.",
+                    "ポイント": "insist on ...ingで、「～すると主張する、～に固執する」という意味です。"
+                },
+                {
+                    "日本語": "マルチビューのセットアップを設計する際、私たちはカメラの視野を考慮しました。",
+                    "英語": "We took the camera's field of view into account when designing the multi-view setup.",
+                    "ポイント": "When ...ingは、「～するとき」という意味の分詞構文的な慣用表現です。"
                 }
             ]
         },
@@ -223,6 +253,26 @@
                     "日本語": "その結果が何を意味するのか、推測のしようがありません。",
                     "英語": "There is no telling what that result implies for our future research.",
                     "ポイント": "There is no ...ingで「～することはできない」という意味の慣用表現です。"
+                },
+                {
+                    "日本語": "そのライトフィールドデータセットは、ダウンロードする価値があります。",
+                    "英語": "That light field dataset is definitely worth downloading.",
+                    "ポイント": "be worth ...ingで、「～する価値がある」という慣用表現です。"
+                },
+                {
+                    "日本語": "この拡張現実ゲームは、何度もプレイする価値があります。",
+                    "英語": "This augmented-reality game is worth playing over and over again.",
+                    "ポイント": "be worth ...ingの構文です。"
+                },
+                {
+                    "日本語": "この問題は、もっと注意深く調べる必要があります。",
+                    "英語": "This problem needs looking into more carefully.",
+                    "ポイント": "need ...ingは、「～される必要がある」という受動的な意味を表す特殊な用法です。"
+                },
+                {
+                    "日本語": "私たちのシステムは、ARシーン内の複数のオブジェクトを同時に追跡することができます。",
+                    "英語": "Our system is capable of tracking multiple objects in an AR scene simultaneously.",
+                    "ポイント": "be capable of ...ingで、「～する能力がある」という能力を示す重要表現です。"
                 }
             ]
         }

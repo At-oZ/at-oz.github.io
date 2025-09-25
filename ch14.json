@@ -167,6 +167,56 @@
                     "日本語": "その結果、点群の密度が大幅に向上しました。",
                     "英語": "As a result, the density of the point cloud was improved significantly.",
                     "ポイント": "「その結果として」と、前の文の行為がもたらした結果を述べるAs a resultです。"
+                },
+                {
+                    "日本語": "さらに、私たちの手法は、ライトフィールドビデオデータにも容易に拡張可能です。",
+                    "英語": "Furthermore, our method is easily extendable to light field video data.",
+                    "ポイント": "FurthermoreはMoreoverやIn additionと同様に、「さらに」と情報を付け加える接続副詞です。"
+                },
+                {
+                    "日本語": "実際、私たちが試したパラメータのほとんどは、性能を低下させました。",
+                    "英語": "In fact, most of the parameters we tried actually degraded the performance.",
+                    "ポイント": "In fact / Actuallyは、「実際には」と、前の文の内容を補強したり、意外な事実を述べたりします。"
+                },
+                {
+                    "日本語": "具体的には、私たちはキャリブレーションのプロセスを自動化しました。",
+                    "英語": "Specifically, we automated the entire calibration process from start to finish.",
+                    "ポイント": "Specifically / To be specificは、「具体的には」と、前の文の内容をより詳しく説明します。"
+                },
+                {
+                    "日本語": "その間、もう一つのチームは、ARアプリケーションのユーザーインターフェースを設計していました。",
+                    "英語": "Meanwhile, another team was designing the user interface for the AR application.",
+                    "ポイント": "Meanwhileは、「その間に」と、同時並行で行われている別の事柄を述べます。"
+                },
+                {
+                    "日本語": "彼の理論は説得力があります。とはいえ、それを裏付ける実験的証拠がありません。",
+                    "英語": "His theory is persuasive. That said, there is no experimental evidence to support it.",
+                    "ポイント": "That saidは、「とはいえ、そうは言っても」と、前の文の内容を認めつつ、反対の意見や事実を述べる口語的な表現です。"
+                },
+                {
+                    "日本語": "要するに、私たちの貢献はアルゴリズムの速度を2倍にしたことです。",
+                    "英語": "In summary, our contribution is that we doubled the speed of the algorithm.",
+                    "ポイント": "In summary / To sum upは、「要するに」と、議論を簡潔にまとめる表現です。"
+                },
+                {
+                    "日本語": "当然のことながら、より高価なセンサーの方が良い結果を生み出します。",
+                    "英語": "Not surprisingly, the more expensive sensor produces a much better result.",
+                    "ポイント": "Not surprisinglyは、「当然のことながら」と、聞き手が予測する通りの内容を述べる際に使います。"
+                },
+                {
+                    "日本語": "点群は高密度でした。それにもかかわらず、いくつかの領域に穴がありました。",
+                    "英語": "The point cloud was dense. Nonetheless, there were some holes in several regions.",
+                    "ポイント": "Nonetheless / Neverthelessは、「それにもかかわらず」と、前の文の内容から予期せぬ結果を導く、フォーマルな逆接の表現です。"
+                },
+                {
+                    "日本語": "結果として、私たちはアプローチ全体を再考する必要がありました。",
+                    "英語": "Consequently, we had to rethink our entire approach to the problem.",
+                    "ポイント": "Consequently / As a consequenceは、「その結果として」と、論理的な帰結を導くフォーマルな表現です。"
+                },
+                {
+                    "日本語": "換言すれば、このシステムはまだ一般公開の準備ができていません。",
+                    "英語": "To put it another way, this system is not yet ready for a public release.",
+                    "ポイント": "To put it another wayはIn other wordsと同様に、「別の言い方をすれば」と、内容を平易に言い換える表現です。"
                 }
             ]
         },
