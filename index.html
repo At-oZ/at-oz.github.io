@@ -32,7 +32,7 @@
                             </svg>
                         </button>
                     </div>
-                    <div id="header-title" class="text-xl font-bold text-gray-800">
+                    <div id="header-title" class="text-xl font-bold text-gray-800 truncate px-2">
                         瞬間英作文アプリ
                     </div>
                     <div class="w-8"></div> <!-- Spacer -->
@@ -62,7 +62,7 @@
     </div>
 
     <script>
-        document.addEventListener('DOMContentLoaded', async () => {
+        document.addEventListener('DOMContentLoaded', () => {
             // --- State Management ---
             let pages = [];
             let currentPageId = null;
@@ -77,30 +77,40 @@
             const headerTitle = document.getElementById('header-title');
 
             // --- Data Loading ---
-            // 本来はサーバーから fetch で取得しますが、今回はデモ用に直接データを定義します。
-            // ch1.json の内容
-            const chapter1Data = {
-                "章タイトル": "第1章：文の基本構造（5文型）", "章の説明": "全ての英文の土台となる5つの基本文型（SV, SVC, SVO, SVOO, SVOC）です。学会の質疑応答では、自分の意見や研究の事実を、まず簡潔かつ明確な骨格で述べることが重要になります。主語(S)、動詞(V)、目的語(O)、補語(C)のどの組み合わせで文が成り立っているかを意識しながら練習してください。", "セクション": [{ "セクションタイトル": "SVC文型 (SはCである)", "セクションの説明": "主語(S)の状態や性質を説明する文型です。", "例文": [{ "日本語": "私たちの手法の主な利点は、そのリアルタイム性能です。", "英語": "The main advantage of our method is its real-time performance.", "ポイント": "S (The main advantage) = C (its real-time performance) の関係を示すSVC文。" }, { "日本語": "この研究における重要な課題は、点群の位置合わせの精度でした。", "英語": "A key challenge in this study was the accuracy of the point cloud registration.", "ポイント": "S (A key challenge) = C (the accuracy) の関係。過去の事実を述べています。" }] }, { "セクションタイトル": "SVO文型 (SはOをVする)", "セクションの説明": "主語(S)が目的語(O)に対して何らかの動作(V)をする、最も一般的な文型です。", "例文": [{ "日本語": "私たちの研究は、リアルタイムARにおける深度推定の問題に取り組んでいます。", "英語": "Our research addresses the problem of depth estimation in real-time augmented reality.", "ポイント": "S (Our research) が O (the problem) に対して V (addresses) を行うSVO文。" }] }]
-            };
-            // ch2.json (ダミーデータ)
-            const chapter2Data = { "章タイトル": "第2章：時制と相", "章の説明": "動詞の形を変えることで「いつ」のことなのかを示す「時制」と、動作の状況を示す「相」についての練習です。", "セクション": [{ "セクションタイトル": "現在完了形", "セクションの説明": "過去から現在までの継続・経験・完了を表します。", "例文": [{ "日本語": "私たちはすでにこの手法の有効性を検証しました。", "英語": "We have already validated the effectiveness of this method.", "ポイント": "have + 過去分詞で「〜してしまった」という完了を表します。" }, { "日本語": "私はこの会議に以前参加したことがあります。", "英語": "I have attended this conference before.", "ポイント": "have + 過去分詞で「〜したことがある」という経験を表します。" }] }]
-            };
-            
-            const allChapters = [chapter1Data, chapter2Data];
+            // ここに読み込みたいJSONファイル名を追加してください
+            const chapterFiles = ['ch1.json', 'ch2.json'];
 
-            const loadInitialData = () => {
-                pages = allChapters.map((data, index) => ({
-                    id: `chapter-${index + 1}`,
-                    title: data.章タイトル,
-                    data: data
-                }));
+            const loadInitialData = async () => {
+                try {
+                    const responses = await Promise.all(
+                        chapterFiles.map(file => fetch(file))
+                    );
 
-                if (pages.length > 0) {
-                    currentPageId = pages[0].id;
-                    renderPage(currentPageId);
-                } else {
-                    mainContent.innerHTML = `<p class="text-center text-gray-500">学習データが見つかりませんでした。</p>`;
-                    renderSidebar();
+                    for (const res of responses) {
+                        if (!res.ok) {
+                            throw new Error(`ファイルの読み込みに失敗: ${res.url} (${res.statusText})`);
+                        }
+                    }
+                    
+                    const allChapters = await Promise.all(responses.map(res => res.json()));
+
+                    pages = allChapters.map((data, index) => ({
+                        id: `chapter-${index + 1}`,
+                        title: data.章タイトル,
+                        data: data
+                    }));
+
+                    if (pages.length > 0) {
+                        pages.sort((a, b) => a.title.localeCompare(b.title, 'ja'));
+                        currentPageId = pages[0].id;
+                        renderPage(currentPageId);
+                    } else {
+                        mainContent.innerHTML = `<p class="text-center text-gray-500">学習データが見つかりませんでした。</p>`;
+                        renderSidebar();
+                    }
+                } catch (error) {
+                    console.error("学習データの読み込みエラー:", error);
+                    mainContent.innerHTML = `<div class="text-center text-red-600 bg-red-100 p-4 rounded-lg"><p class="font-bold">データの読み込みに失敗しました。</p><p class="text-sm mt-2">JSONファイルが存在するか、内容が正しいか確認してください。</p><p class="text-xs mt-1 text-gray-500">${error.message}</p></div>`;
                 }
             };
 
@@ -145,6 +155,8 @@
                 headerTitle.textContent = page.title;
                 renderChapterPage(page.data);
                 renderSidebar();
+                 // ページ上部にスクロール
+                window.scrollTo(0, 0);
             };
 
             const renderChapterPage = (chapterData) => {
@@ -156,9 +168,9 @@
                         const uniqueId = `ex-${currentPageId}-${sectionIndex}-${exampleIndex}`;
                         contentHtml += `
                         <div class="bg-white rounded-lg shadow-md mb-6 p-6">
-                            <div class="flex justify-between items-center mb-4">
-                                <p class="text-lg flex-grow pr-4">${example.日本語}</p>
-                                <button onclick="toggleAnswer('${uniqueId}')" class="flex-shrink-0 bg-indigo-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50 transition-colors duration-300">
+                            <div class="flex flex-col sm:flex-row justify-between sm:items-center mb-4">
+                                <p class="text-lg flex-grow sm:pr-4 mb-4 sm:mb-0">${example.日本語}</p>
+                                <button onclick="toggleAnswer('${uniqueId}')" class="w-full sm:w-auto flex-shrink-0 bg-indigo-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50 transition-colors duration-300">
                                     英文表示
                                 </button>
                             </div>
@@ -205,4 +217,3 @@
 
 </body>
 </html>
-
