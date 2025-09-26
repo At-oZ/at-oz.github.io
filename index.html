@@ -16,6 +16,10 @@
         #sidebar {
             transition: transform 0.3s ease-in-out;
         }
+        /* 音声読み上げ非対応ブラウザ用のスタイル */
+        .no-speech .speak-button {
+            display: none;
+        }
     </style>
 </head>
 <body class="bg-gray-50 text-gray-800 overflow-x-hidden">
@@ -63,6 +67,11 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+             // ブラウザが音声合成APIに対応しているかチェック
+            if (!('speechSynthesis' in window)) {
+                document.body.classList.add('no-speech');
+            }
+
             // --- State Management ---
             let pages = [];
             let currentPageId = null;
@@ -80,8 +89,10 @@
             const loadInitialData = async () => {
                 try {
                     // manifest.jsonを読み込み、章のファイルリストを取得
+                    // manifest.jsonを読み込み、章のファイルリストを取得
                     const manifestResponse = await fetch('manifest.json');
                     if (!manifestResponse.ok) {
+                        throw new Error(`manifest.jsonの読み込みに失敗しました (${manifestResponse.status})`);
                         throw new Error(`manifest.jsonの読み込みに失敗しました (${manifestResponse.status})`);
                     }
                     const manifest = await manifestResponse.json();
@@ -97,25 +108,42 @@
                         })
                     );
                     const allChapters = await Promise.all(chapterPromises);
+                    // 各章のJSONファイルを並行して読み込む
+                    const chapterPromises = chapterFiles.map(file =>
+                        fetch(file).then(res => {
+                            if (!res.ok) {
+                                throw new Error(`${file}の読み込みに失敗しました (${res.status})`);
+                            }
+                            return res.json();
+                        })
+                    );
+                    const allChapters = await Promise.all(chapterPromises);
 
                     // ページデータを構築
+                    // ページデータを構築
                     pages = allChapters.map((data, index) => ({
+                        id: chapterFiles[index].replace('.json', ''),
                         id: chapterFiles[index].replace('.json', ''),
                         title: data.章タイトル,
                         data: data
                     }));
+                    
                     
                     if (pages.length > 0) {
                         currentPageId = pages[0].id;
                         renderPage(currentPageId);
                     } else {
                          mainContent.innerHTML = `<p class="text-center text-gray-500">学習データが見つかりませんでした。manifest.jsonを確認してください。</p>`;
+                         mainContent.innerHTML = `<p class="text-center text-gray-500">学習データが見つかりませんでした。manifest.jsonを確認してください。</p>`;
                     }
+
 
                 } catch (error) {
                     console.error("学習データの読み込みエラー:", error);
                     mainContent.innerHTML = `<div class="text-center text-red-600 bg-red-100 p-4 rounded-lg"><p class="font-bold">データの読み込みに失敗しました。</p><p class="text-sm mt-2">manifest.jsonや各章のJSONファイルが正しく配置されているか、またファイル内に文法エラーがないか確認してください。</p><p class="text-xs mt-1 text-gray-500">${error.message}</p></div>`;
+                    mainContent.innerHTML = `<div class="text-center text-red-600 bg-red-100 p-4 rounded-lg"><p class="font-bold">データの読み込みに失敗しました。</p><p class="text-sm mt-2">manifest.jsonや各章のJSONファイルが正しく配置されているか、またファイル内に文法エラーがないか確認してください。</p><p class="text-xs mt-1 text-gray-500">${error.message}</p></div>`;
                 }
+                 renderSidebar(); // 常にサイドバーは表示する
                  renderSidebar(); // 常にサイドバーは表示する
             };
 
