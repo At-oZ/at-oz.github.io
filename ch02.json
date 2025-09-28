@@ -8,27 +8,27 @@
             "例文": [
                 {
                     "日本語": "私たちのシステムは、リアルタイムでマルチビュー画像を処理します。",
-                    "英語": "Our system processes multi-view images in real-time, which is our core contribution.",
+                    "英語": "Our system processes multi-view images in real-time.",
                     "ポイント": "システムの恒常的な能力を示す現在形(processes)です。"
                 },
                 {
                     "日本語": "私の理解では、ライトフィールド技術は角度情報を捉えるものですよね。",
-                    "英語": "As I understand it, light field technology captures angular information from light rays.",
+                    "英語": "As I understand it, light field technology captures angular information.",
                     "ポイント": "技術的な定義や一般的な事実を述べる際の現在形(captures)です。"
                 },
                 {
                     "日本語": "このARアプリケーションは、スムーズな描画のために高性能なGPUを必要とします。",
-                    "英語": "This augmented-reality application requires a powerful GPU for smooth rendering performance.",
+                    "英語": "This augmented-reality application requires a powerful GPU for smooth rendering.",
                     "ポイント": "アプリケーションの仕様や要件という、変わらない事実を示す現在形(requires)です。"
                 },
                 {
                     "日本語": "良い点群データを取得することは、常に大きな課題です。",
-                    "英語": "I think that acquiring a good quality point cloud always presents a significant challenge.",
+                    "英語": "Acquiring a good quality point cloud always presents a significant challenge.",
                     "ポイント": "「常にそうである」という一般的な見解を述べる際の現在形(presents)です。"
                 },
                 {
                     "日本語": "このスライドは、私たちのRGB-D処理パイプラインの概要を示しています。",
-                    "英語": "This slide shows the general overview of our RGB-D processing pipeline.",
+                    "英語": "This slide shows the overview of our RGB-D processing pipeline.",
                     "ポイント": "スライドや図が「何を示しているか」を説明する際の定番の現在形(shows)です。"
                 },
                 {
@@ -38,7 +38,7 @@
                 },
                 {
                     "日本語": "私たちのフレームワークは、いくつかの独立したモジュールで構成されています。",
-                    "英語": "Our framework consists of several independent modules working in parallel.",
+                    "英語": "Our framework consists of several independent modules.",
                     "ポイント": "システムの構成という事実を述べる現在形(consists)です。"
                 },
                 {
@@ -48,7 +48,7 @@
                 },
                 {
                     "日本語": "正直なところ、そのアプローチがリアルタイムで機能するとは思えません。",
-                    "英語": "To be honest, I don't believe that approach works in a real-time scenario.",
+                    "英語": "To be honest, I don't believe that approach works in real-time.",
                     "ポイント": "現在の自分の意見を、否定形を使って明確に述べる現在形(don't believe)です。"
                 },
                 {
@@ -74,12 +74,12 @@
                 },
                 {
                     "日本語": "先ほどのスライドで、なぜそのパラメータを選んだのですか？",
-                    "英語": "I was wondering why you chose those specific parameters in your previous slide.",
-                    "ポイント": "相手が過去に行った選択(chose)について、理由を尋ねる丁寧な質問です。"
+                    "英語": "Why did you choose those specific parameters in your previous slide?",
+                    "ポイント": "相手が過去に行った選択(chose)について、理由を尋ねる質問です。"
                 },
                 {
                     "日本語": "私たちは、この点群処理アルゴリズムをゼロから実装しました。",
-                    "英語": "We implemented this point cloud processing algorithm entirely from scratch.",
+                    "英語": "We implemented this point cloud processing algorithm from scratch.",
                     "ポイント": "開発プロセスにおける過去の行為を述べる過去形(implemented)です。"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "日本語": "実験結果は、私たちの仮説が正しかったことを示しました。",
-                    "英語": "The experimental results indicated that our initial hypothesis was indeed correct.",
+                    "英語": "The experimental results indicated that our hypothesis was correct.",
                     "ポイント": "過去の実験が「示した」という結果を報告する過去形(indicated)です。"
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "日本語": "その会議で、あなたのマルチビューに関する発表を聞きました。",
-                    "英語": "I listened to your presentation on multi-view geometry at the conference last year.",
+                    "英語": "I listened to your presentation on multi-view geometry at the conference.",
                     "ポイント": "過去の特定の時点での経験を伝える過去形(listened)です。"
                 },
                 {
@@ -114,7 +114,7 @@
                 },
                 {
                     "日本語": "最終的な点群の品質は、期待したほど良くありませんでした。",
-                    "英語": "The quality of the final point cloud was not as good as we originally expected.",
+                    "英語": "The quality of the final point cloud was not as good as we expected.",
                     "ポイント": "過去の結果に対する評価を述べる過去形(was not)です。"
                 },
                 {
@@ -122,7 +122,6 @@
                     "英語": "At that conference, he presented a groundbreaking idea on light field rendering.",
                     "ポイント": "過去の特定の出来事を述べる、基本的な過去形(presented)です。"
                 }
-
             ]
         },
         {
@@ -131,7 +130,7 @@
             "例文": [
                 {
                     "日本語": "私たちは、リアルタイム・マルチビュー・ステレオのための新しいフレームワークを開発しました。",
-                    "英語": "We have developed a novel framework for real-time multi-view stereo applications.",
+                    "英語": "We have developed a novel framework for real-time multi-view stereo.",
                     "ポイント": "開発が完了し、その成果が「今ここにある」ことを示す現在完了形(have developed)です。"
                 },
                 {
@@ -141,7 +140,7 @@
                 },
                 {
                     "日本語": "この分野では、これまで多くの研究が行われてきました。",
-                    "英語": "There have been many studies conducted in this particular field of research so far.",
+                    "英語": "There have been many studies conducted in this particular field of research.",
                     "ポイント": "過去から現在までの研究の蓄積を示す現在完了形(have been)です。"
                 },
                 {
@@ -156,7 +155,7 @@
                 },
                 {
                     "日本語": "このRGB-Dデータセットは、多くの研究者によって広く使われてきました。",
-                    "英語": "This RGB-D dataset has been widely used by many researchers in our community.",
+                    "英語": "This RGB-D dataset has been widely used by many researchers.",
                     "ポイント": "過去から現在まで継続して使われていることを示す現在完了形の受動態(has been used)です。"
                 },
                 {
@@ -166,7 +165,7 @@
                 },
                 {
                     "日本語": "この問題は、これまでほとんど注目されてきませんでした。",
-                    "英語": "This specific problem has received very little attention in the literature until now.",
+                    "英語": "This specific problem has received very little attention in the literature.",
                     "ポイント": "過去から現在に至るまで、注目がなかったことを示す現在完了形(has received)です。"
                 },
                 {
@@ -176,7 +175,7 @@
                 },
                 {
                     "日本語": "ちょうど私たちの予備実験の結果を受け取ったところです。",
-                    "英語": "We have just received the results from our preliminary set of experiments.",
+                    "英語": "We have just received the results from our preliminary experiments.",
                     "ポイント": "ついさっき完了したことを報告する現在完了形(have just received)です。"
                 },
                 {
@@ -202,12 +201,12 @@
                 },
                 {
                     "日本語": "このスライドでは、私たちのARシステムのライブデモをお見せしています。",
-                    "英語": "In this slide, I am showing a live demonstration of our AR system in action.",
+                    "英語": "In this slide, I am showing a live demonstration of our AR system.",
                     "ポイント": "発表中に「今している」ことを説明する現在進行形(am showing)です。"
                 },
                 {
                     "日本語": "おっしゃっている意味を、正しく理解しようとしています。",
-                    "英語": "I am trying to understand the exact point you are making with your question.",
+                    "英語": "I am trying to understand the exact point you are making.",
                     "ポイント": "「今まさに〜しようと努めている」という、現在の心の動きを表す現在進行形(am trying)です。"
                 },
                 {
@@ -248,7 +247,7 @@
                 },
                 {
                     "日本語": "発表の後、ポスターセッションで詳細についてお話しします。",
-                    "英語": "I will be happy to discuss the details with you at the poster session afterwards.",
+                    "英語": "I will be happy to discuss the details with you at the poster session.",
                     "ポイント": "未来の申し出や提案で使われる未来形(will be)です。"
                 },
                 {

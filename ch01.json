@@ -18,12 +18,12 @@
                 },
                 {
                     "日本語": "結果は、我々の仮説と完全に一致しているように思われます。",
-                    "英語": "The results seem perfectly consistent with our initial hypothesis.",
+                    "英語": "The results seem perfectly consistent with our hypothesis.",
                     "ポイント": "S (The results) の状態を C (perfectly consistent) と説明。seemはSVCをとる代表的な動詞。"
                 },
                 {
                     "日本語": "提案されたRGB-Dパイプラインは、非常に効率的であることが証明されました。",
-                    "英語": "The proposed RGB-D pipeline proved to be highly efficient for this task.",
+                    "英語": "The proposed RGB-D pipeline proved to be highly efficient.",
                     "ポイント": "S (The pipeline) = C (highly efficient) であることが判明した、というニュアンス。"
                 },
                 {
@@ -33,12 +33,12 @@
                 },
                 {
                     "日本語": "私の考えでは、マルチビューの幾何学は依然として非常に重要な分野です。",
-                    "英語": "In my opinion, multi-view geometry is still a very relevant field of study.",
+                    "英語": "In my opinion, multi-view geometry is still a very important field.",
                     "ポイント": "be動詞を使った最も基本的なSVC文の形です。"
                 },
                 {
                     "日本語": "この拡張現実システムは、ユーザーにとって非常に直感的です。",
-                    "英語": "This augmented-reality system feels very intuitive for the end-users.",
+                    "英語": "This augmented-reality system feels very intuitive for users.",
                     "ポイント": "S (This system) が C (very intuitive) のように感じられる、と話者の感覚を述べています。"
                 },
                 {
@@ -48,12 +48,12 @@
                 },
                 {
                     "日本語": "そのアイデアは理論的には面白そうですが、実用性に疑問があります。",
-                    "英語": "That idea sounds interesting in theory, but I question its practical applicability.",
+                    "英語": "That idea sounds interesting in theory, but I question its practicality.",
                     "ポイント": "S (That idea) が C (interesting) に聞こえる、と感想を述べています。"
                 },
                 {
                     "日本語": "シミュレーション結果は非常に有望でした。",
-                    "英語": "The simulation results were extremely promising for our augmented-reality application.",
+                    "英語": "The simulation results were extremely promising.",
                     "ポイント": "S (The results) の状態を C (promising) で説明する、基本的な過去形のSVC文。"
                 }
             ]
@@ -79,18 +79,18 @@
                 },
                 {
                     "日本語": "ご質問の意図が完全には理解できませんでした。",
-                    "英語": "I'm afraid I don't fully understand the intention behind your question.",
-                    "ポイント": "S (I) が O (the intention) を V (understand) しない、という丁寧な否定のSVO文。"
+                    "英語": "I could not fully understand the intention of your question.",
+                    "ポイント": "S (I) が O (the intention) を V (understand) しなかった、という過去形のSVO文。"
                 },
                 {
                     "日本語": "私たちのシステムは、後処理のためにライトフィールドデータを保存します。",
-                    "英語": "Our system saves the entire light field data for any post-processing tasks.",
-                    "ポイント": "S (Our system) が O (the entire light field data) を V (saves) する。"
+                    "英語": "Our system saves the light field data for post-processing.",
+                    "ポイント": "S (Our system) が O (the light field data) を V (saves) する。"
                 },
                 {
                     "日本語": "この点に関しては、あなたの見解に完全に同意します。",
-                    "英語": "I completely agree with your point regarding this specific issue.",
-                    "ポイント": "agree with O で「Oに同意する」。O (your point) に対して V (agree with) するSVO文。"
+                    "英語": "Regarding this point, I completely agree with your view.",
+                    "ポイント": "agree with O で「Oに同意する」。O (your view) に対して V (agree with) するSVO文。"
                 },
                 {
                     "日本語": "私たちの手法は、既存の最先端の手法を大幅に上回る性能を示します。",
@@ -104,18 +104,18 @@
                 },
                 {
                     "日本語": "詳細な比較については、論文のセクション4をご参照ください。",
-                    "英語": "For a detailed comparison, I would like to refer you to Section 4 of our paper.",
-                    "ポイント": "S (I) が O (you) を V (refer) する。質疑応答でよく使われる表現。"
+                    "英語": "For a detailed comparison, please refer to Section 4 of our paper.",
+                    "ポイント": "「～を参照する」という丁寧な命令文。質疑応答でよく使われる表現。"
                 },
                 {
                     "日本語": "私は、この分野ではさらなる調査が必要だと信じています。",
-                    "英語": "I strongly believe that this area requires further investigation from the community.",
+                    "英語": "I believe that this area requires further investigation.",
                     "ポイント": "S (I) が O (that以下の名詞節) を V (believe) するSVO文。"
                 },
                 {
                     "日本語": "我々は、このアルゴリズムの堅牢性を評価するために、合成データセットを使用しました。",
-                    "英語": "We utilized a synthetic dataset to evaluate the robustness of this algorithm.",
-                    "ポイント": "S (We) が O (a synthetic dataset) を V (utilized) した。useの少し硬い表現。"
+                    "英語": "We used a synthetic dataset to evaluate the robustness of this algorithm.",
+                    "ポイント": "S (We) が O (a synthetic dataset) を V (used) した。"
                 },
                 {
                     "日本語": "この研究は、リアルタイムでの高忠実度なレンダリングの可能性を示唆しています。",
@@ -134,7 +134,7 @@
                 },
                 {
                     "日本語": "そのご指摘は、私たちの結果の解釈に影響を与えるかもしれません。",
-                    "英語": "Your comment might affect our interpretation of the final results.",
+                    "英語": "Your comment might affect our interpretation of the results.",
                     "ポイント": "S (Your comment) が O (our interpretation) に V (affect) するかもしれない、と可能性を述べる文。"
                 }
             ]
@@ -145,12 +145,12 @@
             "例文": [
                 {
                     "日本語": "そのRGB-Dセンサーは、私たちに正確な深度情報を提供してくれます。",
-                    "英語": "The RGB-D sensor provides us with accurate depth information for the scene.",
+                    "英語": "The RGB-D sensor provides us with accurate depth information.",
                     "ポイント": "provide O1 with O2の形。SVOOを作る代表的な動詞。"
                 },
                 {
                     "日本語": "私たちの予備実験は、このアプローチの大きな可能性を示してくれました。",
-                    "英語": "Our preliminary experiments showed us the great potential of this new approach.",
+                    "英語": "Our preliminary experiments showed us the great potential of this approach.",
                     "ポイント": "S (experiments) が O1 (us) に O2 (the great potential) を V (showed) した。"
                 },
                 {
@@ -160,13 +160,13 @@
                 },
                 {
                     "日本語": "この新しいデータセットは、研究コミュニティに貴重なリソースを提供するでしょう。",
-                    "英語": "This new dataset will offer the research community a valuable resource for future studies.",
+                    "英語": "This new dataset will offer the research community a valuable resource.",
                     "ポイント": "S (This dataset) が O1 (the community) に O2 (a valuable resource) を V (offer) する。"
                 },
                 {
                     "日本語": "私たちのARシステムは、ユーザーに非常に没入感のある体験を保証します。",
-                    "英語": "Our AR system guarantees the users a highly immersive and interactive experience.",
-                    "ポイント": "S (Our system) が O1 (the users) に O2 (an experience) を V (guarantees) する。"
+                    "英語": "Our AR system guarantees users a highly immersive and interactive experience.",
+                    "ポイント": "S (Our system) が O1 (users) に O2 (an experience) を V (guarantees) する。"
                 },
                 {
                     "日本語": "この結果によって、私たちはアプローチに対するさらなる自信を得ました。",
@@ -175,22 +175,22 @@
                 },
                 {
                     "日本語": "発表の最後に、共同研究者に感謝を申し上げたいと思います。",
-                    "英語": "I would like to extend my collaborators my sincerest thanks for their support.",
+                    "英語": "I would like to extend to my collaborators my sincerest thanks.",
                     "ポイント": "S (I) が O1 (my collaborators) に O2 (my thanks) を V (extend) する。謝辞で使われる表現。"
                 },
                 {
                     "日本語": "そのレビューは、私たちに論文を改善するための有益なフィードバックを与えてくれました。",
-                    "英語": "The review lent us helpful feedback for improving our manuscript.",
-                    "ポイント": "S (The review) が O1 (us) に O2 (helpful feedback) を V (lent) した。"
+                    "英語": "The review gave us helpful feedback for improving our manuscript.",
+                    "ポイント": "S (The review) が O1 (us) に O2 (helpful feedback) を V (gave) した。"
                 },
                 {
                     "日本語": "リアルタイムのフィードバックは、ユーザーにシステムの内部状態を伝えます。",
-                    "英語": "The real-time feedback tells the user the internal state of our system.",
+                    "英語": "The real-time feedback tells the user the internal state of the system.",
                     "ポイント": "S (The feedback) が O1 (the user) に O2 (the internal state) を V (tells) する。"
                 },
                 {
                     "日本語": "私たちのライトフィールドビューワーは、開発者に完全なAPIアクセスを許可しています。",
-                    "英語": "Our light field viewer allows developers full API access for custom applications.",
+                    "英語": "Our light field viewer allows developers full API access.",
                     "ポイント": "S (Our viewer) が O1 (developers) に O2 (full API access) を V (allows) する。"
                 }
             ]
@@ -201,7 +201,7 @@
             "例文": [
                 {
                     "日本語": "私は、このマルチビューのアプローチが非常に有望だと考えています。",
-                    "英語": "I consider this multi-view stereo approach very promising for this problem.",
+                    "英語": "I consider this multi-view stereo approach very promising.",
                     "ポイント": "S (I) が O (this approach) = C (very promising) だと V (consider) するSVOC文。"
                 },
                 {
@@ -211,8 +211,8 @@
                 },
                 {
                     "日本語": "その追加のフィルターが、最終的な点群をより滑らかにします。",
-                    "英語": "The additional filter makes the final point cloud much smoother and cleaner.",
-                    "ポイント": "S (The filter) が O (the point cloud) を C (smoother and cleaner) な状態に V (makes) する。"
+                    "英語": "The additional filter makes the final point cloud much smoother.",
+                    "ポイント": "S (The filter) が O (the point cloud) を C (smoother) な状態に V (makes) する。"
                 },
                 {
                     "日本語": "私たちは、リアルタイム性をこのARシステムの最優先事項としています。",
@@ -221,12 +221,12 @@
                 },
                 {
                     "日本語": "その質問は非常に的を射ていると思います。",
-                    "英語": "I think your question is very much to the point and relevant.",
-                    "ポイント": "think O Cの形。O (your question) が C (to the point) だと S (I) が V (think) する。"
+                    "英語": "I think your question is very much to the point.",
+                    "ポイント": "O (your question) = C (to the point) だと S (I) が V (think) する。Oが節の場合。"
                 },
                 {
                     "日本語": "なぜあなたのチームはその特定のRGB-Dセンサーを選択したのですか？",
-                    "英語": "What made your team choose that specific RGB-D sensor over others?",
+                    "英語": "What made your team choose that specific RGB-D sensor?",
                     "ポイント": "S (What) が O (your team) に V (made) して C (choose...) させた、という原因を問うSVOC文。"
                 },
                 {
@@ -241,8 +241,8 @@
                 },
                 {
                     "日本語": "彼は自分の研究がライトフィールドイメージングの分野で革新的だと主張しています。",
-                    "英語": "He claims his research innovative in the field of light field imaging.",
-                    "ポイント": "S (He) が O (his research) = C (innovative) であると V (claims) する。"
+                    "英語": "He claims his research is innovative in the field of light field imaging.",
+                    "ポイント": "S (He) が O (his research) = C (is innovative) だと V (claims) する。Oが節の場合。"
                 },
                 {
                     "日本語": "私たちは、このパラメータを実験的に最適だと決定しました。",
@@ -257,17 +257,17 @@
             "例文": [
                 {
                     "日本語": "私たちのアルゴリズムは、低スペックのハードウェア上でも効率的に動作します。",
-                    "英語": "Our algorithm works efficiently even on low-specification hardware in real-time.",
+                    "英語": "Our algorithm works efficiently even on low-specification hardware.",
                     "ポイント": "S (Our algorithm) が V (works) する。以降は副詞句による修飾。"
                 },
                 {
                     "日本語": "会議でのあなたの発表は、午後3時に始まります。",
-                    "英語": "Your presentation at the conference begins at 3:00 PM in the afternoon session.",
+                    "英語": "Your presentation at the conference begins at 3:00 PM.",
                     "ポイント": "S (Your presentation) が V (begins) する。場所や時間を表す副詞句が続く。"
                 },
                 {
                     "日本語": "その点については、いくつかの先行研究が存在します。",
-                    "英語": "Several previous studies exist on that particular point you have raised.",
+                    "英語": "Several previous studies exist on that particular point.",
                     "ポイント": "S (studies) が V (exist) する。There is/are構文に近い意味合い。"
                 },
                 {
@@ -277,7 +277,7 @@
                 },
                 {
                     "日本語": "パラメータが変わると、結果もそれに応じて変化します。",
-                    "英語": "As the parameters change, the results vary accordingly in our experiments.",
+                    "英語": "As the parameters change, the results vary accordingly.",
                     "ポイント": "S (the results) が V (vary) する。単純な事実を述べるSV文。"
                 }
             ]
