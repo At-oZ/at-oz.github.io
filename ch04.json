@@ -8,7 +8,7 @@
             "例文": [
                 {
                     "日本語": "この手法を動的なシーンに適用することは可能ですか？",
-                    "英語": "Is it possible to apply this method to dynamic scenes as well?",
+                    "英語": "Is it possible to apply this method to dynamic scenes?",
                     "ポイント": "可能性の有無を尋ねる、Is it possible to...?という基本的な形です。"
                 },
                 {
@@ -23,7 +23,7 @@
                 },
                 {
                     "日本語": "あなたのARシステムは、特別なハードウェアを必要としますか？",
-                    "英語": "Does your augmented-reality system require any specialized hardware to run?",
+                    "英語": "Does your augmented-reality system require any specialized hardware?",
                     "ポイント": "システムの恒常的な仕様について尋ねる、Does + S + V...?の形です。"
                 },
                 {
@@ -33,17 +33,17 @@
                 },
                 {
                     "日本語": "点群の密度は、このアプリケーションにとって十分ですか？",
-                    "英語": "Is the density of the point cloud sufficient for this particular application?",
+                    "英語": "Is the density of the point cloud sufficient for this application?",
                     "ポイント": "品質や量が十分かどうかを尋ねる、Is + S + C...?の形です。"
                 },
                 {
                     "日本語": "そのRGB-Dデータセットに、ラベル付けはされていますか？",
-                    "英語": "Does the RGB-D dataset come with ground-truth annotations or labels?",
+                    "英語": "Does the RGB-D dataset come with labels?",
                     "ポイント": "データセットの仕様について尋ねる疑問文です。"
                 },
                 {
                     "日本語": "リアルタイム性能を達成するために、GPUを使用しましたか？",
-                    "英語": "Did you use a GPU to achieve the real-time performance you reported?",
+                    "英語": "Did you use a GPU to achieve real-time performance?",
                     "ポイント": "目的達成の手段として、特定の物を使用したかどうかを尋ねるDid you...?です。"
                 },
                 {
@@ -74,7 +74,7 @@
             "例文": [
                 {
                     "日本語": "なぜステレオカメラではなく、RGB-Dセンサーを選んだのですか？",
-                    "英語": "Why did you choose an RGB-D sensor instead of a conventional stereo camera?",
+                    "英語": "Why did you choose an RGB-D sensor instead of a stereo camera?",
                     "ポイント": "相手の選択の「理由」を尋ねるWhy疑問文の典型的な形です。"
                 },
                 {
@@ -99,7 +99,7 @@
                 },
                 {
                     "日本語": "あなたのライトフィールドデータセットは、どこで入手できますか？",
-                    "英語": "Where can I find the light field dataset that you mentioned in your talk?",
+                    "英語": "Where can I obtain your light field dataset?",
                     "ポイント": "「場所」や入手先を尋ねるWhere疑問文です。"
                 },
                 {
@@ -114,12 +114,12 @@
                 },
                 {
                     "日本語": "その素晴らしい結果を得るのに、どれくらいの時間がかかりましたか？",
-                    "英語": "How long did it take to get those impressive results for your project?",
+                    "英語": "How long did it take to get those impressive results?",
                     "ポイント": "期間や長さを尋ねるHow long...?です。"
                 },
                 {
                     "日本語": "なぜこの問題が重要だとお考えか、ご説明いただけますか？",
-                    "英語": "Could you explain why you think this problem is important to solve?",
+                    "英語": "Could you explain why you think this problem is important?",
                     "ポイント": "理由をより詳細に、そして丁寧に尋ねるCould you explain why...?の形です。"
                 },
                 {
@@ -160,12 +160,12 @@
             "例文": [
                 {
                     "日本語": "私たちの手法は、特定のキャリブレーションターゲットを必要としません。",
-                    "英語": "Our method does not require any specific calibration target for initialization.",
+                    "英語": "Our method does not require any specific calibration target.",
                     "ポイント": "システムの仕様として「～を必要としない」ことを明確にする否定文です。"
                 },
                 {
                     "日本語": "この研究では、屋外のデータセットでアルゴリズムを評価しませんでした。",
-                    "英語": "We did not evaluate our algorithm on outdoor datasets in this particular study.",
+                    "英語": "We did not evaluate our algorithm on outdoor datasets in this study.",
                     "ポイント": "研究の範囲を限定し、「しなかったこと」を伝える過去形の否定文です。"
                 },
                 {
@@ -175,8 +175,8 @@
                 },
                 {
                     "日本語": "申し訳ありませんが、現時点ではソースコードを共有することはできません。",
-                    "英語": "I'm afraid we cannot share the source code at this moment due to some restrictions.",
-                    "ポイント": "「できない」という事実を、理由を添えて丁寧に伝える否定文です。"
+                    "英語": "I'm afraid we cannot share the source code at this moment.",
+                    "ポイント": "「できない」という事実を、丁寧に伝える否定文です。"
                 },
                 {
                     "日本語": "私たちのARシステムは、まだモバイルデバイス向けに最適化されていません。",
@@ -195,7 +195,7 @@
                 },
                 {
                     "日本語": "私は、この結果が最終的なものだとは主張していません。",
-                    "英語": "I am not claiming that this result is definitive by any means.",
+                    "英語": "I am not claiming that this result is definitive.",
                     "ポイント": "過度な主張をしないように、自分の意見の範囲を限定する進行形の否定文です。"
                 },
                 {
@@ -205,7 +205,7 @@
                 },
                 {
                     "日本語": "テクスチャのない表面の再構成は、簡単ではありません。",
-                    "英語": "Reconstructing texture-less surfaces is by no means an easy task for our method.",
+                    "英語": "Reconstructing texture-less surfaces is by no means an easy task.",
                     "ポイント": "is not an easy taskを強調した、is by no means an easy taskという表現です。"
                 },
                 {
@@ -220,8 +220,8 @@
                 },
                 {
                     "日本語": "この結果は、私たちの初期の期待とは一致しませんでした。",
-                    "英語": "This result did not align with our initial expectations at all.",
-                    "ポイント": "「全く～ない」と否定を強調するat allを使った過去の否定文です。"
+                    "英語": "This result did not align with our initial expectations.",
+                    "ポイント": "過去の事実を否定する、基本的な否定文です。"
                 },
                 {
                     "日本語": "動的なシーンの再構成は、この研究の範囲には含まれていません。",

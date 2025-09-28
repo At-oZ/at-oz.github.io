@@ -18,7 +18,7 @@
                 },
                 {
                     "日本語": "その誤差は、RGB-Dセンサーのノイズが原因である可能性があります。",
-                    "英語": "I think that error could be a result of the noise from the RGB-D sensor.",
+                    "英語": "That error could be a result of the noise from the RGB-D sensor.",
                     "ポイント": "断定を避け、「～という可能性もあり得る」という柔らかい推測を示すcouldです。"
                 },
                 {
@@ -28,17 +28,17 @@
                 },
                 {
                     "日本語": "リアルタイムでの処理は、非常に困難なものになり得ます。",
-                    "英語": "Real-time processing can be very challenging, especially on mobile devices.",
+                    "英語": "Real-time processing can be very challenging.",
                     "ポイント": "「時には～なこともある」という一般的な可能性を示すcanです。"
                 },
                 {
                     "日本語": "その結果について、1つ質問してもよろしいでしょうか？",
-                    "英語": "Could I ask a question regarding that last result you showed?",
+                    "英語": "Could I ask a question regarding that result?",
                     "ポイント": "「～してもいいですか？」と相手に許可を求める、丁寧な依頼のCouldです。"
                 },
                 {
                     "日本語": "ARマーカーなしでは、安定したトラッキングは実現できません。",
-                    "英語": "We cannot achieve stable tracking for our AR system without any markers.",
+                    "英語": "We cannot achieve stable tracking without markers.",
                     "ポイント": "「能力的に不可能である」とはっきり述べるcannotです。"
                 },
                 {
@@ -53,7 +53,7 @@
                 },
                 {
                     "日本語": "計算時間を短縮するために、何かできることはありますか？",
-                    "英語": "Is there anything we can do to reduce the overall computation time?",
+                    "英語": "Is there anything we can do to reduce the computation time?",
                     "ポイント": "「実行可能なこと」があるかどうかを尋ねるcanです。"
                 },
                 {
@@ -99,17 +99,17 @@
                 },
                 {
                     "日本語": "この結果は、私たちのARシステムにとって新しい可能性を開くかもしれません。",
-                    "英語": "We feel this result may open up new possibilities for our real-time AR system.",
+                    "英語": "This result may open up new possibilities for our AR system.",
                     "ポイント": "今後の展望について、控えめに可能性を述べるmayです。"
                 },
                 {
                     "日本語": "ご質問の意図を誤解しているかもしれませんが、…",
-                    "英語": "I may be misunderstanding your point, but I think...",
+                    "英語": "I may be misunderstanding your point.",
                     "ポイント": "自分の意見を述べる前に「誤解かもしれませんが」と前置きする丁寧な表現です。"
                 },
                 {
                     "日本語": "将来的には、点群の代わりにライトフィールドを使うことになるかもしれません。",
-                    "英語": "In the future, we might use light fields instead of point clouds for rendering.",
+                    "英語": "In the future, we might use light fields instead of point clouds.",
                     "ポイント": "遠い未来の不確実な可能性について述べるmightです。"
                 },
                 {
@@ -119,17 +119,17 @@
                 },
                 {
                     "日本語": "その点については、さらなる分析が必要になるかもしれません。",
-                    "英語": "Further analysis may be required to fully understand that specific point.",
+                    "英語": "Further analysis may be required for that point.",
                     "ポイント": "今後の必要性について、可能性として述べるmayです。"
                 },
                 {
                     "日本語": "それは興味深い観察ですが、私たちの結論には影響しないかもしれません。",
-                    "英語": "That is an interesting observation, but it might not affect our final conclusion.",
+                    "英語": "That is an interesting observation, but it might not affect our conclusion.",
                     "ポイント": "可能性を否定する、控えめな表現のmight notです。"
                 },
                 {
                     "日本語": "このマルチビューデータセットは、他の研究者にとっても有用かもしれません。",
-                    "英語": "This multi-view dataset may prove useful for other researchers in this field.",
+                    "英語": "This multi-view dataset may prove useful for other researchers.",
                     "ポイント": "「～だと判明するかもしれない」という可能性を示すmay prove...です。"
                 },
                 {
@@ -150,7 +150,7 @@
             "例文": [
                 {
                     "日本語": "その点については、今後の研究で取り組む予定です。",
-                    "英語": "That is a valid point, and we will address that limitation in our future work.",
+                    "英語": "We will address that point in our future work.",
                     "ポイント": "今後の研究計画という未来の「意志」を示すwillです。"
                 },
                 {
@@ -160,7 +160,7 @@
                 },
                 {
                     "日本語": "私なら、リアルタイム性能がより重要だと主張します。",
-                    "英語": "I would argue that the real-time performance is more critical than accuracy.",
+                    "英語": "I would argue that the real-time performance is more critical.",
                     "ポイント": "「もし意見を言うならば」という仮定を含んだ、丁寧ながらも強い意見表明のI would argue...です。"
                 },
                 {
@@ -185,12 +185,12 @@
                 },
                 {
                     "日本語": "この点群データをいただけると、大変ありがたいのですが。",
-                    "英語": "I would be very grateful if you could share this point cloud data with us.",
+                    "英語": "I would be very grateful if you could share this point cloud data.",
                     "ポイント": "丁寧な依頼の最上級の表現の一つ、I would be grateful if...です。"
                 },
                 {
                     "日本語": "この結果から、早まった結論を出すつもりはありません。",
-                    "英語": "We will not draw any hasty conclusions based solely on this one result.",
+                    "英語": "We will not draw any hasty conclusions based on this one result.",
                     "ポイント": "「～するつもりはない」という否定の意志を明確にするwill not (won't)です。"
                 },
                 {
@@ -241,7 +241,7 @@
                 },
                 {
                     "日本語": "私たちは、この手法の限界についても言及すべきです。",
-                    "英語": "We should also mention the limitations of our method for fairness.",
+                    "英語": "We should also mention the limitations of our method.",
                     "ポイント": "「～するのが当然だ、～すべきだ」という話者の倫理観や義務感を示すshouldです。"
                 },
                 {
@@ -261,7 +261,7 @@
                 },
                 {
                     "日本語": "すべての実験は、同じ照明条件下で行われるべきです。",
-                    "英語": "All experiments should be conducted under the same lighting conditions for consistency.",
+                    "英語": "All experiments should be conducted under the same lighting conditions.",
                     "ポイント": "実験の作法として「～されるべきだ」という推奨・規範を示すshouldです。"
                 },
                 {

@@ -1,5 +1,9 @@
 {
     "chapters": [
-        "ch01.json"
+        "ch01.json",
+        "ch02.json",
+        "ch03.json",
+        "ch04.json",
+        "ch05.json"
     ]
 }

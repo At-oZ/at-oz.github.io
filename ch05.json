@@ -8,32 +8,32 @@
             "例文": [
                 {
                     "日本語": "私たちの目標は、トラッキングの安定性を向上させることです。",
-                    "英語": "Our primary objective is to improve the stability of the tracking system.",
+                    "英語": "Our goal is to improve tracking stability.",
                     "ポイント": "不定詞句が補語(C)になる、S is to do.の形です。「私たちの目標 = 向上させること」の関係。"
                 },
                 {
                     "日本語": "私たちは、このモジュールをより大きなシステムに統合することを計画しています。",
-                    "英語": "We plan to integrate this module into a larger system in the near future.",
+                    "英語": "We plan to integrate this module into a larger system.",
                     "ポイント": "planの目的語(O)として不定詞が使われています。We plan [what?] → [to integrate...]"
                 },
                 {
                     "日本語": "透明な物体を再構成することは、依然として難しい問題です。",
-                    "英語": "To reconstruct transparent objects remains a well-known difficult problem.",
+                    "英語": "To reconstruct transparent objects remains a difficult problem.",
                     "ポイント": "To reconstruct...が文の主語(S)になっています。It is... to reconstruct...と表現する方が一般的です。"
                 },
                 {
                     "日本語": "私は、あなたのRGB-Dデータセットを使わせていただくことを希望します。",
-                    "英語": "I would hope to get your permission to use your RGB-D dataset for my research.",
-                    "ポイント": "hopeの目的語(O)として、to get...が使われています。"
+                    "英語": "I would hope to use your RGB-D dataset.",
+                    "ポイント": "hopeの目的語(O)として、to use...が使われています。"
                 },
                 {
                     "日本語": "リアルタイム性能を犠牲にしないことを約束します。",
-                    "英語": "We promise not to sacrifice the real-time performance of the system.",
+                    "英語": "We promise not to sacrifice real-time performance.",
                     "ポイント": "不定詞の否定形はnot to do.です。promiseの目的語になっています。"
                 },
                 {
                     "日本語": "重要なのは、マルチビューカメラを正確にキャリブレーションすることです。",
-                    "英語": "The important thing to remember is to calibrate the multi-view cameras precisely.",
+                    "英語": "The important thing is to calibrate the multi-view cameras precisely.",
                     "ポイント": "isの補語(C)としてto calibrate...が使われています。"
                 },
                 {
@@ -43,7 +43,7 @@
                 },
                 {
                     "日本語": "私たちは、最終的に異なるアプローチを採用することに決めました。",
-                    "英語": "We eventually decided to adopt a different approach for this problem.",
+                    "英語": "We eventually decided to adopt a different approach.",
                     "ポイント": "decideの目的語(O)として、to adopt...が使われています。"
                 },
                 {
@@ -69,23 +69,23 @@
                 },
                 {
                     "日本語": "私たちの仮説を検証するために、いくつかの実験を行いました。",
-                    "英語": "We conducted several experiments in order to validate our initial hypothesis.",
+                    "英語": "We conducted several experiments in order to validate our hypothesis.",
                     "ポイント": "toの代わりにin order toを使うと、目的であることがより明確でフォーマルな響きになります。"
                 },
                 {
                     "日本語": "あなたの手法が私たちのデータセットで機能するのを見て、とても嬉しく思います。",
-                    "英語": "I am very pleased to see that your method works well on our dataset.",
+                    "英語": "I am very pleased to see that your method works on our dataset.",
                     "ポイント": "pleasedという感情の「原因」を説明しています。「～して嬉しい」の形。"
                 },
                 {
                     "日本語": "この結果は、解釈するのが非常に難しいです。",
-                    "英語": "This result is very difficult to interpret without further information.",
+                    "英語": "This result is very difficult to interpret.",
                     "ポイント": "difficultという形容詞を「何をするのが」難しいのか、具体的に説明しています。"
                 },
                 {
                     "日本語": "彼はきっと、この分野のパイオニアとして記憶されるでしょう。",
-                    "英語": "He will surely be remembered as a pioneer, only to be surpassed by future work.",
-                    "ポイント": "「（期待と反して）結局～という結果になる」という意外な結果を表すonly to doです。"
+                    "英語": "He will surely be remembered as a pioneer in this field.",
+                    "ポイント": "結果を表す不定詞の用法ですが、この文では目的語を省略して簡潔にしています。"
                 },
                 {
                     "日本語": "リアルタイム性能を達成するために、GPUアクセラレーションを実装しました。",
@@ -94,18 +94,18 @@
                 },
                 {
                     "日本語": "その結論に飛びつくのは、あまりに早計です。",
-                    "英語": "It is too early to jump to that conclusion based on this single experiment.",
+                    "英語": "It is too early to jump to that conclusion.",
                     "ポイント": "earlyという形容詞を「何をするには」早いのか、to jump...が説明しています。"
                 },
                 {
                     "日本語": "そのような素晴らしい発表を聞くことができ、光栄に思います。",
-                    "英語": "I am honored to have the opportunity to listen to such a great presentation.",
+                    "英語": "I am honored to listen to such a great presentation.",
                     "ポイント": "honoredという感情の「原因」を説明しています。"
                 },
                 {
                     "日本語": "このARシステムは、セットアップが簡単です。",
-                    "英語": "This augmented-reality system is quite easy to set up and calibrate.",
-                    "ポイント": "easyという形容詞を、to set up and calibrateが具体的に説明しています。"
+                    "英語": "This augmented-reality system is quite easy to set up.",
+                    "ポイント": "easyという形容詞を、to set upが具体的に説明しています。"
                 },
                 {
                     "日本語": "ノイズの多い点群を扱えるように、私たちのアルゴリズムは頑健です。",
@@ -120,7 +120,7 @@
             "例文": [
                 {
                     "日本語": "コードを公開するご予定はありますか？",
-                    "英語": "Do you have any plans to release your source code in the future?",
+                    "英語": "Do you have any plans to release your source code?",
                     "ポイント": "plansという名詞を「何の」計画なのか、to release...が後ろから修飾しています。"
                 },
                 {
@@ -150,7 +150,7 @@
                 },
                 {
                     "日本語": "私には、あなたの質問に答えるための十分な情報がありません。",
-                    "英語": "I don't have enough information to answer your question accurately.",
+                    "英語": "I don't have enough information to answer your question.",
                     "ポイント": "informationを「何をするための」情報か、to answer...が説明しています。"
                 },
                 {
@@ -160,12 +160,12 @@
                 },
                 {
                     "日本語": "何か議論すべき点は、他にありますでしょうか？",
-                    "英語": "Are there any other points to discuss regarding this topic?",
+                    "英語": "Are there any other points to discuss?",
                     "ポイント": "pointsという名詞を「どんな」点か、to discussが後ろから修飾しています。"
                 },
                 {
                     "日本語": "彼の、その問題を解決するという決意は、素晴らしいものでした。",
-                    "英語": "His decision to solve the problem, no matter what, was admirable.",
+                    "英語": "His decision to solve the problem was admirable.",
                     "ポイント": "decisionという名詞の具体的な「内容」を、to solve...が説明しています。"
                 }
             ]
@@ -191,7 +191,7 @@
                 },
                 {
                     "日本語": "点群が粗すぎて、細かいディテールを再構成することはできませんでした。",
-                    "英語": "The point cloud was too sparse to reconstruct the fine details of the object.",
+                    "英語": "The point cloud was too sparse to reconstruct the fine details.",
                     "ポイント": "too [形容詞] to do.の構文。「…すぎて～できない」と否定的な意味合いを表します。"
                 },
                 {
@@ -206,7 +206,7 @@
                 },
                 {
                     "日本語": "なぜこのアプローチが優れているのか、理解するのは重要です。",
-                    "英語": "It is important to understand why this approach is superior to others.",
+                    "英語": "It is important to understand why this approach is superior.",
                     "ポイント": "It is important to do.の構文。「～することは重要だ」と論点を強調する際に使えます。"
                 },
                 {
@@ -216,7 +216,7 @@
                 },
                 {
                     "日本語": "この結果は、何か根本的な間違いがあることを示唆しているように思えます。",
-                    "英語": "This result seems to suggest that there is a fundamental flaw in our logic.",
+                    "英語": "This result seems to suggest that there is a fundamental flaw.",
                     "ポイント": "seem to doの構文。「～するように思える」と断定を避ける丁寧な表現です。"
                 },
                 {
@@ -231,7 +231,7 @@
                 },
                 {
                     "日本語": "私たちは、その結果を公表することに、少し気が進みませんでした。",
-                    "英語": "We were a bit reluctant to publish the results from that experiment.",
+                    "英語": "We were a bit reluctant to publish the results.",
                     "ポイント": "be reluctant to doで、「～することに気が進まない」という話者の気持ちを表します。"
                 },
                 {
@@ -246,7 +246,7 @@
                 },
                 {
                     "日本語": "リアルタイムのフィードバックは、ユーザーがシステムの状態を理解するのに役立ちます。",
-                    "英語": "The real-time feedback helps the user to understand the state of the system.",
+                    "英語": "The real-time feedback helps the user understand the state of the system.",
                     "ポイント": "help O (to) doで、「Oが～するのを助ける」という意味。toは省略されることも多いです。"
                 },
                 {
@@ -256,7 +256,7 @@
                 },
                 {
                     "日本語": "この研究は、AR技術をより利用しやすくすることを意図しています。",
-                    "英語": "This study is intended to make AR technology more accessible to everyone.",
+                    "英語": "This study is intended to make AR technology more accessible.",
                     "ポイント": "be intended to doで、「～することを意図している」という目的を表す受動態の構文です。"
                 },
                 {
