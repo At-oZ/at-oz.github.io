@@ -76,7 +76,7 @@
             const sidebarOverlay = document.getElementById('sidebar-overlay');
             const headerTitle = document.getElementById('header-title');
 
-            // --- Data Loading ---
+            // --- Data Loading (Deploy Mode) ---
             const loadInitialData = async () => {
                 try {
                     // manifest.jsonを読み込み、章のファイルリストを取得
@@ -165,7 +165,7 @@
 
             const renderChapterPage = (chapterData) => {
                 let contentHtml = '';
-                let exampleCounter = 0; // 全てのセクションを通して例文の通し番号をカウント
+                let exampleCounter = 0; // 章ごとに例文番号をカウント
 
                 contentHtml += `<header class="mb-12 text-center"><h1 class="text-4xl font-bold text-gray-900 mb-4">${chapterData.章タイトル}</h1><p class="text-lg text-gray-600">${chapterData.章の説明}</p></header>`;
                 chapterData.セクション.forEach((section, sectionIndex) => {
@@ -178,8 +178,11 @@
                         
                         contentHtml += `
                         <div class="bg-white rounded-lg shadow-md mb-6 p-6">
-                            <div class="flex flex-col sm:flex-row justify-between sm:items-center mb-4">
-                                <p class="text-lg flex-grow sm:pr-4 mb-4 sm:mb-0">${example.日本語}</p>
+                            <div class="flex flex-col sm:flex-row justify-between sm:items-start mb-4">
+                                <div class="text-lg flex-grow sm:pr-4 mb-4 sm:mb-0 flex">
+                                    <span class="text-lg font-bold text-indigo-600 w-8 flex-shrink-0">${exampleCounter}.</span>
+                                    <span>${example.日本語}</span>
+                                </div>
                                 <button onclick="toggleAnswer('${uniqueId}')" class="w-full sm:w-auto flex-shrink-0 bg-indigo-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50 transition-colors duration-300">
                                     英文表示
                                 </button>
