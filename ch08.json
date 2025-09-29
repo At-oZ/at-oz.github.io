@@ -13,7 +13,7 @@
                 },
                 {
                     "日本語": "この実験を手伝ってくれた学生に感謝したいと思います。",
-                    "英語": "I would like to thank the student who helped me with all these experiments.",
+                    "英語": "I would like to thank the student who helped me with this experiment.",
                     "ポイント": "the student（先行詞）を、who helped me...という節が説明しています。先行詞が人なのでwhoを使います。"
                 },
                 {
@@ -48,7 +48,7 @@
                 },
                 {
                     "日本語": "私たちの仮説に異議を唱える論文がいくつかあります。",
-                    "英語": "There are several papers that challenge our initial hypothesis.",
+                    "英語": "There are several papers that challenge our hypothesis.",
                     "ポイント": "several papers（先行詞）を、that challenge our hypothesis...という節が説明しています。"
                 },
                 {
@@ -69,12 +69,12 @@
                 },
                 {
                     "日本語": "あなたが言及した論文を読む機会がありませんでした。",
-                    "英語": "I didn't have a chance to read the paper that you mentioned in your talk.",
+                    "英語": "I didn't have a chance to read the paper that you mentioned.",
                     "ポイント": "the paper（先行詞）を、that you mentioned...が説明しています。mentionedの目的語がthatです。"
                 },
                 {
                     "日本語": "私たちが使ったデータセットは、オンラインで公開されています。",
-                    "英語": "The dataset which we used for the experiment is publicly available online.",
+                    "英語": "The dataset which we used is publicly available online.",
                     "ポイント": "The dataset（先行詞）を、which we used...が説明しています。usedの目的語がwhichです。"
                 },
                 {
@@ -99,18 +99,18 @@
                 },
                 {
                     "日本語": "あなたが見せてくれた点群は、非常に高密度でした。",
-                    "英語": "The point cloud you showed me was incredibly dense and detailed.",
+                    "英語": "The point cloud you showed me was incredibly dense.",
                     "ポイント": "The point cloud (that/which) you showed me...のように、関係代名詞が省略されています。"
                 },
                 {
                     "日本語": "彼が直面した技術的な困難を、私は理解しています。",
-                    "英語": "I understand the technical difficulties which he faced during development.",
+                    "英語": "I understand the technical difficulties which he faced.",
                     "ポイント": "the technical difficulties（先行詞）を、which he faced...が説明しています。"
                 },
                 {
                     "日本語": "これが、私たちがこのプロジェクトで使ったRGB-Dセンサーです。",
-                    "英語": "This is the exact RGB-D sensor we used for this project.",
-                    "ポイント": "the exact RGB-D sensor (that/which) we used...のように、関係代名詞が省略されています。"
+                    "英語": "This is the RGB-D sensor we used for this project.",
+                    "ポイント": "the ... sensor (that/which) we used...のように、目的格の関係代名詞が省略されています。"
                 }
             ]
         },
@@ -120,7 +120,7 @@
             "例文": [
                 {
                     "日本語": "私は、その人の研究を尊敬しているある研究者と話しました。",
-                    "英語": "I spoke with a researcher whose work I deeply admire in this field.",
+                    "英語": "I spoke with a researcher whose work I admire.",
                     "ポイント": "a researcher（先行詞）のwork、という所有関係をwhoseで表しています。"
                 },
                 {
@@ -135,8 +135,8 @@
                 },
                 {
                     "日本語": "彼は、その会社の最新ARグラスのデザインを担当したエンジニアです。",
-                    "英語": "He is the engineer whose design for the latest AR glasses won an award.",
-                    "ポイント": "the engineer（先行詞）のdesign、という所有関係をwhoseで表しています。"
+                    "英語": "He is the engineer whose task was designing the company's latest AR glasses.",
+                    "ポイント": "the engineer（先行詞）のtask、という所有関係をwhoseで表しています。"
                 },
                 {
                     "日本語": "リアルタイムシステムでは、遅延が問題になる時点があります。",
@@ -155,7 +155,7 @@
                 },
                 {
                     "日本語": "私は、その人の論文が頻繁に引用されるある教授を知っています。",
-                    "英語": "I know a professor whose papers are frequently cited in our field.",
+                    "英語": "I know a professor whose papers are frequently cited.",
                     "ポイント": "a professor（先行詞）のpapers、という所有関係をwhoseで表しています。"
                 },
                 {
@@ -191,7 +191,7 @@
             "例文": [
                 {
                     "日本語": "ここで重要なのは、システムのリアルタイム性能です。",
-                    "英語": "What is important to understand here is the real-time performance of the system.",
+                    "英語": "What is important here is the real-time performance of the system.",
                     "ポイント": "What = The thing that。What is important...で「重要なことは～」という主語の塊を作ります。"
                 },
                 {
@@ -256,7 +256,7 @@
                 },
                 {
                     "日本語": "どんな理由であれ、実験を延期することはできません。",
-                    "英語": "For whatever reason, we cannot postpone the experiment any further.",
+                    "英語": "For whatever reason, we cannot postpone the experiment.",
                     "ポイント": "whatever+名詞で、「どんな～であれ」という譲歩の意味を表す複合関係代名詞です。"
                 },
                 {

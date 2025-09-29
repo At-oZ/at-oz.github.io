@@ -8,7 +8,7 @@
             "例文": [
                 {
                     "日本語": "マルチビューカメラをキャリブレーションすることは、不可欠な最初のステップです。",
-                    "英語": "Calibrating the multi-view cameras is an essential first step in our pipeline.",
+                    "英語": "Calibrating the multi-view cameras is an essential first step.",
                     "ポイント": "Calibrating...という行為が文全体の主語になっています。"
                 },
                 {
@@ -69,7 +69,7 @@
                 },
                 {
                     "日本語": "カメラの内部パラメータをもう一度確認することを提案します。",
-                    "英語": "I would suggest checking the camera's intrinsic parameters again for accuracy.",
+                    "英語": "I would suggest checking the camera's intrinsic parameters again.",
                     "ポイント": "suggestも目的語に動名詞をとります。suggest to checkとは言いません。"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "日本語": "彼は、私たちのマルチビューデータセットを使ったことを認めました。",
-                    "英語": "He admitted using our multi-view dataset without a proper citation.",
+                    "英語": "He admitted using our multi-view dataset.",
                     "ポイント": "admitも目的語に動名詞をとる動詞です。"
                 },
                 {
@@ -99,12 +99,12 @@
                 },
                 {
                     "日本語": "この手法は、テクスチャのない表面の扱いをあきらめています。",
-                    "英語": "This method gives up handling texture-less surfaces to simplify the problem.",
+                    "英語": "This method gives up handling texture-less surfaces.",
                     "ポイント": "give up (あきらめる)も、目的語に動名詞をとります。"
                 },
                 {
                     "日本語": "この問題について議論し続けることは、非常に有益だと思います。",
-                    "英語": "I think it's very fruitful to keep discussing this interesting problem.",
+                    "英語": "I think it's very fruitful to keep discussing this problem.",
                     "ポイント": "keep ...ingで「～し続ける」という意味。keepは動名詞を目的語にとります。"
                 },
                 {
@@ -135,7 +135,7 @@
                 },
                 {
                     "日本語": "レンダリングパイプラインを最適化することによって、速度を改善しました。",
-                    "英語": "We improved the speed by optimizing the rendering pipeline significantly.",
+                    "英語": "We improved the speed by optimizing the rendering pipeline.",
                     "ポイント": "by ...ingで「～することによって」という手段を表す、非常によく使われる形です。"
                 },
                 {
@@ -206,7 +206,7 @@
             "例文": [
                 {
                     "日本語": "私たちの手法がGPUを必要としないことは、特筆に値します。",
-                    "英語": "It is worth noting that our method does not require a powerful GPU.",
+                    "英語": "It is worth noting that our method does not require a GPU.",
                     "ポイント": "It's worth ...ingで「～する価値がある」という意味の頻出表現です。"
                 },
                 {
@@ -251,7 +251,7 @@
                 },
                 {
                     "日本語": "その結果が何を意味するのか、推測のしようがありません。",
-                    "英語": "There is no telling what that result implies for our future research.",
+                    "英語": "There is no telling what that result implies.",
                     "ポイント": "There is no ...ingで「～することはできない」という意味の慣用表現です。"
                 },
                 {
