@@ -157,7 +157,7 @@
                 const page = pages.find(p => p.id === pageId);
                 if (!page) return;
                 
-                headerTitle.textContent = page.title;
+                // headerTitle.textContent = page.title;
                 renderChapterPage(page.data);
                 renderSidebar();
                 window.scrollTo(0, 0);
